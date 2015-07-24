@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <title>E&C Metrics</title>
+    <!--script type="text/javascript" src="http://mbostock.github.com/d3/d3.js?2.4.6"></script>
+    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.layout.js?2.4.6"></script>
+    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.csv.js?2.4.6"></script-->
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <style type="text/css">
+
+body {
+  width: 960px;
+  //margin: auto;
+  position: relative;
+  font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#circle circle {
+  fill: none;
+  pointer-events: all;
+}
+
+.group path {
+  fill-opacity: 0.5;
+}
+
+path.chord {
+  stroke: #000;
+  stroke-width: .25px;
+}
+
+#circle:hover path.fade {
+  display: none;
+}
+
+/*
+.group text {
+  font: 11px sans-serif;
+  pointer-events: none;
+}
+
+.group path {
+  stroke: #000;
+}
+
+path.chord {
+  stroke-width: .75;
+  fill-opacity: .75;
+}
+
+#circle:hover path.fade {
+  display: none;
+}*/
+
+    </style>
+  </head>
+  <body>
+    <script type="text/javascript">
+
+// Chart dimensions.
+var margin = {top: 50, right: 50, bottom: 50, left: 50},
+    w = 1300- margin.right - margin.left,
+    h = 1350 - margin.top - margin.bottom,
+    r1 = Math.min(w, h) / 2 - 150,
+    r0 = r1 - 20,
+    format = d3.format(",.3r"),
+    formatPercent = d3.format("%");
+
+
+
+// Square matrices, asynchronously loaded; acquired is the transpose of failures.
+var metrics = [],
+    usage = [];
+
+// The chord layout, for computing the angles of chords and groups.
+var layout = d3.layout.chord()
+    .sortGroups(d3.descending)
+    .sortSubgroups(d3.descending)
+    .sortChords(d3.descending)
+    .padding(.04);
+
+// The color scale, for different categories of "worrisome" Year.
+/*var fill = d3.scale.ordinal()
+    .domain(d3.range(2008,2015))
+    .range(["#DB704D", "#D2D0C6", "#ECD08D", "#F8EDD3"]);*/
+var fill = d3.scale.category20();
+
+// The arc generator, for the groups.
+var arc = d3.svg.arc()
+    .innerRadius(r0)
+    .outerRadius(r1);
+
+// The chord generator (quadratic Bézier), for the chords.
+var path = d3.svg.chord()
+    .radius(r0);
+
+var svg = d3.select("body").selectAll("div")
+  .data([metrics, usage])
+  .enter().append("div")
+    .style("display", "inline-block")
+    .style("width", w + "px")
+    .style("height", h + "px")
+  .append("svg")
+    .attr("width", w)
+    .attr("height", h)
+  .append("g")
+    .attr("id", "circle")
+    .attr("transform", "translate(" + w / 2 + "," + h / 2 + ")");
+
+svg.append("circle")
+    .attr("r", r1);
+
+/*// Add an SVG element for each diagram, and translate the origin to the center.
+var svg = d3.select("body").selectAll("div")
+  .data([metrics, usage])
+  .enter().append("div")
+    .style("display", "inline-block")
+    .style("width", w + "px")
+    .style("height", h + "px")
+  .append("svg:svg")
+    .attr("width", w)
+    .attr("height", h)
+  .append("svg:g")
+    .attr("transform", "translate(" + w / 2 + "," + h / 2 + ")");*/
+
+// Load our data file…
+d3.csv("/examples/ChordECMetrics/Q23per_flat1.csv", function(data) {
+  var entities = {},
+      array = [],
+      arr = [],
+      n = 0;
+      total = 0;
+
+  // Compute a unique id for each bank.
+  data.forEach(function(d) {
+    d.Metric = entity(d.Metric);
+    d.Usage = entity(d.Usage);
+    d.valueOf = value; // convert object to number implicitly
+    total += parseFloat(d.Percentage);
+  });
+
+  // Initialize a square matrix of failures and acquired.
+  for (var i = 0; i < n; i++) {
+    metrics[i] = [];
+    usage[i] = [];
+    for (var j = 0; j < n; j++) {
+      metrics[i][j] = 0;
+      usage[i][j] = 0;
+    }
+  }
+
+  // Populate the matrices, and stash a map from id to bank.
+  data.forEach(function(d) {
+    metrics[d.Usage.id][d.Metric.id] = d;
+    usage[d.Metric.id][d.Usage.id] = d;
+    array[d.Metric.id] = d.Metric;
+    array[d.Usage.id] = d.Usage;
+  });
+
+  // For each diagram…
+  svg.each(function(matrix, j) {
+    var svg = d3.select(this);
+
+    // Compute the chord layout.
+    layout.matrix(matrix);
+
+    // Add groups.
+    var g = svg.selectAll(".group")
+        .data(layout.groups)
+      .enter().append("g")
+        .attr("class", "group")
+        .on("mouseover", mouseover);
+
+    // Add the group arc.
+    var gPath = g.append("path")
+        .style("fill", function(d) { return fill(array[d.index].name); })
+        .attr("id", function(d, i) { return "group" + d.index + "-" + j; })
+        .attr("d", arc)
+      gPath.append("title")
+        .text(function(d) { return array[d.index].name; });
+
+    // Add the group label (but only for large groups, where it will fit).
+    // An alternative labeling mechanism would be nice for the small groups.
+    /*g.append("svg:text")
+        .attr("x", 6)
+        .attr("dy", 15)
+        .filter(function(d) { return d.value > 0; })
+      .append("svg:textPath")
+        .attr("xlink:href", function(d) { return "#group" + d.index + "-" + j; })
+        .text(function(d) { return array[d.index].name; });*/
+      var txt = g.append("text")
+          //.each(function(d) { d.angle = (d.startAngle + d.endAngle) / 2; arr[d.index] = array[d.index].name.split(" ");})
+          //.each(function(d) { d.angle = (d.startAngle + d.endAngle) / 2; arr[d.index] = wordwrap(array[d.index].name, 25);})
+          .each(function(d,i) { d.angle = (d.startAngle + d.endAngle) / 2; j ?  arr[d.index] = wordwrap(array[d.index].name, 25) : arr[d.index] = wordwrap(array[d.index].name, gPath[0][i].getTotalLength() < 63 ? 50: 25);})
+
+          //.attr("x", "2.5em")
+          //.attr("dy", ".35em")
+          .style("font-family", "helvetica, arial, sans-serif")
+          .style("font-size", "10px")
+          .attr("text-anchor", function(d) { return d.angle > Math.PI ? "end" : null; })
+          .attr("transform", function(d) {
+           return "rotate(" + (d.angle * 180 / Math.PI - 90) + ")"
+             + "translate(" + (r1 + 60) + ")"
+             + (d.angle > Math.PI ? "rotate(180)" : "");
+           })
+          //.text(function(d) { return array[d.index].name; });
+      for (i = 0; i < arr.length; i++) {
+          txt.append("tspan")
+             .text(function(d) {return arr[d.index][i];})
+             //.attr("dy", i ? "1.2em" : 0)
+             .attr("y", (i-1)*1.2 + "em")
+             .attr("x", ".2em")
+             .attr("text-anchor", "middle")
+             .attr("class", "tspan" + i);
+      }
+
+    // Add chords.
+  var chord = svg.selectAll(".chord")
+        .data(layout.chords)
+      .enter().append("path")
+        .attr("class", "chord")
+        .style("fill", function(d) { return d.source.value !=0 ? fill(j ? d.source.value.Metric.name : d.source.value.Usage.name) : fill(""); })
+        .style("stroke", function(d) { return d.source.value !=0 ? d3.rgb(fill(j ? d.source.value.Metric.name : d.source.value.Usage.name)).darker() : d3.rgb(fill("")).darker(); })
+        .attr("d", path);
+
+      chord.append("title")
+        .text(function(d) {return d.source.value !=0 ? d.source.value.Metric.name + " reported by " + formatPercent(d.source.value) + " was regularly " + d.source.value.Usage.name : " "; });
+ 
+    function mouseover(d, i) {
+      chord.classed("fade", function(p) {
+        return p.source.index != i
+            && p.target.index != i;
+      });
+    }           
+          
+  });
+
+  // Memoize the specified bank, computing a unique id.
+  function entity(d) {
+    return entities[d] || (entities[d] = {
+      name: d,
+      id: n++
+    });
+  }
+
+  // Converts a debit object to its primitive numeric value.
+  function value() {    
+    return +parseFloat(this.Percentage);
+  }
+
+  function wordwrap(text, max) {
+    var regex = new RegExp(".{0,"+max+"}(?:\\s|$)","g");
+    var lines = []
+
+    var line
+    while ((line = regex.exec(text))!="") {
+        lines.push(line);
+    } 
+
+    return lines
+}
+
+
+});
+
+    </script>
+  </body>
+</html>
