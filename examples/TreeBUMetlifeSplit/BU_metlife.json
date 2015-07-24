@@ -1,0 +1,197 @@
+{"name": "Line of Business", "children":[
+  {
+    "name": "Americas Region", 
+    "children": [
+      {
+        "index": 2.314403994, 
+        "name": "Living the values - Encouraging speaking up", 
+        "value": 0.16787546449999999
+      }, 
+      {
+        "index": 2.279992561, 
+        "name": "Living the values - Avoiding taking shortcuts", 
+        "value": 0.16787546449999999
+      }
+    ]
+  }, 
+  {
+    "name": "ASIA - Office of the President", 
+    "children": [
+      {
+        "index": 2.357406737, 
+        "name": "Living the values - Encouraging speaking up", 
+        "value": 0.074208385000000002
+      }, 
+      {
+        "index": 1.790185645, 
+        "name": "Living the values - Avoiding taking shortcuts", 
+        "value": 0.074208385000000002
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate Affairs", 
+    "children": [
+      {
+        "index": 1.945010504, 
+        "name": "Living the values - Encouraging speaking up", 
+        "value": 0.0015036265
+      }, 
+      {
+        "index": 1.7873986240000002, 
+        "name": "Living the values - Avoiding taking shortcuts", 
+        "value": 0.0015036265
+      }
+    ]
+  }, 
+  {
+    "name": "EMEA", 
+    "children": [
+      {
+        "index": 2.046942913, 
+        "name": "Living the values - Encouraging speaking up", 
+        "value": 0.016893684999999999
+      }, 
+      {
+        "index": 1.934509436, 
+        "name": "Living the values - Avoiding taking shortcuts", 
+        "value": 0.016893684999999999
+      }
+    ]
+  }, 
+  {
+    "name": "Financial Management Group", 
+    "children": [
+      {
+        "index": 2.063885151, 
+        "name": "Living the values - Encouraging speaking up", 
+        "value": 0.035556342000000005
+      }, 
+      {
+        "index": 1.97273311, 
+        "name": "Living the values - Avoiding taking shortcuts", 
+        "value": 0.035556342000000005
+      }
+    ]
+  }, 
+  {
+    "name": "Global Brand & Marketing", 
+    "children": [
+      {
+        "index": 2.001472635, 
+        "name": "Living the values - Encouraging speaking up", 
+        "value": 0.0012382805
+      }, 
+      {
+        "index": 1.69212038, 
+        "name": "Living the values - Avoiding taking shortcuts", 
+        "value": 0.0012382805
+      }
+    ]
+  }, 
+  {
+    "name": "Global Employee Benefits", 
+    "children": [
+      {
+        "index": 1.863851938, 
+        "name": "Living the values - Encouraging speaking up", 
+        "value": 0.0016805235000000001
+      }, 
+      {
+        "index": 1.8738548069999998, 
+        "name": "Living the values - Avoiding taking shortcuts", 
+        "value": 0.0016805235000000001
+      }
+    ]
+  }, 
+  {
+    "name": "Global Risk Management", 
+    "children": [
+      {
+        "index": 2.1041937230000003, 
+        "name": "Living the values - Encouraging speaking up", 
+        "value": 0.0019458695000000002
+      }, 
+      {
+        "index": 2.067560196, 
+        "name": "Living the values - Avoiding taking shortcuts", 
+        "value": 0.0019458695000000002
+      }
+    ]
+  }, 
+  {
+    "name": "Global Technology & Operations", 
+    "children": [
+      {
+        "index": 2.128020678, 
+        "name": "Living the values - Encouraging speaking up", 
+        "value": 0.159738192
+      }, 
+      {
+        "index": 1.932999944, 
+        "name": "Living the values - Avoiding taking shortcuts", 
+        "value": 0.159738192
+      }
+    ]
+  }, 
+  {
+    "name": "Human Resources", 
+    "children": [
+      {
+        "index": 2.174706925, 
+        "name": "Living the values - Encouraging speaking up", 
+        "value": 0.011586768000000001
+      }, 
+      {
+        "index": 2.0623052680000002, 
+        "name": "Living the values - Avoiding taking shortcuts", 
+        "value": 0.011586768000000001
+      }
+    ]
+  }, 
+  {
+    "name": "Internal Audit", 
+    "children": [
+      {
+        "index": 2.203157259, 
+        "name": "Living the values - Encouraging speaking up", 
+        "value": 0.0045993279999999997
+      }, 
+      {
+        "index": 2.063032637, 
+        "name": "Living the values - Avoiding taking shortcuts", 
+        "value": 0.0045993279999999997
+      }
+    ]
+  }, 
+  {
+    "name": "Investments", 
+    "children": [
+      {
+        "index": 2.0138519219999997, 
+        "name": "Living the values - Encouraging speaking up", 
+        "value": 0.0092871040000000009
+      }, 
+      {
+        "index": 1.9972113759999999, 
+        "name": "Living the values - Avoiding taking shortcuts", 
+        "value": 0.0092871040000000009
+      }
+    ]
+  }, 
+  {
+    "name": "Legal Affairs", 
+    "children": [
+      {
+        "index": 1.9763006230000002, 
+        "name": "Living the values - Encouraging speaking up", 
+        "value": 0.013886431999999999
+      }, 
+      {
+        "index": 1.8770774380000002, 
+        "name": "Living the values - Avoiding taking shortcuts", 
+        "value": 0.013886431999999999
+      }
+    ]
+  }
+]}
