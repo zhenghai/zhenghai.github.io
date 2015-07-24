@@ -1,0 +1,2955 @@
+{"name": "Topic Area", "children":[
+  {
+    "name": "Anti-Corruption & Bribery", 
+    "children": [
+      {
+        "name": "Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "INT409", 
+            "children": [
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA", 
+        "children": [
+          {
+            "name": "DBA216", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 1.5341199999999998e-05
+              }, 
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 7.98285e-05
+              }, 
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.000314971
+              }, 
+              {
+                "name": "Altera Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.000208843
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 5.9021199999999997e-05
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 7.737230000000001e-06
+              }
+            ]
+          }, 
+          {
+            "name": "DBA216Af", 
+            "children": [
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA217", 
+            "children": [
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 7.82934e-05
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBA001", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Global, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBE405", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT405", 
+            "children": [
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Molex Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "UKBA", 
+        "children": [
+          {
+            "name": "DBE110", 
+            "children": [
+              {
+                "name": "Molex Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Technicolor Inc", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Competition", 
+    "children": [
+      {
+        "name": "Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP001", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP101", 
+            "children": [
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP212", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 9.10595e-05
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP213", 
+            "children": [
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.00030031400000000004
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 1.0316300000000001e-05
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP214", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.000267331
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 1.5341199999999998e-05
+              }, 
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 0.00028247
+              }, 
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.00019912
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.000152426
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.000104155
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Competition - General", 
+        "children": [
+          {
+            "name": "CME406", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Texas Instruments", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP231", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT400", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 7.737230000000001e-06
+              }
+            ]
+          }, 
+          {
+            "name": "INT406", 
+            "children": [
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "European Union", 
+        "children": [
+          {
+            "name": "DBA237", 
+            "children": [
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.00010137
+              }, 
+              {
+                "name": "Technicolor Inc", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Intellectual Property", 
+        "children": [
+          {
+            "name": "INT404", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY211", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 8.67958e-05
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 2.57908e-05
+              }
+            ]
+          }, 
+          {
+            "name": "IPY212", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY216", 
+            "children": [
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY222", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY230", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY235", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY250", 
+            "children": [
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 6.447689999999999e-05
+              }, 
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.000308937
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY411", 
+            "children": [
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "M&A, Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP245", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest", 
+    "children": [
+      {
+        "name": "Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH103", 
+            "children": [
+              {
+                "name": "Molex Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH211", 
+            "children": [
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH212", 
+            "children": [
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Molex Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 9.026770000000001e-06
+              }
+            ]
+          }, 
+          {
+            "name": "ETH221", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 1.54745e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Government Contracting & Relationships - General, Conflicts of Interest", 
+        "children": [
+          {
+            "name": "DEF210", 
+            "children": [
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate governance", 
+    "children": [
+      {
+        "name": "Corporate Governance - General", 
+        "children": [
+          {
+            "name": "COM245", 
+            "children": [
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "CMP436", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM303", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ethical Sales", 
+        "children": [
+          {
+            "name": "CMP225", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP435", 
+            "children": [
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 0.000138165
+              }, 
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.00010392700000000001
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial integrity", 
+        "children": [
+          {
+            "name": "COM460", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM470", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Technicolor Inc", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "CSR", 
+    "children": [
+      {
+        "name": "Environmental", 
+        "children": [
+          {
+            "name": "ENV311", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Environmental, Health & Safety; Corporate Governance - General", 
+        "children": [
+          {
+            "name": "ENV205", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV220", 
+            "children": [
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 1.20679e-06
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Environmental; HOW - General", 
+        "children": [
+          {
+            "name": "SUS100", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management", 
+    "children": [
+      {
+        "name": "Code of Conduct", 
+        "children": [
+          {
+            "name": "ETG900", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH215", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH999", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Technicolor Inc", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Education & Communication", 
+        "children": [
+          {
+            "name": "ETH400", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 0.00050626
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management, HOW", 
+    "children": [
+      {
+        "name": "Education & Communication, HOW - General", 
+        "children": [
+          {
+            "name": "ETH006", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment", 
+    "children": [
+      {
+        "name": "Claims & Litigation", 
+        "children": [
+          {
+            "name": "COM211", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General", 
+        "children": [
+          {
+            "name": "CMP226", 
+            "children": [
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 5.83362e-05
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 7.290850000000001e-05
+              }
+            ]
+          }, 
+          {
+            "name": "CMP227", 
+            "children": [
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR216", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR231", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.004942095
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General, Compensation", 
+        "children": [
+          {
+            "name": "HUR237", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR265", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Texas Instruments", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR703", 
+            "children": [
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.00017863
+              }, 
+              {
+                "name": "Texas Instruments", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR001", 
+            "children": [
+              {
+                "name": "Altera Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR002", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR220", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR222", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR223", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR241", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.005299355
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 3.8686099999999995e-06
+              }
+            ]
+          }, 
+          {
+            "name": "HUR247", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR420", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR423", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 1.16058e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR602", 
+            "children": [
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 0.000147376
+              }, 
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.001163343
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.000952693
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.002397301
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 3.0682399999999996e-05
+              }, 
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.000150848
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.00041680300000000004
+              }, 
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Texas Instruments", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR704", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 1.80535e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 6.136479999999999e-05
+              }, 
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.014052221
+              }, 
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Molex Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 2.96594e-05
+              }, 
+              {
+                "name": "Texas Instruments", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Af", 
+            "children": [
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR706", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.000770747
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.000575134
+              }
+            ]
+          }, 
+          {
+            "name": "HUR707", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.000746444
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.000559659
+              }
+            ]
+          }, 
+          {
+            "name": "HUR708", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR710", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 4.60236e-05
+              }, 
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 2.6097800000000003e-05
+              }, 
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Molex Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.00100336
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.001124477
+              }
+            ]
+          }, 
+          {
+            "name": "HUR711", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Molex Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715", 
+            "children": [
+              {
+                "name": "Altera Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Technicolor Inc", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Texas Instruments", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Aa", 
+            "children": [
+              {
+                "name": "Altera Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Technicolor Inc", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Texas Instruments", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ba", 
+            "children": [
+              {
+                "name": "Altera Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Technicolor Inc", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Texas Instruments", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ca", 
+            "children": [
+              {
+                "name": "Altera Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Technicolor Inc", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Texas Instruments", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR716A", 
+            "children": [
+              {
+                "name": "Altera Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Technicolor Inc", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR716B", 
+            "children": [
+              {
+                "name": "Altera Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Technicolor Inc", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR716C", 
+            "children": [
+              {
+                "name": "Altera Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Technicolor Inc", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR716D", 
+            "children": [
+              {
+                "name": "Altera Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Technicolor Inc", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR721", 
+            "children": [
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW103", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety", 
+        "children": [
+          {
+            "name": "HUR251", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 8.15881e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR252", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR253", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT403", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR100", 
+            "children": [
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Recruiting/Hiring, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR285", 
+            "children": [
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 6.31874e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Corporate governance", 
+    "children": [
+      {
+        "name": "Employment - General, Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "COM302", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gifts & Entertainment", 
+    "children": [
+      {
+        "name": "Gifts & Entertainment - General", 
+        "children": [
+          {
+            "name": "DEF415", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH002", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Molex Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH227", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Government Contracting & Relationships - General", 
+        "children": [
+          {
+            "name": "COM240", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF300", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF305", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW", 
+    "children": [
+      {
+        "name": "Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH001", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH206", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.00053589
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.000111099
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 1.16058e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH351", 
+            "children": [
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW101", 
+            "children": [
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.018696598999999998
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "HOW - General", 
+        "children": [
+          {
+            "name": "HOW001As", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "HOW - General, Inspirational Leadership", 
+        "children": [
+          {
+            "name": "ETH110", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH325", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 1.54745e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH325As", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Respectful Communication", 
+        "children": [
+          {
+            "name": "COM110", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, Corporate governance", 
+    "children": [
+      {
+        "name": "HOW - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "ETH230", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, CSR", 
+    "children": [
+      {
+        "name": "HOW - General, CSR - General", 
+        "children": [
+          {
+            "name": "HOW001", 
+            "children": [
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, E&C Program Management", 
+    "children": [
+      {
+        "name": "Inspirational Leadership, Education & Communication", 
+        "children": [
+          {
+            "name": "ETH003", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Data Privacy", 
+        "children": [
+          {
+            "name": "COE407", 
+            "children": [
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM003", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM455", 
+            "children": [
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA246", 
+            "children": [
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.00014549700000000002
+              }
+            ]
+          }, 
+          {
+            "name": "INT407", 
+            "children": [
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "External Communication", 
+        "children": [
+          {
+            "name": "COM001", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM002", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM205", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM206", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 6.75472e-05
+              }, 
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.001181444
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.003751229
+              }, 
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0012669139999999998
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.00014581700000000002
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 5.4160600000000005e-05
+              }
+            ]
+          }, 
+          {
+            "name": "COM235", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM236", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.001299709
+              }, 
+              {
+                "name": "Altera Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 5.9543299999999996e-05
+              }, 
+              {
+                "name": "Molex Incorporated", 
+                "size": 6.83846e-07
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.008162279
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 3.09489e-05
+              }
+            ]
+          }, 
+          {
+            "name": "COM420", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Technicolor Inc", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Information security", 
+        "children": [
+          {
+            "name": "COM004", 
+            "children": [
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM221", 
+            "children": [
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM230", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM410", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.003393969
+              }, 
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Technicolor Inc", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM410As", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM410Bf", 
+            "children": [
+              {
+                "name": "Altera Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Insurance, Data Privacy", 
+        "children": [
+          {
+            "name": "HEA426", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Privacy & Data Protection - General", 
+        "children": [
+          {
+            "name": "DBA546", 
+            "children": [
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.000279975
+              }, 
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.000768067
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection, Industries", 
+    "children": [
+      {
+        "name": "Data Privacy, Healthcare", 
+        "children": [
+          {
+            "name": "HEA445", 
+            "children": [
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.00039888
+              }
+            ]
+          }, 
+          {
+            "name": "HEA455", 
+            "children": [
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Records Management", 
+    "children": [
+      {
+        "name": "Records Management - General", 
+        "children": [
+          {
+            "name": "HUR107", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR275", 
+            "children": [
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Altera Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.023698237
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT408", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM542", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 1.41849e-05
+              }
+            ]
+          }, 
+          {
+            "name": "COM543", 
+            "children": [
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up", 
+        "children": [
+          {
+            "name": "COM244", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading", 
+    "children": [
+      {
+        "name": "Insider Trading", 
+        "children": [
+          {
+            "name": "CMP002", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP105", 
+            "children": [
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP222", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 4.60236e-05
+              }, 
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 5.6801099999999994e-05
+              }, 
+              {
+                "name": "Agilent Technologies, Inc.", 
+                "size": 0.000611841
+              }, 
+              {
+                "name": "Altera Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.02429367
+              }, 
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0005493259999999999
+              }, 
+              {
+                "name": "Molex Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 6.44769e-06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General", 
+        "children": [
+          {
+            "name": "CGV401", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CGV402", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM440", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 7.737230000000001e-06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Lobbying", 
+        "children": [
+          {
+            "name": "COM215", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM226", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security", 
+        "children": [
+          {
+            "name": "COM207", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM208", 
+            "children": [
+              {
+                "name": "Qualcomm Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection, HOW", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM207Af", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Supply Chain", 
+    "children": [
+      {
+        "name": "Child/Forced Labor, Human Rights", 
+        "children": [
+          {
+            "name": "CSR201", 
+            "children": [
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Trade Controls", 
+    "children": [
+      {
+        "name": "Trade Controls - General", 
+        "children": [
+          {
+            "name": "DBA206", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 1.5341199999999998e-05
+              }, 
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "InterDigital Communications Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.000138569
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 5.9021199999999997e-05
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA211", 
+            "children": [
+              {
+                "name": "Advanced Energy Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA220", 
+            "children": [
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 4.35502e-05
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA221", 
+            "children": [
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA255", 
+            "children": [
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "(blank)", 
+    "children": [
+      {
+        "name": "(blank)", 
+        "children": [
+          {
+            "name": "CER003", 
+            "children": [
+              {
+                "name": "GrafTech International", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MEMC Electronic Materials Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER006", 
+            "children": [
+              {
+                "name": "Micron Technology, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP200", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP201", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP215", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP216", 
+            "children": [
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP230", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP235", 
+            "children": [
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM210", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM220", 
+            "children": [
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM225", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA205", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA215", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF205", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH210", 
+            "children": [
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR215", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR221", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR225", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR226", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR227", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR600", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR601", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR714", 
+            "children": [
+              {
+                "name": "Thales USA, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY200", 
+            "children": [
+              {
+                "name": "Advanced Micro Devices", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY205", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY206", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY215", 
+            "children": [
+              {
+                "name": "Panasonic Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]}

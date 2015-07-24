@@ -1,0 +1,5098 @@
+{"name": "Topic Area", "children":[
+  {
+    "name": "Employment", 
+    "children": [
+      {
+        "name": "Claims & Litigation", 
+        "children": [
+          {
+            "name": "COM211", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002370493
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General", 
+        "children": [
+          {
+            "name": "CMP226", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.045907937999999995
+              }
+            ]
+          }, 
+          {
+            "name": "CMP227", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.003999075
+              }
+            ]
+          }, 
+          {
+            "name": "DEF220", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002171444
+              }
+            ]
+          }, 
+          {
+            "name": "HUR216", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.014566438999999999
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.004442412
+              }
+            ]
+          }, 
+          {
+            "name": "HUR231", 
+            "children": [
+              {
+                "name": "Raydon Corporation", 
+                "size": 1.6084317519999998
+              }, 
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.023751646
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.008866728
+              }
+            ]
+          }, 
+          {
+            "name": "HUR255", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.007536719
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General, Compensation", 
+        "children": [
+          {
+            "name": "HUR237", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002994783
+              }
+            ]
+          }, 
+          {
+            "name": "HUR238", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00285002
+              }
+            ]
+          }, 
+          {
+            "name": "HUR265", 
+            "children": [
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0015200110000000001
+              }
+            ]
+          }, 
+          {
+            "name": "HUR703", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001547154
+              }
+            ]
+          }, 
+          {
+            "name": "INT401", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.009735305999999999
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR001", 
+            "children": [
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.004234315
+              }
+            ]
+          }, 
+          {
+            "name": "HUR002", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.005718135
+              }
+            ]
+          }, 
+          {
+            "name": "HUR102", 
+            "children": [
+              {
+                "name": "BAE Systems North America, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR220", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.059286334
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000407146
+              }
+            ]
+          }, 
+          {
+            "name": "HUR222", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0013209620000000002
+              }
+            ]
+          }, 
+          {
+            "name": "HUR223", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000208097
+              }
+            ]
+          }, 
+          {
+            "name": "HUR241", 
+            "children": [
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.03460689
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.015670585
+              }
+            ]
+          }, 
+          {
+            "name": "HUR247", 
+            "children": [
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.013363426000000001
+              }
+            ]
+          }, 
+          {
+            "name": "HUR248", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.031869884
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.025197794
+              }
+            ]
+          }, 
+          {
+            "name": "HUR250", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.014458196000000001
+              }
+            ]
+          }, 
+          {
+            "name": "HUR420", 
+            "children": [
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00573623
+              }
+            ]
+          }, 
+          {
+            "name": "HUR423", 
+            "children": [
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002650971
+              }
+            ]
+          }, 
+          {
+            "name": "HUR522", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000687624
+              }
+            ]
+          }, 
+          {
+            "name": "HUR541", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001266675
+              }
+            ]
+          }, 
+          {
+            "name": "HUR602", 
+            "children": [
+              {
+                "name": "Hexcel Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.538771175
+              }, 
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.31842049899999997
+              }, 
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.514928255
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.058420882
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702", 
+            "children": [
+              {
+                "name": "BAE Systems North America, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.10103727400000001
+              }, 
+              {
+                "name": "Hexcel Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.08249933599999999
+              }, 
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.19070901399999998
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.020583476
+              }
+            ]
+          }, 
+          {
+            "name": "HUR704", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.037104543999999996
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705", 
+            "children": [
+              {
+                "name": "AERCAP", 
+                "size": 0.0
+              }, 
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.819524554
+              }, 
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Marinette Marine Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 2.1515650859999997
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.061913288
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Af", 
+            "children": [
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.004695747
+              }
+            ]
+          }, 
+          {
+            "name": "HUR706", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.003401928
+              }
+            ]
+          }, 
+          {
+            "name": "HUR707", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001746203
+              }
+            ]
+          }, 
+          {
+            "name": "HUR708", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.008405296999999999
+              }
+            ]
+          }, 
+          {
+            "name": "HUR709", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0033114520000000003
+              }
+            ]
+          }, 
+          {
+            "name": "HUR710", 
+            "children": [
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.074502232
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000615242
+              }
+            ]
+          }, 
+          {
+            "name": "HUR711", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR713", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715", 
+            "children": [
+              {
+                "name": "AERCAP", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Hexcel Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Aa", 
+            "children": [
+              {
+                "name": "AERCAP", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Hexcel Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ba", 
+            "children": [
+              {
+                "name": "AERCAP", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Hexcel Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ca", 
+            "children": [
+              {
+                "name": "AERCAP", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Hexcel Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR720", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR750", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW103", 
+            "children": [
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.024302074
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety", 
+        "children": [
+          {
+            "name": "HUR206", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002750495
+              }
+            ]
+          }, 
+          {
+            "name": "HUR251", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.050286687000000004
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.014593911000000001
+              }
+            ]
+          }, 
+          {
+            "name": "HUR252", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.005202417
+              }
+            ]
+          }, 
+          {
+            "name": "HUR253", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.003718597
+              }
+            ]
+          }, 
+          {
+            "name": "HUR280", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002470017
+              }
+            ]
+          }, 
+          {
+            "name": "HUR282", 
+            "children": [
+              {
+                "name": "BAE Systems North America, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0025876370000000003
+              }
+            ]
+          }, 
+          {
+            "name": "INT403", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.043419825999999995
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR100", 
+            "children": [
+              {
+                "name": "BAE Systems North America, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.052241315999999996
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Labor unions", 
+        "children": [
+          {
+            "name": "HUR300", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0040533620000000005
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Recruiting/Hiring, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR285", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.029694492000000003
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Data Privacy", 
+        "children": [
+          {
+            "name": "COE407", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM003", 
+            "children": [
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002117158
+              }
+            ]
+          }, 
+          {
+            "name": "COM455", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.032345463
+              }
+            ]
+          }, 
+          {
+            "name": "DBA246", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.052095895
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.004243363
+              }
+            ]
+          }, 
+          {
+            "name": "INS231", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000760005
+              }
+            ]
+          }, 
+          {
+            "name": "INT407", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000895721
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "External Communication", 
+        "children": [
+          {
+            "name": "COM001", 
+            "children": [
+              {
+                "name": "BAE Systems North America, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.063090309
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.024311121
+              }
+            ]
+          }, 
+          {
+            "name": "COM002", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.017851076
+              }
+            ]
+          }, 
+          {
+            "name": "COM205", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM206", 
+            "children": [
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 1.9676372290000002
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.168627406
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.180148395
+              }
+            ]
+          }, 
+          {
+            "name": "COM235", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM236", 
+            "children": [
+              {
+                "name": "BAE Systems North America, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.514371575
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.000927799
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.16811711699999998
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.182717937
+              }
+            ]
+          }, 
+          {
+            "name": "COM420", 
+            "children": [
+              {
+                "name": "Hexcel Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.072191454
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Information security", 
+        "children": [
+          {
+            "name": "COM004", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001266675
+              }
+            ]
+          }, 
+          {
+            "name": "COM221", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.009174349
+              }
+            ]
+          }, 
+          {
+            "name": "COM230", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM410", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.21990391
+              }
+            ]
+          }, 
+          {
+            "name": "COM410As", 
+            "children": [
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM410Bf", 
+            "children": [
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM430", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.030237352999999998
+              }
+            ]
+          }, 
+          {
+            "name": "EGY401", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000769053
+              }
+            ]
+          }, 
+          {
+            "name": "HUR210", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.003962885
+              }
+            ]
+          }, 
+          {
+            "name": "INS300", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.010006736
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Insurance, Data Privacy", 
+        "children": [
+          {
+            "name": "HEA426", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR271", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000226192
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Privacy & Data Protection - General", 
+        "children": [
+          {
+            "name": "CMP236", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001185246
+              }
+            ]
+          }, 
+          {
+            "name": "DBA546", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.004252410999999999
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Competition", 
+    "children": [
+      {
+        "name": "Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP001", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.006197662
+              }
+            ]
+          }, 
+          {
+            "name": "CMP003", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0061795669999999995
+              }
+            ]
+          }, 
+          {
+            "name": "CMP207", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.006867191
+              }
+            ]
+          }, 
+          {
+            "name": "CMP208", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0027866859999999996
+              }
+            ]
+          }, 
+          {
+            "name": "CMP209", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0074281469999999995
+              }
+            ]
+          }, 
+          {
+            "name": "CMP212", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.084740589
+              }
+            ]
+          }, 
+          {
+            "name": "CMP213", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.056177057
+              }
+            ]
+          }, 
+          {
+            "name": "CMP214", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.040967904
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.084476068
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.227323009
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300Af", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002243825
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Competition - General", 
+        "children": [
+          {
+            "name": "CME001", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CME406", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CME501", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CME502", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP231", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.06277281700000001
+              }
+            ]
+          }, 
+          {
+            "name": "INT400", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.011644367
+              }
+            ]
+          }, 
+          {
+            "name": "INT406", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.025007792999999997
+              }
+            ]
+          }, 
+          {
+            "name": "INT406As", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 6.33338e-05
+              }
+            ]
+          }, 
+          {
+            "name": "OVW102", 
+            "children": [
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "European Union", 
+        "children": [
+          {
+            "name": "CMP515", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.015019152
+              }
+            ]
+          }, 
+          {
+            "name": "COM570", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0019633470000000003
+              }
+            ]
+          }, 
+          {
+            "name": "DBA237", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.013915335
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Intellectual Property", 
+        "children": [
+          {
+            "name": "ECM210", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0031757359999999998
+              }
+            ]
+          }, 
+          {
+            "name": "INT404", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002714305
+              }
+            ]
+          }, 
+          {
+            "name": "IPY102", 
+            "children": [
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY211", 
+            "children": [
+              {
+                "name": "BAE Systems North America, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.17173553100000002
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.079275789
+              }
+            ]
+          }, 
+          {
+            "name": "IPY212", 
+            "children": [
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.043998877
+              }
+            ]
+          }, 
+          {
+            "name": "IPY216", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.009997689
+              }
+            ]
+          }, 
+          {
+            "name": "IPY220", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.070373528
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.010884361
+              }
+            ]
+          }, 
+          {
+            "name": "IPY221", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001610487
+              }
+            ]
+          }, 
+          {
+            "name": "IPY222", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY230", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001610487
+              }
+            ]
+          }, 
+          {
+            "name": "IPY235", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0070752869999999995
+              }
+            ]
+          }, 
+          {
+            "name": "IPY250", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.334981705
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.145694822
+              }
+            ]
+          }, 
+          {
+            "name": "IPY411", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW105", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "M&A, Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP245", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.004089552
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "M&A, European Union", 
+        "children": [
+          {
+            "name": "DBA234", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0005157180000000001
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW", 
+    "children": [
+      {
+        "name": "Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETE332", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE335", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE336", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE356", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH001", 
+            "children": [
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.006821951999999999
+              }
+            ]
+          }, 
+          {
+            "name": "ETH009", 
+            "children": [
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH010", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH013", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH101", 
+            "children": [
+              {
+                "name": "BAE Systems North America, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH102", 
+            "children": [
+              {
+                "name": "BAE Systems North America, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH206", 
+            "children": [
+              {
+                "name": "BAE Systems North America, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.181431027
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.218990094
+              }
+            ]
+          }, 
+          {
+            "name": "ETH235", 
+            "children": [
+              {
+                "name": "BAE Systems North America, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.383737525
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.14241051400000002
+              }
+            ]
+          }, 
+          {
+            "name": "ETH236", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0058086119999999995
+              }
+            ]
+          }, 
+          {
+            "name": "ETH350", 
+            "children": [
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.997105217
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.08169152
+              }
+            ]
+          }, 
+          {
+            "name": "ETH351", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "HOW - General", 
+        "children": [
+          {
+            "name": "HOW001As", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 9.952450000000001e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "HOW - General, Inspirational Leadership", 
+        "children": [
+          {
+            "name": "HOW004", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership", 
+        "children": [
+          {
+            "name": "ETE325", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE330", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE331", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE333", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE350", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE351", 
+            "children": [
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE352", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE353", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE354", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE355", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE600", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH120", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR004", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR110", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR111", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETE334", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH325", 
+            "children": [
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.10343310000000001
+              }
+            ]
+          }, 
+          {
+            "name": "ETH325As", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH326", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.050983688
+              }
+            ]
+          }, 
+          {
+            "name": "HUR109", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR112", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Respectful Communication", 
+        "children": [
+          {
+            "name": "COM111", 
+            "children": [
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM114", 
+            "children": [
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Anti-Corruption & Bribery", 
+    "children": [
+      {
+        "name": "Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBE501", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE502", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT001", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0006785760000000001
+              }
+            ]
+          }, 
+          {
+            "name": "INT409", 
+            "children": [
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SEC210", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000542861
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA", 
+        "children": [
+          {
+            "name": "DBA101", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA216", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.074919742
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.139355358
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.06955857900000001
+              }
+            ]
+          }, 
+          {
+            "name": "DBA216Af", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001538106
+              }
+            ]
+          }, 
+          {
+            "name": "DBA217", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.44088992200000005
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.01678345
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBA001", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0018638220000000002
+              }
+            ]
+          }, 
+          {
+            "name": "DBA550", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Global, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "COM560", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.042162198
+              }
+            ]
+          }, 
+          {
+            "name": "DBA312", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE001", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE405", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT405", 
+            "children": [
+              {
+                "name": "AERCAP", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Hexcel Corporation", 
+                "size": 0.204565849
+              }, 
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.13531943400000002
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.052259411
+              }
+            ]
+          }, 
+          {
+            "name": "SEC439", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000316669
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "UKBA", 
+        "children": [
+          {
+            "name": "DBE110", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Trade Controls", 
+    "children": [
+      {
+        "name": "Trade Controls - General", 
+        "children": [
+          {
+            "name": "DBA206", 
+            "children": [
+              {
+                "name": "Hexcel Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.40373158600000003
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.114570796
+              }
+            ]
+          }, 
+          {
+            "name": "DBA211", 
+            "children": [
+              {
+                "name": "Hexcel Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.17145719199999998
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.21209477300000001
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.12871232300000002
+              }
+            ]
+          }, 
+          {
+            "name": "DBA220", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002216682
+              }
+            ]
+          }, 
+          {
+            "name": "DBA221", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.008740061
+              }
+            ]
+          }, 
+          {
+            "name": "DBA225", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0005338130000000001
+              }
+            ]
+          }, 
+          {
+            "name": "DBA230", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.104794858
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000995245
+              }
+            ]
+          }, 
+          {
+            "name": "DBA250", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA255", 
+            "children": [
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA260", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate governance", 
+    "children": [
+      {
+        "name": "Corporate Governance - General", 
+        "children": [
+          {
+            "name": "COM245", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0027866859999999996
+              }
+            ]
+          }, 
+          {
+            "name": "HEA550", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "CMP436", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002985735
+              }
+            ]
+          }, 
+          {
+            "name": "COM303", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0007147669999999999
+              }
+            ]
+          }, 
+          {
+            "name": "ECM215", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00109477
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ethical Sales", 
+        "children": [
+          {
+            "name": "CMP225", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000606195
+              }
+            ]
+          }, 
+          {
+            "name": "CMP435", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.012974376000000001
+              }
+            ]
+          }, 
+          {
+            "name": "ECM220", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.008839585
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial Compliance", 
+        "children": [
+          {
+            "name": "COM441", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00124858
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial integrity", 
+        "children": [
+          {
+            "name": "COM460", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.008731013000000001
+              }
+            ]
+          }, 
+          {
+            "name": "COM470", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Products Liability", 
+        "children": [
+          {
+            "name": "COM450", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.019570136000000002
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gifts & Entertainment", 
+    "children": [
+      {
+        "name": "Gifts & Entertainment - General", 
+        "children": [
+          {
+            "name": "DEF215", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF415", 
+            "children": [
+              {
+                "name": "Marinette Marine Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.114317461
+              }
+            ]
+          }, 
+          {
+            "name": "ETH002", 
+            "children": [
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.024998745
+              }
+            ]
+          }, 
+          {
+            "name": "ETH227", 
+            "children": [
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Marinette Marine Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.004080505
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Records Management", 
+    "children": [
+      {
+        "name": "Records Management - General", 
+        "children": [
+          {
+            "name": "COM601", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM602", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM603", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR107", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.061352330999999996
+              }
+            ]
+          }, 
+          {
+            "name": "HUR275", 
+            "children": [
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.051173689
+              }
+            ]
+          }, 
+          {
+            "name": "HUR722", 
+            "children": [
+              {
+                "name": "AERCAP", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT408", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 8.14291e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Ethical performance", 
+        "children": [
+          {
+            "name": "DEF100", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF101", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF102", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FAR", 
+        "children": [
+          {
+            "name": "DEF260", 
+            "children": [
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF350", 
+            "children": [
+              {
+                "name": "Raydon Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Government Contracting & Relationships - General", 
+        "children": [
+          {
+            "name": "COM240", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000823339
+              }
+            ]
+          }, 
+          {
+            "name": "DEF231", 
+            "children": [
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.140143987
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.003320499
+              }
+            ]
+          }, 
+          {
+            "name": "DEF240", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0010676260000000001
+              }
+            ]
+          }, 
+          {
+            "name": "DEF245", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0006695280000000001
+              }
+            ]
+          }, 
+          {
+            "name": "DEF250", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.010223880999999999
+              }
+            ]
+          }, 
+          {
+            "name": "DEF255", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.027305904
+              }
+            ]
+          }, 
+          {
+            "name": "DEF300", 
+            "children": [
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.06197695
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.13618570900000002
+              }
+            ]
+          }, 
+          {
+            "name": "DEF305", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001176199
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Lobbying", 
+        "children": [
+          {
+            "name": "COM216", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 6.33338e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Government Contracting & Relationships - General, Employment - General", 
+        "children": [
+          {
+            "name": "DEF225", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.13156185
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF235", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001239532
+              }
+            ]
+          }, 
+          {
+            "name": "DEF425", 
+            "children": [
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.105333113
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest", 
+    "children": [
+      {
+        "name": "Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH008", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH011", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH017", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH211", 
+            "children": [
+              {
+                "name": "Standard Aero", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH212", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.28330332
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.101297847
+              }
+            ]
+          }, 
+          {
+            "name": "ETH221", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.176467305
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.219225333
+              }
+            ]
+          }, 
+          {
+            "name": "ETH222Es", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000524766
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Directors", 
+        "children": [
+          {
+            "name": "ETH321", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0014657239999999998
+              }
+            ]
+          }, 
+          {
+            "name": "ETH322", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000452384
+              }
+            ]
+          }, 
+          {
+            "name": "ETH323", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0005157180000000001
+              }
+            ]
+          }, 
+          {
+            "name": "ETH324", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00074191
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM542", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.080298177
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up", 
+        "children": [
+          {
+            "name": "COM244", 
+            "children": [
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000470479
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up, Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM242", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.012594373
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "FAR, Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH012", 
+            "children": [
+              {
+                "name": "Marinette Marine Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Government Contracting & Relationships - General, Conflicts of Interest", 
+        "children": [
+          {
+            "name": "DEF210", 
+            "children": [
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.005130036
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security", 
+        "children": [
+          {
+            "name": "COM207", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 5.4286099999999995e-05
+              }
+            ]
+          }, 
+          {
+            "name": "COM208", 
+            "children": [
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM212", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM213", 
+            "children": [
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading", 
+    "children": [
+      {
+        "name": "Insider Trading", 
+        "children": [
+          {
+            "name": "CMP002", 
+            "children": [
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0015290579999999998
+              }
+            ]
+          }, 
+          {
+            "name": "CMP211", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP222", 
+            "children": [
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.20105396899999997
+              }, 
+              {
+                "name": "Hexcel Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Orbital Sciences Corporation", 
+                "size": 1.823964915
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.033215192000000004
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.053507991
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management", 
+    "children": [
+      {
+        "name": "Code of Conduct", 
+        "children": [
+          {
+            "name": "ETH215", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.008405296999999999
+              }
+            ]
+          }, 
+          {
+            "name": "ETH990", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH999", 
+            "children": [
+              {
+                "name": "Marinette Marine Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Education & Communication", 
+        "children": [
+          {
+            "name": "ETH400", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.01615916
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection, HOW", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM207Af", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00019904900000000002
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM440", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.046351275
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Anti-Money Laundering", 
+    "children": [
+      {
+        "name": "Insurance companies", 
+        "children": [
+          {
+            "name": "INS460", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Money Laundering - General", 
+        "children": [
+          {
+            "name": "SEC460", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00035286
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "PATRIOT Act compliance", 
+        "children": [
+          {
+            "name": "BAF211", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00039809800000000005
+              }
+            ]
+          }, 
+          {
+            "name": "SEC240", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.09236235599999999
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00027143
+              }
+            ]
+          }, 
+          {
+            "name": "SEC245", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0027595429999999997
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "CSR", 
+    "children": [
+      {
+        "name": "CSR - General", 
+        "children": [
+          {
+            "name": "EGY400", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00018095400000000002
+              }
+            ]
+          }, 
+          {
+            "name": "HBI402", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00046143199999999996
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Environmental", 
+        "children": [
+          {
+            "name": "ENV300", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV301", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV302", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV305", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV306", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV307", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV308", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV311", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV312", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV313", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Environmental, Health & Safety; Corporate Governance - General", 
+        "children": [
+          {
+            "name": "ENV205", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.016231541000000002
+              }
+            ]
+          }, 
+          {
+            "name": "ENV210", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001610487
+              }
+            ]
+          }, 
+          {
+            "name": "ENV211", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00023524
+              }
+            ]
+          }, 
+          {
+            "name": "ENV215", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002922401
+              }
+            ]
+          }, 
+          {
+            "name": "ENV216", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0014928679999999998
+              }
+            ]
+          }, 
+          {
+            "name": "ENV220", 
+            "children": [
+              {
+                "name": "Teledyne Technologies Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.126025162
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Environmental; HOW - General", 
+        "children": [
+          {
+            "name": "CSR101", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000217144
+              }
+            ]
+          }, 
+          {
+            "name": "CSR102As", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 7.238149999999999e-05
+              }
+            ]
+          }, 
+          {
+            "name": "CSR103", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV351", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS100", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS101", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS102", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS103", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS104", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS105", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS106", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS200", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Retaliation, Speaking Up", 
+        "children": [
+          {
+            "name": "COM206Af", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00043428900000000003
+              }
+            ]
+          }, 
+          {
+            "name": "COM544", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM544A", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM544B", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM544C", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM544D", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM545", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM545B", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM545C", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM545D", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General", 
+        "children": [
+          {
+            "name": "CGV400", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.171878814
+              }
+            ]
+          }, 
+          {
+            "name": "CGV401", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.024853982
+              }
+            ]
+          }, 
+          {
+            "name": "CGV402", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.007753863000000001
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management, HOW", 
+    "children": [
+      {
+        "name": "Education & Communication, HOW - General", 
+        "children": [
+          {
+            "name": "ETH006", 
+            "children": [
+              {
+                "name": "EADS North America, In.c", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001348105
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, Corporate governance", 
+    "children": [
+      {
+        "name": "HOW - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "ETH230", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.067061419
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, CSR", 
+    "children": [
+      {
+        "name": "HOW - General, CSR - General", 
+        "children": [
+          {
+            "name": "HOW001", 
+            "children": [
+              {
+                "name": "HMT Tank", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000162858
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, E&C Program Management", 
+    "children": [
+      {
+        "name": "Inspirational Leadership, Education & Communication", 
+        "children": [
+          {
+            "name": "ETH003", 
+            "children": [
+              {
+                "name": "AERCAP", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.009735305999999999
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection, Industries", 
+    "children": [
+      {
+        "name": "Data Privacy, Healthcare", 
+        "children": [
+          {
+            "name": "HEA425", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA445", 
+            "children": [
+              {
+                "name": "Textron Inc.", 
+                "size": 0.046714662000000004
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000226192
+              }
+            ]
+          }, 
+          {
+            "name": "HEA455", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000262383
+              }
+            ]
+          }, 
+          {
+            "name": "HUR270", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 3.61907e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Data Privacy, Pharma", 
+        "children": [
+          {
+            "name": "HEA435", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA436", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "External Communication, Finance", 
+        "children": [
+          {
+            "name": "SEC441", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001565249
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Supply Chain", 
+    "children": [
+      {
+        "name": "Child/Forced Labor, Human Rights", 
+        "children": [
+          {
+            "name": "CSR201", 
+            "children": [
+              {
+                "name": "Raytheon Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Supplier Code of Conduct", 
+        "children": [
+          {
+            "name": "SCM999", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Industries, Corporate Governance", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Finance, Corporate Governance - General", 
+        "children": [
+          {
+            "name": "SEC235", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SEC237", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SEC430", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 7.238149999999999e-05
+              }
+            ]
+          }, 
+          {
+            "name": "SEC435", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001402391
+              }
+            ]
+          }, 
+          {
+            "name": "SEC436", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0025876370000000003
+              }
+            ]
+          }, 
+          {
+            "name": "SEC437", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000217144
+              }
+            ]
+          }, 
+          {
+            "name": "SEC461", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002578589
+              }
+            ]
+          }, 
+          {
+            "name": "SEC470", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000108572
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Corporate governance", 
+    "children": [
+      {
+        "name": "Employment - General, Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "COM302", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0018638220000000002
+              }
+            ]
+          }, 
+          {
+            "name": "ECM205", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002008585
+              }
+            ]
+          }, 
+          {
+            "name": "ECM230", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0009319110000000001
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Corporate Governance - General, Financial Compliance", 
+        "children": [
+          {
+            "name": "BAF205", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001040483
+              }
+            ]
+          }, 
+          {
+            "name": "BAF225", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000217144
+              }
+            ]
+          }, 
+          {
+            "name": "CMP221", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0013933429999999998
+              }
+            ]
+          }, 
+          {
+            "name": "SEC205", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 8.14291e-05
+              }
+            ]
+          }, 
+          {
+            "name": "SEC206", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00011762
+              }
+            ]
+          }, 
+          {
+            "name": "SEC215", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000108572
+              }
+            ]
+          }, 
+          {
+            "name": "SEC231", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 7.238149999999999e-05
+              }
+            ]
+          }, 
+          {
+            "name": "SEC236", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00039809800000000005
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gifts & Entertainment, Industries", 
+    "children": [
+      {
+        "name": "Gifts & Entertainment - General, Finance", 
+        "children": [
+          {
+            "name": "SEC225", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.002741448
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Lobbying", 
+        "children": [
+          {
+            "name": "COM215", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.001140008
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Industries, Corporate Governance", 
+    "children": [
+      {
+        "name": "Healthcare, Pharma, Medical Device, Corporate Governance - General", 
+        "children": [
+          {
+            "name": "HEA305", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000226192
+              }
+            ]
+          }, 
+          {
+            "name": "HEA415", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000171906
+              }
+            ]
+          }, 
+          {
+            "name": "HEA460", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA510", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000443336
+              }
+            ]
+          }, 
+          {
+            "name": "HEA520", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 9.952450000000001e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate governance, Industries", 
+    "children": [
+      {
+        "name": "Corporate Governance - General, Finance", 
+        "children": [
+          {
+            "name": "SEC444", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00033476400000000004
+              }
+            ]
+          }, 
+          {
+            "name": "SEC445", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00019000099999999997
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Corporate Governance - General, Healthcare", 
+        "children": [
+          {
+            "name": "HEA551", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ethical Sales, Fraud, Medical Device", 
+        "children": [
+          {
+            "name": "HEA470", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ethical Sales, Fraud, Pharma", 
+        "children": [
+          {
+            "name": "HEA330", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ethical Sales, Healthcare", 
+        "children": [
+          {
+            "name": "HEA370", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ethical Sales, Insurance", 
+        "children": [
+          {
+            "name": "INS200", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INS225", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000108572
+              }
+            ]
+          }, 
+          {
+            "name": "INS226", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000108572
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, Competition", 
+    "children": [
+      {
+        "name": "HOW - General, Competition, General", 
+        "children": [
+          {
+            "name": "HOW003", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Supply Chain, CSR", 
+    "children": [
+      {
+        "name": "Supply Chain - General, Environmental", 
+        "children": [
+          {
+            "name": "SCM100", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM226", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.00038905
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Industries, Corporate Governance, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Healthcare, Pharma, Medical Device, Corporate Governance - General, Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "HEA001", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA002", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Industries", 
+    "children": [
+      {
+        "name": "Industries - Energy", 
+        "children": [
+          {
+            "name": "EGY402", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000226192
+              }
+            ]
+          }, 
+          {
+            "name": "PET400", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.000135715
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, Employment", 
+    "children": [
+      {
+        "name": "HOW - General, Recruiting/Hiring", 
+        "children": [
+          {
+            "name": "HUR003", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR006", 
+            "children": [
+              {
+                "name": "United Technologies Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]}

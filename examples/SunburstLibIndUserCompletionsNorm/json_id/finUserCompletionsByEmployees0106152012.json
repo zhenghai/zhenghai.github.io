@@ -1,0 +1,412 @@
+{"name": "Topic Area", "children":[
+  {
+    "name": "Anti-Corruption & Bribery", 
+    "children": [
+      {
+        "name": "FCPA", 
+        "children": [
+          {
+            "name": "DBA101", 
+            "children": [
+              {
+                "name": 821, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA216", 
+            "children": [
+              {
+                "name": 821, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Global, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "INT405", 
+            "children": [
+              {
+                "name": 273, 
+                "size": 0.006226766999999999
+              }, 
+              {
+                "name": 3044, 
+                "size": 0.00023416900000000003
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Anti-Money Laundering", 
+    "children": [
+      {
+        "name": "PATRIOT Act compliance", 
+        "children": [
+          {
+            "name": "SEC245", 
+            "children": [
+              {
+                "name": 821, 
+                "size": 0.0007458289999999999
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest", 
+    "children": [
+      {
+        "name": "Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH222Es", 
+            "children": [
+              {
+                "name": 15, 
+                "size": 0.00011538299999999999
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management", 
+    "children": [
+      {
+        "name": "Code of Conduct", 
+        "children": [
+          {
+            "name": "ETH999", 
+            "children": [
+              {
+                "name": 103, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment", 
+    "children": [
+      {
+        "name": "Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR002", 
+            "children": [
+              {
+                "name": 15, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702", 
+            "children": [
+              {
+                "name": 15, 
+                "size": 0.000173074
+              }, 
+              {
+                "name": 2964, 
+                "size": 0.000334527
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702As", 
+            "children": [
+              {
+                "name": 15, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705", 
+            "children": [
+              {
+                "name": 15, 
+                "size": 0.011826718
+              }, 
+              {
+                "name": 273, 
+                "size": 0.0
+              }, 
+              {
+                "name": 821, 
+                "size": 0.007905788
+              }, 
+              {
+                "name": 2964, 
+                "size": 0.0020071629999999997
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Bs", 
+            "children": [
+              {
+                "name": 15, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR710", 
+            "children": [
+              {
+                "name": 273, 
+                "size": 9.58e-05
+              }, 
+              {
+                "name": 821, 
+                "size": 0.006904246
+              }, 
+              {
+                "name": 2964, 
+                "size": 0.00018246900000000002
+              }
+            ]
+          }, 
+          {
+            "name": "HUR712", 
+            "children": [
+              {
+                "name": 273, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715", 
+            "children": [
+              {
+                "name": 15, 
+                "size": 0.000173074
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Aa", 
+            "children": [
+              {
+                "name": 15, 
+                "size": 5.7700000000000007e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ba", 
+            "children": [
+              {
+                "name": 15, 
+                "size": 0.00011538299999999999
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ca", 
+            "children": [
+              {
+                "name": 15, 
+                "size": 0.00011538299999999999
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gifts & Entertainment", 
+    "children": [
+      {
+        "name": "Gifts & Entertainment - General", 
+        "children": [
+          {
+            "name": "ETH002", 
+            "children": [
+              {
+                "name": 15, 
+                "size": 0.0
+              }, 
+              {
+                "name": 273, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, CSR", 
+    "children": [
+      {
+        "name": "HOW - General, CSR - General", 
+        "children": [
+          {
+            "name": "HOW001", 
+            "children": [
+              {
+                "name": 821, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Data Privacy", 
+        "children": [
+          {
+            "name": "INT407", 
+            "children": [
+              {
+                "name": 273, 
+                "size": 8.87e-07
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "External Communication", 
+        "children": [
+          {
+            "name": "COM206", 
+            "children": [
+              {
+                "name": 15, 
+                "size": 0.015980492
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Information security", 
+        "children": [
+          {
+            "name": "COM410", 
+            "children": [
+              {
+                "name": 273, 
+                "size": 0.022934372
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Speaking up", 
+        "children": [
+          {
+            "name": "COM244", 
+            "children": [
+              {
+                "name": 15, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading", 
+    "children": [
+      {
+        "name": "Insider Trading", 
+        "children": [
+          {
+            "name": "CMP105", 
+            "children": [
+              {
+                "name": 821, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP222", 
+            "children": [
+              {
+                "name": 3044, 
+                "size": 0.0013198620000000002
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security", 
+        "children": [
+          {
+            "name": "COM207", 
+            "children": [
+              {
+                "name": 15, 
+                "size": 0.01938428
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "(blank)", 
+    "children": [
+      {
+        "name": "(blank)", 
+        "children": [
+          {
+            "name": "CER006", 
+            "children": [
+              {
+                "name": 821, 
+                "size": 0.0017047520000000001
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]}

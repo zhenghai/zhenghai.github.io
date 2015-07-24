@@ -1,0 +1,4911 @@
+{"name": "Topic Area", "children":[
+  {
+    "name": "Anti-Corruption & Bribery", 
+    "children": [
+      {
+        "name": "Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBE502", 
+            "children": [
+              {
+                "name": 3384, 
+                "size": 1.28954e-05
+              }
+            ]
+          }, 
+          {
+            "name": "INT409", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 3.58205e-06
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.00013346700000000001
+              }, 
+              {
+                "name": 3264, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SEC210", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA", 
+        "children": [
+          {
+            "name": "DBA216", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 1.4402999999999999e-05
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 176, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 5.0099099999999996e-05
+              }, 
+              {
+                "name": 1221, 
+                "size": 0.0
+              }, 
+              {
+                "name": 3384, 
+                "size": 9.02677e-05
+              }
+            ]
+          }, 
+          {
+            "name": "DBA217", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 4.51338e-06
+              }, 
+              {
+                "name": 3264, 
+                "size": 0.0
+              }, 
+              {
+                "name": 3384, 
+                "size": 0.00010316299999999999
+              }
+            ]
+          }, 
+          {
+            "name": "DBA218", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.008385856
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBA001", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 0.0
+              }, 
+              {
+                "name": 3384, 
+                "size": 0.000128954
+              }
+            ]
+          }, 
+          {
+            "name": "DBA550", 
+            "children": [
+              {
+                "name": 224, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Global, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "COM560", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA312", 
+            "children": [
+              {
+                "name": 224, 
+                "size": 0.011338823
+              }
+            ]
+          }, 
+          {
+            "name": "DBE001", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 6.13899e-05
+              }
+            ]
+          }, 
+          {
+            "name": "DBE405", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 1.9204e-05
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 155, 
+                "size": 3.95703e-06
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.002269904
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 0.014226183
+              }, 
+              {
+                "name": 3984, 
+                "size": 0.049933059
+              }
+            ]
+          }, 
+          {
+            "name": "INT405", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 3.0694899999999996e-05
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 0.0008539410000000001
+              }, 
+              {
+                "name": 1221, 
+                "size": 0.0
+              }, 
+              {
+                "name": 3984, 
+                "size": 0.000210625
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "UKBA", 
+        "children": [
+          {
+            "name": "DBE110", 
+            "children": [
+              {
+                "name": 224, 
+                "size": 0.011449553000000001
+              }, 
+              {
+                "name": 1221, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 4.51338e-06
+              }, 
+              {
+                "name": 3384, 
+                "size": 1.28954e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Anti-Money Laundering", 
+    "children": [
+      {
+        "name": "Money Laundering - General", 
+        "children": [
+          {
+            "name": "SEC460", 
+            "children": [
+              {
+                "name": 228, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "PATRIOT Act compliance", 
+        "children": [
+          {
+            "name": "BAF211", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 2.61873e-06
+              }, 
+              {
+                "name": 228, 
+                "size": 2.6425e-06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Competition", 
+    "children": [
+      {
+        "name": "Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP001", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP003", 
+            "children": [
+              {
+                "name": 3384, 
+                "size": 0.000386861
+              }
+            ]
+          }, 
+          {
+            "name": "CMP101", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 176, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP106", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP207", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP208", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP209", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.00039120699999999997
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.00093556
+              }
+            ]
+          }, 
+          {
+            "name": "CMP212", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.005867075
+              }
+            ]
+          }, 
+          {
+            "name": "CMP213", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.007068095
+              }, 
+              {
+                "name": 176, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 0.0
+              }, 
+              {
+                "name": 3384, 
+                "size": 0.000373966
+              }
+            ]
+          }, 
+          {
+            "name": "CMP214", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 8.79116e-06
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.000171428
+              }, 
+              {
+                "name": 155, 
+                "size": 3.95703e-06
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 1.61192e-06
+              }, 
+              {
+                "name": 305, 
+                "size": 1.42173e-05
+              }, 
+              {
+                "name": 2001, 
+                "size": 0.0
+              }, 
+              {
+                "name": 3264, 
+                "size": 0.0
+              }, 
+              {
+                "name": 3384, 
+                "size": 0.003468857
+              }, 
+              {
+                "name": 3984, 
+                "size": 0.000180535
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300Af", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 4.39558e-06
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0021260289999999998
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP302", 
+            "children": [
+              {
+                "name": 305, 
+                "size": 2.25671e-07
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Competition - General", 
+        "children": [
+          {
+            "name": "CME001", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CME406", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 9.60201e-06
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CME501", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP102", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP231", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.006490674
+              }
+            ]
+          }, 
+          {
+            "name": "INT400", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 176, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 4.73905e-05
+              }, 
+              {
+                "name": 1221, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 0.014027594
+              }
+            ]
+          }, 
+          {
+            "name": "INT406", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.00920848
+              }, 
+              {
+                "name": 305, 
+                "size": 0.007647551999999999
+              }, 
+              {
+                "name": 3984, 
+                "size": 4.51338e-05
+              }
+            ]
+          }, 
+          {
+            "name": "INT406As", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW102", 
+            "children": [
+              {
+                "name": 224, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW104", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "European Union", 
+        "children": [
+          {
+            "name": "CMP515", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 3384, 
+                "size": 1.28954e-05
+              }
+            ]
+          }, 
+          {
+            "name": "COM570", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 9.47108e-05
+              }
+            ]
+          }, 
+          {
+            "name": "DBA237", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 1.8053700000000001e-06
+              }, 
+              {
+                "name": 3384, 
+                "size": 1.28954e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Intellectual Property", 
+        "children": [
+          {
+            "name": "INT404", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 0.000142624
+              }, 
+              {
+                "name": 2001, 
+                "size": 1.80535e-05
+              }
+            ]
+          }, 
+          {
+            "name": "IPY101", 
+            "children": [
+              {
+                "name": 224, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY102", 
+            "children": [
+              {
+                "name": 176, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY211", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 176, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.019589506
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 0.009728243000000001
+              }, 
+              {
+                "name": 1221, 
+                "size": 0.0
+              }, 
+              {
+                "name": 3384, 
+                "size": 1.28954e-05
+              }
+            ]
+          }, 
+          {
+            "name": "IPY212", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 2.74027e-05
+              }, 
+              {
+                "name": 305, 
+                "size": 0.000116446
+              }
+            ]
+          }, 
+          {
+            "name": "IPY216", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 176, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY220", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 4.2877600000000004e-06
+              }
+            ]
+          }, 
+          {
+            "name": "IPY221", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY222", 
+            "children": [
+              {
+                "name": 283, 
+                "size": 2.45012e-05
+              }
+            ]
+          }, 
+          {
+            "name": "IPY230", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY235", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 1.22506e-05
+              }, 
+              {
+                "name": 305, 
+                "size": 4.06209e-06
+              }
+            ]
+          }, 
+          {
+            "name": "IPY250", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 6.3187999999999995e-06
+              }
+            ]
+          }, 
+          {
+            "name": "IPY411", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 6.75289e-05
+              }
+            ]
+          }, 
+          {
+            "name": "OVW105", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "M&A, Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP245", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "M&A, European Union", 
+        "children": [
+          {
+            "name": "DBA234", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Competition, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "European Union, Government investigations", 
+        "children": [
+          {
+            "name": "DEF107", 
+            "children": [
+              {
+                "name": 224, 
+                "size": 0.011250238000000001
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest", 
+    "children": [
+      {
+        "name": "Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH008", 
+            "children": [
+              {
+                "name": 305, 
+                "size": 3.52047e-05
+              }, 
+              {
+                "name": 3384, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH011", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 0.006340228000000001
+              }, 
+              {
+                "name": 305, 
+                "size": 7.672830000000001e-06
+              }
+            ]
+          }, 
+          {
+            "name": "ETH103", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH104", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH211", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.011674664
+              }, 
+              {
+                "name": 252, 
+                "size": 0.001559303
+              }, 
+              {
+                "name": 283, 
+                "size": 0.000821436
+              }, 
+              {
+                "name": 305, 
+                "size": 3.94925e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH212", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.000963821
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 6.447689999999999e-05
+              }, 
+              {
+                "name": 1221, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 9.026770000000001e-06
+              }, 
+              {
+                "name": 3384, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH221", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.003814883
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0026986809999999996
+              }, 
+              {
+                "name": 305, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 1.35401e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH222Es", 
+            "children": [
+              {
+                "name": 3384, 
+                "size": 0.001831144
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Directors", 
+        "children": [
+          {
+            "name": "ETH321", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH322", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 1.6764e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH323", 
+            "children": [
+              {
+                "name": 283, 
+                "size": 1.9343099999999998e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH324", 
+            "children": [
+              {
+                "name": 283, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Government Contracting & Relationships - General, Conflicts of Interest", 
+        "children": [
+          {
+            "name": "DEF210", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate governance", 
+    "children": [
+      {
+        "name": "Corporate Governance - General", 
+        "children": [
+          {
+            "name": "COM245", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 5.23746e-06
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "CMP436", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM303", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ECM215", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ethical Sales", 
+        "children": [
+          {
+            "name": "CMP435", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial Compliance", 
+        "children": [
+          {
+            "name": "COM441", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.007697323000000001
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.001189599
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial integrity", 
+        "children": [
+          {
+            "name": "COM460", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 1.4402999999999999e-05
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 4.39558e-06
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 176, 
+                "size": 2.76048e-05
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.018097732
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 9.026770000000001e-06
+              }
+            ]
+          }, 
+          {
+            "name": "COM470", 
+            "children": [
+              {
+                "name": 3984, 
+                "size": 0.035114119
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Products Liability", 
+        "children": [
+          {
+            "name": "COM450", 
+            "children": [
+              {
+                "name": 305, 
+                "size": 1.2637599999999999e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "CSR", 
+    "children": [
+      {
+        "name": "Environmental", 
+        "children": [
+          {
+            "name": "ENV311", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Environmental, Health & Safety; Corporate Governance - General", 
+        "children": [
+          {
+            "name": "ENV205", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV210", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV211", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV215", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV216", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV220", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 0.000123894
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Environmental; HOW - General", 
+        "children": [
+          {
+            "name": "CSR101", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CSR102As", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS100", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS101", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS102", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS103", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS104", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS105", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management", 
+    "children": [
+      {
+        "name": "Code of Conduct", 
+        "children": [
+          {
+            "name": "ETH099", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 0.001042377
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Education & Communication", 
+        "children": [
+          {
+            "name": "ETH400", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.00039999800000000004
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management, HOW", 
+    "children": [
+      {
+        "name": "Education & Communication, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH350As", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 4.911189999999999e-05
+              }, 
+              {
+                "name": 263, 
+                "size": 0.006093067
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Education & Communication, HOW - General", 
+        "children": [
+          {
+            "name": "ETH006", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment", 
+    "children": [
+      {
+        "name": "Claims & Litigation", 
+        "children": [
+          {
+            "name": "COM211", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General", 
+        "children": [
+          {
+            "name": "CMP226", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 3.22977e-05
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP227", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 2.66238e-05
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF220", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR216", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 1.12835e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR231", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.000161192
+              }, 
+              {
+                "name": 283, 
+                "size": 1.61192e-06
+              }, 
+              {
+                "name": 2001, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR255", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General, Compensation", 
+        "children": [
+          {
+            "name": "CMP104", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR237", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR265", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 3.22384e-07
+              }
+            ]
+          }, 
+          {
+            "name": "HUR703", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 3.58205e-06
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 8.59692e-05
+              }, 
+              {
+                "name": 283, 
+                "size": 4.51338e-05
+              }
+            ]
+          }, 
+          {
+            "name": "INT401", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR001", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR002", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0016119220000000002
+              }
+            ]
+          }, 
+          {
+            "name": "HUR101", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR220", 
+            "children": [
+              {
+                "name": 283, 
+                "size": 3.22384e-07
+              }
+            ]
+          }, 
+          {
+            "name": "HUR222", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR223", 
+            "children": [
+              {
+                "name": 283, 
+                "size": 3.22384e-07
+              }
+            ]
+          }, 
+          {
+            "name": "HUR241", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR247", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.003965329
+              }, 
+              {
+                "name": 283, 
+                "size": 1.2895400000000002e-06
+              }
+            ]
+          }, 
+          {
+            "name": "HUR248", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 3.22384e-07
+              }
+            ]
+          }, 
+          {
+            "name": "HUR250", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR420", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 6.44769e-07
+              }
+            ]
+          }, 
+          {
+            "name": "HUR423", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR541", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR602", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 3.58205e-06
+              }, 
+              {
+                "name": 111, 
+                "size": 4.39558e-06
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 9.6393e-05
+              }, 
+              {
+                "name": 305, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 1.35401e-05
+              }, 
+              {
+                "name": 3984, 
+                "size": 3.00892e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.009294426
+              }, 
+              {
+                "name": 283, 
+                "size": 4.73905e-05
+              }, 
+              {
+                "name": 305, 
+                "size": 0.003837091
+              }, 
+              {
+                "name": 1221, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 9.026770000000001e-06
+              }, 
+              {
+                "name": 3384, 
+                "size": 0.000219221
+              }, 
+              {
+                "name": 3984, 
+                "size": 0.009598460999999999
+              }
+            ]
+          }, 
+          {
+            "name": "HUR704", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 6.07774e-05
+              }, 
+              {
+                "name": 252, 
+                "size": 0.00011664100000000001
+              }, 
+              {
+                "name": 263, 
+                "size": 0.00048357699999999995
+              }, 
+              {
+                "name": 283, 
+                "size": 0.001781819
+              }, 
+              {
+                "name": 2001, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 176, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0011283460000000001
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 0.008760564
+              }, 
+              {
+                "name": 1221, 
+                "size": 0.0
+              }, 
+              {
+                "name": 3264, 
+                "size": 0.0
+              }, 
+              {
+                "name": 3384, 
+                "size": 0.000322384
+              }, 
+              {
+                "name": 3984, 
+                "size": 0.06416526
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Af", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.000311638
+              }, 
+              {
+                "name": 3384, 
+                "size": 9.02677e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Bs", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.011010931000000002
+              }, 
+              {
+                "name": 252, 
+                "size": 0.000128919
+              }
+            ]
+          }, 
+          {
+            "name": "HUR706", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 4.36455e-07
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR707", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR708", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR709", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR710", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 1.13478e-05
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 1.8417e-05
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }, 
+              {
+                "name": 1221, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR711", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 4.39558e-06
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 9.777229999999999e-05
+              }, 
+              {
+                "name": 252, 
+                "size": 0.010288941
+              }, 
+              {
+                "name": 283, 
+                "size": 0.000107354
+              }
+            ]
+          }, 
+          {
+            "name": "HUR713", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 8.59692e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 9.026770000000001e-06
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Aa", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 1.80535e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ba", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 1.35401e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ca", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 2.25669e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR716", 
+            "children": [
+              {
+                "name": 283, 
+                "size": 9.671530000000001e-06
+              }
+            ]
+          }, 
+          {
+            "name": "HUR721", 
+            "children": [
+              {
+                "name": 4504, 
+                "size": 0.004113333
+              }
+            ]
+          }, 
+          {
+            "name": "HUR750", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.000174732
+              }, 
+              {
+                "name": 3384, 
+                "size": 5.1581499999999994e-05
+              }
+            ]
+          }, 
+          {
+            "name": "OVW103", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0014813110000000001
+              }, 
+              {
+                "name": 263, 
+                "size": 0.000214923
+              }, 
+              {
+                "name": 283, 
+                "size": 4.64234e-05
+              }, 
+              {
+                "name": 3384, 
+                "size": 1.28954e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety", 
+        "children": [
+          {
+            "name": "HEA110", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 0.0015366989999999999
+              }, 
+              {
+                "name": 2001, 
+                "size": 0.001430742
+              }
+            ]
+          }, 
+          {
+            "name": "HUR206", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR251", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR252", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR253", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR280", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR282", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT403", 
+            "children": [
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.002940575
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR100", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 7.1641e-06
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0014292379999999998
+              }, 
+              {
+                "name": 283, 
+                "size": 0.000438765
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Labor unions", 
+        "children": [
+          {
+            "name": "HUR300", 
+            "children": [
+              {
+                "name": 283, 
+                "size": 6.44769e-07
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Recruiting/Hiring, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR285", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 9.67153e-07
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Corporate governance", 
+    "children": [
+      {
+        "name": "Employment - General, Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "COM302", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ECM230", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Government Contracting & Relationships - General, Employment - General", 
+        "children": [
+          {
+            "name": "DEF425", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Retaliation, Speaking Up", 
+        "children": [
+          {
+            "name": "COM206Af", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM544", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.000933126
+              }
+            ]
+          }, 
+          {
+            "name": "COM544A", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.009957436
+              }
+            ]
+          }, 
+          {
+            "name": "COM544B", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.009521568000000001
+              }
+            ]
+          }, 
+          {
+            "name": "COM544C", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.0013444379999999999
+              }
+            ]
+          }, 
+          {
+            "name": "COM545", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.000767373
+              }
+            ]
+          }, 
+          {
+            "name": "COM545A", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.009349676
+              }
+            ]
+          }, 
+          {
+            "name": "COM545B", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.008631415
+              }
+            ]
+          }, 
+          {
+            "name": "COM545C", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.001154129
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gifts & Entertainment", 
+    "children": [
+      {
+        "name": "Gifts & Entertainment - General", 
+        "children": [
+          {
+            "name": "DEF415", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 5.3838199999999996e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH002", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 3384, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH227", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 8.79116e-06
+              }, 
+              {
+                "name": 252, 
+                "size": 0.009343536999999999
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 0.000275316
+              }, 
+              {
+                "name": 3264, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH227As", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 4.36455e-07
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "FAR", 
+        "children": [
+          {
+            "name": "DEF260", 
+            "children": [
+              {
+                "name": 3384, 
+                "size": 2.57908e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Government Contracting & Relationships - General", 
+        "children": [
+          {
+            "name": "COM240", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF231", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF240", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF245", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF250", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF255", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF300", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF305", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW", 
+    "children": [
+      {
+        "name": "Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETE356", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.019092248
+              }
+            ]
+          }, 
+          {
+            "name": "ETH007", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH013", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 0.000161192
+              }
+            ]
+          }, 
+          {
+            "name": "ETH014", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.000128919
+              }
+            ]
+          }, 
+          {
+            "name": "ETH101", 
+            "children": [
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH102", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH206", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 6.38321e-05
+              }, 
+              {
+                "name": 3384, 
+                "size": 1.28954e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH235", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH350", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.011471698999999998
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 2.25669e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "HOW - General, Inspirational Leadership", 
+        "children": [
+          {
+            "name": "ETH110", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership", 
+        "children": [
+          {
+            "name": "ETE600", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.003922345
+              }
+            ]
+          }, 
+          {
+            "name": "HUR004", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH325", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH326", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.007734585
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 9.574819999999999e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Respectful Communication", 
+        "children": [
+          {
+            "name": "COM114", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, Corporate governance", 
+    "children": [
+      {
+        "name": "HOW - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "ETH230", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, CSR", 
+    "children": [
+      {
+        "name": "HOW - General, CSR - General", 
+        "children": [
+          {
+            "name": "ETH340", 
+            "children": [
+              {
+                "name": 283, 
+                "size": 1.77311e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HOW001", 
+            "children": [
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 8.253040000000001e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, E&C Program Management", 
+    "children": [
+      {
+        "name": "Inspirational Leadership, Education & Communication", 
+        "children": [
+          {
+            "name": "ETH003", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Data Privacy", 
+        "children": [
+          {
+            "name": "COE407", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 3.90085e-05
+              }
+            ]
+          }, 
+          {
+            "name": "COM003", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 4.36455e-07
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM455", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA246", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT407", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 6.13899e-06
+              }, 
+              {
+                "name": 283, 
+                "size": 8.091850000000001e-05
+              }, 
+              {
+                "name": 305, 
+                "size": 0.00016722299999999998
+              }, 
+              {
+                "name": 2001, 
+                "size": 4.51338e-06
+              }, 
+              {
+                "name": 3384, 
+                "size": 1.28954e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "External Communication", 
+        "children": [
+          {
+            "name": "COM001", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM002", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 4.36455e-07
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM101", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 1.0746099999999999e-05
+              }, 
+              {
+                "name": 283, 
+                "size": 0.002697713
+              }
+            ]
+          }, 
+          {
+            "name": "COM102", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM205", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 2.92425e-05
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0007701769999999999
+              }, 
+              {
+                "name": 305, 
+                "size": 4.5134300000000005e-07
+              }
+            ]
+          }, 
+          {
+            "name": "COM206", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 2.09498e-05
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.00075223
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 0.0007341089999999999
+              }, 
+              {
+                "name": 3264, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM236", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 6.04799e-05
+              }, 
+              {
+                "name": 2001, 
+                "size": 9.026770000000001e-06
+              }
+            ]
+          }, 
+          {
+            "name": "COM420", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.010413132
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW100", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Information security", 
+        "children": [
+          {
+            "name": "COM004", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM006", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 4.36455e-07
+              }
+            ]
+          }, 
+          {
+            "name": "COM221", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.000128754
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM410", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.000615381
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 0.0007147010000000001
+              }, 
+              {
+                "name": 3384, 
+                "size": 0.020284431999999998
+              }
+            ]
+          }, 
+          {
+            "name": "COM410Bf", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM430", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR210", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Insurance, Data Privacy", 
+        "children": [
+          {
+            "name": "HEA426", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 3.79716e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Privacy & Data Protection - General", 
+        "children": [
+          {
+            "name": "DBA546", 
+            "children": [
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection, HOW", 
+    "children": [
+      {
+        "name": "Information Security, External Communication, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM112", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.001264631
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection, Industries", 
+    "children": [
+      {
+        "name": "Data Privacy, Healthcare", 
+        "children": [
+          {
+            "name": "HEA425", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 3.75351e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HEA455", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Records Management", 
+    "children": [
+      {
+        "name": "Records Management - General", 
+        "children": [
+          {
+            "name": "COM601", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM602", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR107", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR275", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0008852360000000001
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 3.92668e-05
+              }, 
+              {
+                "name": 2001, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR722", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 4.36455e-07
+              }, 
+              {
+                "name": 283, 
+                "size": 4.7068100000000004e-05
+              }
+            ]
+          }, 
+          {
+            "name": "INT408", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM542", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 7.962899999999999e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up", 
+        "children": [
+          {
+            "name": "COM244", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up, Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM242", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Speaking up, HOW - General", 
+        "children": [
+          {
+            "name": "ETE339", 
+            "children": [
+              {
+                "name": 305, 
+                "size": 2.25671e-07
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading", 
+    "children": [
+      {
+        "name": "Insider Trading", 
+        "children": [
+          {
+            "name": "CMP002", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 155, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP105", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP222", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 1.22207e-05
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 1.2278e-05
+              }, 
+              {
+                "name": 283, 
+                "size": 3.73966e-05
+              }, 
+              {
+                "name": 305, 
+                "size": 5.12274e-05
+              }, 
+              {
+                "name": 1221, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 0.013752278
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Corporate Governance - General, Financial Compliance", 
+        "children": [
+          {
+            "name": "BAF205", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP221", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General", 
+        "children": [
+          {
+            "name": "CGV400", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CGV401", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CGV402", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM440", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 111, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 1.96334e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Lobbying", 
+        "children": [
+          {
+            "name": "COM215", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM226", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security", 
+        "children": [
+          {
+            "name": "COM208", 
+            "children": [
+              {
+                "name": 252, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM212", 
+            "children": [
+              {
+                "name": 283, 
+                "size": 6.06083e-05
+              }
+            ]
+          }, 
+          {
+            "name": "COM213", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 1.31867e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection, HOW", 
+    "children": [
+      {
+        "name": "Social Media - General, External Communication, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM113", 
+            "children": [
+              {
+                "name": 305, 
+                "size": 0.00014149600000000002
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Social Media - General, Information Security, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM207Af", 
+            "children": [
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0021260289999999998
+              }, 
+              {
+                "name": 263, 
+                "size": 0.0009564069999999999
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Supply Chain", 
+    "children": [
+      {
+        "name": "Child/Forced Labor, Human Rights", 
+        "children": [
+          {
+            "name": "CSR201", 
+            "children": [
+              {
+                "name": 283, 
+                "size": 2.2889299999999998e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Supply Chain, Anti-Corruption & Bribery", 
+    "children": [
+      {
+        "name": "Supply Chain - General, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "SCM130", 
+            "children": [
+              {
+                "name": 224, 
+                "size": 0.011272384
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Supply Chain, CSR", 
+    "children": [
+      {
+        "name": "Supply Chain - General, Environmental", 
+        "children": [
+          {
+            "name": "SCM100", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 2.09498e-05
+              }, 
+              {
+                "name": 283, 
+                "size": 2.1277399999999997e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Trade Controls", 
+    "children": [
+      {
+        "name": "Trade Controls - General", 
+        "children": [
+          {
+            "name": "DBA206", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 1.00385e-05
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 176, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 2.9336999999999997e-05
+              }
+            ]
+          }, 
+          {
+            "name": "DBA211", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 5.15017e-05
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA220", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 7.41974e-06
+              }, 
+              {
+                "name": 81, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 283, 
+                "size": 4.86801e-05
+              }
+            ]
+          }, 
+          {
+            "name": "DBA221", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 7.41974e-06
+              }, 
+              {
+                "name": 283, 
+                "size": 9.413629999999999e-05
+              }
+            ]
+          }, 
+          {
+            "name": "DBA225", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA230", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.00022783
+              }, 
+              {
+                "name": 176, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.011338823
+              }, 
+              {
+                "name": 228, 
+                "size": 0.0
+              }, 
+              {
+                "name": 2001, 
+                "size": 4.51338e-06
+              }
+            ]
+          }, 
+          {
+            "name": "DBA250", 
+            "children": [
+              {
+                "name": 224, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 5.28499e-06
+              }, 
+              {
+                "name": 283, 
+                "size": 1.48297e-05
+              }
+            ]
+          }, 
+          {
+            "name": "DBA255", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 224, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA260", 
+            "children": [
+              {
+                "name": 224, 
+                "size": 0.001284476
+              }, 
+              {
+                "name": 283, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "(blank)", 
+    "children": [
+      {
+        "name": "(blank)", 
+        "children": [
+          {
+            "name": "CER001", 
+            "children": [
+              {
+                "name": 228, 
+                "size": 2.6425e-06
+              }
+            ]
+          }, 
+          {
+            "name": "CER003", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 0.0
+              }, 
+              {
+                "name": 228, 
+                "size": 2.6425e-06
+              }, 
+              {
+                "name": 252, 
+                "size": 0.0
+              }, 
+              {
+                "name": 305, 
+                "size": 0.0
+              }, 
+              {
+                "name": 3384, 
+                "size": 0.004023358
+              }
+            ]
+          }, 
+          {
+            "name": "CER004", 
+            "children": [
+              {
+                "name": 3384, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER006", 
+            "children": [
+              {
+                "name": 228, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE017", 
+            "children": [
+              {
+                "name": 75, 
+                "size": 4.36455e-07
+              }
+            ]
+          }, 
+          {
+            "name": "IPY200", 
+            "children": [
+              {
+                "name": 283, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS2-00110", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00162", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00229", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00370", 
+            "children": [
+              {
+                "name": 111, 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ZZZ017", 
+            "children": [
+              {
+                "name": 263, 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]}

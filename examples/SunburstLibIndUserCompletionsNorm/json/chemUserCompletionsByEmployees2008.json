@@ -1,0 +1,4911 @@
+{"name": "Topic Area", "children":[
+  {
+    "name": "Anti-Corruption & Bribery", 
+    "children": [
+      {
+        "name": "Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBE502", 
+            "children": [
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT409", 
+            "children": [
+              {
+                "name": "Ascend Performance Materials", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SEC210", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA", 
+        "children": [
+          {
+            "name": "DBA216", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.000336476
+              }, 
+              {
+                "name": "Champion Technologies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 9.026770000000001e-06
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.008614848
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NOVA Chemicals Corporation", 
+                "size": 0.000255344
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000243579
+              }
+            ]
+          }, 
+          {
+            "name": "DBA217", 
+            "children": [
+              {
+                "name": "Ascend Performance Materials", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 7.91405e-06
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 2.19779e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA218", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBA001", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.006900221
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA550", 
+            "children": [
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Global, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "COM560", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 8.79116e-06
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA312", 
+            "children": [
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE001", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE405", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lyondell", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT405", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Champion Technologies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lyondell", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 2.19779e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "UKBA", 
+        "children": [
+          {
+            "name": "DBE110", 
+            "children": [
+              {
+                "name": "Champion Technologies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Anti-Money Laundering", 
+    "children": [
+      {
+        "name": "Money Laundering - General", 
+        "children": [
+          {
+            "name": "SEC460", 
+            "children": [
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "PATRIOT Act compliance", 
+        "children": [
+          {
+            "name": "BAF211", 
+            "children": [
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 7.13474e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Competition", 
+    "children": [
+      {
+        "name": "Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP001", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.018096608
+              }
+            ]
+          }, 
+          {
+            "name": "CMP003", 
+            "children": [
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP101", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NOVA Chemicals Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 4.39558e-05
+              }
+            ]
+          }, 
+          {
+            "name": "CMP106", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 8.79116e-06
+              }
+            ]
+          }, 
+          {
+            "name": "CMP207", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP208", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP209", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP212", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 2.83698e-05
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 3.95703e-06
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.00103163
+              }
+            ]
+          }, 
+          {
+            "name": "CMP213", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NOVA Chemicals Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 7.47249e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0008453639999999999
+              }
+            ]
+          }, 
+          {
+            "name": "CMP214", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 3.0769099999999996e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.000249818
+              }, 
+              {
+                "name": "Ascend Performance Materials", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0019521979999999998
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 2.6425e-05
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 8.858459999999999e-05
+              }, 
+              {
+                "name": "Lyondell", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.019859236000000002
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 4.36455e-07
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000551636
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300Af", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP302", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Competition - General", 
+        "children": [
+          {
+            "name": "CME001", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CME406", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CME501", 
+            "children": [
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP102", 
+            "children": [
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 3.0769099999999996e-05
+              }
+            ]
+          }, 
+          {
+            "name": "CMP231", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000329549
+              }
+            ]
+          }, 
+          {
+            "name": "INT400", 
+            "children": [
+              {
+                "name": "Champion Technologies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0027441270000000003
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NOVA Chemicals Corporation", 
+                "size": 0.000351961
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 1.31867e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000730738
+              }
+            ]
+          }, 
+          {
+            "name": "INT406", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.009257086
+              }, 
+              {
+                "name": "Lyondell", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT406As", 
+            "children": [
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW102", 
+            "children": [
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 2.21461e-05
+              }
+            ]
+          }, 
+          {
+            "name": "OVW104", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0005587999999999999
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "European Union", 
+        "children": [
+          {
+            "name": "CMP515", 
+            "children": [
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.00038327900000000004
+              }
+            ]
+          }, 
+          {
+            "name": "COM570", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA237", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.008747724
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 4.29846e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Intellectual Property", 
+        "children": [
+          {
+            "name": "INT404", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 1.0961099999999999e-05
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.010141606
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY101", 
+            "children": [
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.009234939000000001
+              }
+            ]
+          }, 
+          {
+            "name": "IPY102", 
+            "children": [
+              {
+                "name": "NOVA Chemicals Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY211", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.000796846
+              }, 
+              {
+                "name": "Champion Technologies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.00029014599999999997
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NOVA Chemicals Corporation", 
+                "size": 0.000372665
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.016654857
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000802379
+              }
+            ]
+          }, 
+          {
+            "name": "IPY212", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.001080515
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY216", 
+            "children": [
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NOVA Chemicals Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY220", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.00027577
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY221", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY222", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY230", 
+            "children": [
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000605366
+              }
+            ]
+          }, 
+          {
+            "name": "IPY235", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.000198365
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 1.75823e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY250", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.008661043
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0015379329999999998
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 1.75823e-05
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000218505
+              }
+            ]
+          }, 
+          {
+            "name": "IPY411", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW105", 
+            "children": [
+              {
+                "name": "Syngenta Corporation", 
+                "size": 8.79116e-06
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "M&A, Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP245", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "M&A, European Union", 
+        "children": [
+          {
+            "name": "DBA234", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Competition, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "European Union, Government investigations", 
+        "children": [
+          {
+            "name": "DEF107", 
+            "children": [
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest", 
+    "children": [
+      {
+        "name": "Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH008", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH011", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH103", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 1.75823e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH104", 
+            "children": [
+              {
+                "name": "Syngenta Corporation", 
+                "size": 8.79116e-06
+              }
+            ]
+          }, 
+          {
+            "name": "ETH211", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH212", 
+            "children": [
+              {
+                "name": "Champion Technologies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0011605839999999999
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 8.79116e-06
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000802379
+              }
+            ]
+          }, 
+          {
+            "name": "ETH221", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.000307364
+              }, 
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.014402062
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.008902746999999999
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.017692215
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH222Es", 
+            "children": [
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Directors", 
+        "children": [
+          {
+            "name": "ETH321", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH322", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH323", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 6.44769e-07
+              }
+            ]
+          }, 
+          {
+            "name": "ETH324", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Government Contracting & Relationships - General, Conflicts of Interest", 
+        "children": [
+          {
+            "name": "DEF210", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate governance", 
+    "children": [
+      {
+        "name": "Corporate Governance - General", 
+        "children": [
+          {
+            "name": "COM245", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "CMP436", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM303", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 4.39558e-06
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ECM215", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ethical Sales", 
+        "children": [
+          {
+            "name": "CMP435", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial Compliance", 
+        "children": [
+          {
+            "name": "COM441", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial integrity", 
+        "children": [
+          {
+            "name": "COM460", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.008629158
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.005625874
+              }, 
+              {
+                "name": "NOVA Chemicals Corporation", 
+                "size": 0.018384789
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM470", 
+            "children": [
+              {
+                "name": "Lyondell", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Products Liability", 
+        "children": [
+          {
+            "name": "COM450", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0050277329999999995
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "CSR", 
+    "children": [
+      {
+        "name": "Environmental", 
+        "children": [
+          {
+            "name": "ENV311", 
+            "children": [
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Environmental, Health & Safety; Corporate Governance - General", 
+        "children": [
+          {
+            "name": "ENV205", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV210", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV211", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV215", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV216", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV220", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0006187909999999999
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 6.13899e-06
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Environmental; HOW - General", 
+        "children": [
+          {
+            "name": "CSR101", 
+            "children": [
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CSR102As", 
+            "children": [
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS100", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS101", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS102", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS103", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS104", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SUS105", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management", 
+    "children": [
+      {
+        "name": "Code of Conduct", 
+        "children": [
+          {
+            "name": "ETH099", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Education & Communication", 
+        "children": [
+          {
+            "name": "ETH400", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 8.79116e-06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management, HOW", 
+    "children": [
+      {
+        "name": "Education & Communication, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH350As", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Education & Communication, HOW - General", 
+        "children": [
+          {
+            "name": "ETH006", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment", 
+    "children": [
+      {
+        "name": "Claims & Litigation", 
+        "children": [
+          {
+            "name": "COM211", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General", 
+        "children": [
+          {
+            "name": "CMP226", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 3.51647e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP227", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 1.75823e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF220", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR216", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR231", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR255", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General, Compensation", 
+        "children": [
+          {
+            "name": "CMP104", 
+            "children": [
+              {
+                "name": "Syngenta Corporation", 
+                "size": 1.75823e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR237", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR265", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR703", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000766559
+              }
+            ]
+          }, 
+          {
+            "name": "INT401", 
+            "children": [
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR001", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.003222968
+              }
+            ]
+          }, 
+          {
+            "name": "HUR002", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.006943194000000001
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 1.58281e-05
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR101", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 1.75823e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR220", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR222", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR223", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR241", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR247", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR248", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR250", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR420", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR423", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR541", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR602", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.012697176000000001
+              }, 
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 4.191e-06
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.00048357699999999995
+              }, 
+              {
+                "name": "Lyondell", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 2.19779e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0010173019999999999
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0038323520000000002
+              }, 
+              {
+                "name": "Champion Technologies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.003750921
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 6.07774e-05
+              }, 
+              {
+                "name": "Lyondell", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000641187
+              }
+            ]
+          }, 
+          {
+            "name": "HUR704", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.000311638
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 1.58281e-05
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.01822408
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 4.5134300000000005e-07
+              }, 
+              {
+                "name": "Ascend Performance Materials", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Champion Technologies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.008391995
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0011494860000000001
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lyondell", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NOVA Chemicals Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000347459
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Af", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Bs", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR706", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 4.29846e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 4.36455e-07
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000125372
+              }
+            ]
+          }, 
+          {
+            "name": "HUR707", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 2.14923e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 4.36455e-07
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 3.58205e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR708", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR709", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR710", 
+            "children": [
+              {
+                "name": "Champion Technologies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 6.75289e-05
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 2.6373499999999997e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 3.22384e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR711", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR713", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Aa", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ba", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ca", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR716", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR721", 
+            "children": [
+              {
+                "name": "Axalta", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR750", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW103", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 1.75823e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety", 
+        "children": [
+          {
+            "name": "HEA110", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR206", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR251", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR252", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR253", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 6.13899e-06
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR280", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR282", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT403", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0008840139999999999
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR100", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.000472831
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 8.98449e-05
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0021814679999999998
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Labor unions", 
+        "children": [
+          {
+            "name": "HUR300", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Recruiting/Hiring, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR285", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0043092059999999995
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 1.84975e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.00146864
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Corporate governance", 
+    "children": [
+      {
+        "name": "Employment - General, Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "COM302", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 8.79116e-06
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ECM230", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.000429846
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Government Contracting & Relationships - General, Employment - General", 
+        "children": [
+          {
+            "name": "DEF425", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Retaliation, Speaking Up", 
+        "children": [
+          {
+            "name": "COM206Af", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM544", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM544A", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM544B", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM544C", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM545", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM545A", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM545B", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM545C", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gifts & Entertainment", 
+    "children": [
+      {
+        "name": "Gifts & Entertainment - General", 
+        "children": [
+          {
+            "name": "DEF415", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH002", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH227", 
+            "children": [
+              {
+                "name": "Ascend Performance Materials", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH227As", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "FAR", 
+        "children": [
+          {
+            "name": "DEF260", 
+            "children": [
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Government Contracting & Relationships - General", 
+        "children": [
+          {
+            "name": "COM240", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF231", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF240", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF245", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF250", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF255", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF300", 
+            "children": [
+              {
+                "name": "Syngenta Corporation", 
+                "size": 1.31867e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF305", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW", 
+    "children": [
+      {
+        "name": "Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETE356", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH007", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH013", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH014", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH101", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 7.91405e-06
+              }
+            ]
+          }, 
+          {
+            "name": "ETH102", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH206", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 7.91405e-06
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 2.19779e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.00031880200000000003
+              }
+            ]
+          }, 
+          {
+            "name": "ETH235", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.000634023
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 1.1871099999999999e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0008632739999999999
+              }
+            ]
+          }, 
+          {
+            "name": "ETH350", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.00010436299999999999
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0007648310000000001
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.00037969699999999997
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "HOW - General, Inspirational Leadership", 
+        "children": [
+          {
+            "name": "ETH110", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership", 
+        "children": [
+          {
+            "name": "ETE600", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR004", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH325", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.000268654
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 2.21461e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0016011760000000002
+              }
+            ]
+          }, 
+          {
+            "name": "ETH326", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.00443816
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Respectful Communication", 
+        "children": [
+          {
+            "name": "COM114", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, Corporate governance", 
+    "children": [
+      {
+        "name": "HOW - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "ETH230", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000791633
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, CSR", 
+    "children": [
+      {
+        "name": "HOW - General, CSR - General", 
+        "children": [
+          {
+            "name": "ETH340", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HOW001", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.000182685
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.00031445700000000003
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, E&C Program Management", 
+    "children": [
+      {
+        "name": "Inspirational Leadership, Education & Communication", 
+        "children": [
+          {
+            "name": "ETH003", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Data Privacy", 
+        "children": [
+          {
+            "name": "COE407", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM003", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM455", 
+            "children": [
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 8.79116e-06
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA246", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT407", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "External Communication", 
+        "children": [
+          {
+            "name": "COM001", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM002", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM101", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM102", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 3.51647e-05
+              }
+            ]
+          }, 
+          {
+            "name": "COM205", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM206", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.002034428
+              }, 
+              {
+                "name": "Ascend Performance Materials", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.00684392
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.00213132
+              }
+            ]
+          }, 
+          {
+            "name": "COM236", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0020703089999999998
+              }, 
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.014782678999999998
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 3.0769099999999996e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.002722358
+              }
+            ]
+          }, 
+          {
+            "name": "COM420", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.004567114000000001
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 1.75823e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.00045492
+              }
+            ]
+          }, 
+          {
+            "name": "OVW100", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 4.39558e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Information security", 
+        "children": [
+          {
+            "name": "COM004", 
+            "children": [
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM006", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM221", 
+            "children": [
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.007217544
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM410", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.002001931
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.013180404
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 3.0769099999999996e-05
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000644769
+              }
+            ]
+          }, 
+          {
+            "name": "COM410Bf", 
+            "children": [
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM430", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR210", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Insurance, Data Privacy", 
+        "children": [
+          {
+            "name": "HEA426", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Privacy & Data Protection - General", 
+        "children": [
+          {
+            "name": "DBA546", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.001295326
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.00011073100000000001
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection, HOW", 
+    "children": [
+      {
+        "name": "Information Security, External Communication, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM112", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection, Industries", 
+    "children": [
+      {
+        "name": "Data Privacy, Healthcare", 
+        "children": [
+          {
+            "name": "HEA425", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA455", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Records Management", 
+    "children": [
+      {
+        "name": "Records Management - General", 
+        "children": [
+          {
+            "name": "COM601", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM602", 
+            "children": [
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR107", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 6.13899e-06
+              }
+            ]
+          }, 
+          {
+            "name": "HUR275", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.016831701
+              }, 
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 1.2278e-05
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 8.79116e-06
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR722", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT408", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM542", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 9.67153e-07
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.004448906
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0012340460000000001
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.008902746999999999
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000802379
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up", 
+        "children": [
+          {
+            "name": "COM244", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up, Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM242", 
+            "children": [
+              {
+                "name": "Potash Corporation", 
+                "size": 7.91405e-06
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Speaking up, HOW - General", 
+        "children": [
+          {
+            "name": "ETE339", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading", 
+    "children": [
+      {
+        "name": "Insider Trading", 
+        "children": [
+          {
+            "name": "CMP002", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.006881804
+              }, 
+              {
+                "name": "Potash Corporation", 
+                "size": 1.1871099999999999e-05
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP105", 
+            "children": [
+              {
+                "name": "Syngenta Corporation", 
+                "size": 8.79116e-06
+              }
+            ]
+          }, 
+          {
+            "name": "CMP222", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.000354755
+              }, 
+              {
+                "name": "Champion Technologies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 3.0769099999999996e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000544472
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Corporate Governance - General, Financial Compliance", 
+        "children": [
+          {
+            "name": "BAF205", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP221", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General", 
+        "children": [
+          {
+            "name": "CGV400", 
+            "children": [
+              {
+                "name": "Syngenta Corporation", 
+                "size": 2.19779e-05
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CGV401", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.008614848
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CGV402", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.004524433
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM440", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Syngenta Corporation", 
+                "size": 4.39558e-06
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 4.36455e-07
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.00022208700000000002
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Lobbying", 
+        "children": [
+          {
+            "name": "COM215", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM226", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security", 
+        "children": [
+          {
+            "name": "COM208", 
+            "children": [
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM212", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM213", 
+            "children": [
+              {
+                "name": "Syngenta Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection, HOW", 
+    "children": [
+      {
+        "name": "Social Media - General, External Communication, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM113", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Social Media - General, Information Security, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM207Af", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Supply Chain", 
+    "children": [
+      {
+        "name": "Child/Forced Labor, Human Rights", 
+        "children": [
+          {
+            "name": "CSR201", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Supply Chain, Anti-Corruption & Bribery", 
+    "children": [
+      {
+        "name": "Supply Chain - General, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "SCM130", 
+            "children": [
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Supply Chain, CSR", 
+    "children": [
+      {
+        "name": "Supply Chain - General, Environmental", 
+        "children": [
+          {
+            "name": "SCM100", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Trade Controls", 
+    "children": [
+      {
+        "name": "Trade Controls - General", 
+        "children": [
+          {
+            "name": "DBA206", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 3.12713e-05
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 5.28499e-06
+              }, 
+              {
+                "name": "NOVA Chemicals Corporation", 
+                "size": 0.002836392
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 6.08948e-05
+              }
+            ]
+          }, 
+          {
+            "name": "DBA211", 
+            "children": [
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.00011627
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA220", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 2.61131e-05
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "W.R. Grace & Co.", 
+                "size": 0.000239997
+              }
+            ]
+          }, 
+          {
+            "name": "DBA221", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA225", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA230", 
+            "children": [
+              {
+                "name": "Chemtura", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NOVA Chemicals Corporation", 
+                "size": 0.000531392
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA250", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA255", 
+            "children": [
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA260", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }, 
+              {
+                "name": "KRATON Polymers LLC", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "(blank)", 
+    "children": [
+      {
+        "name": "(blank)", 
+        "children": [
+          {
+            "name": "CER001", 
+            "children": [
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER003", 
+            "children": [
+              {
+                "name": "3M Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "H.B. Fuller Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER004", 
+            "children": [
+              {
+                "name": "Nexeo Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER006", 
+            "children": [
+              {
+                "name": "Johnson Matthey Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE017", 
+            "children": [
+              {
+                "name": "The Dow Chemical Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY200", 
+            "children": [
+              {
+                "name": "E.I. du Pont de Nemours & Co", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS2-00110", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.000451338
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00162", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00229", 
+            "children": [
+              {
+                "name": "Syngenta Corporation", 
+                "size": 2.6373499999999997e-05
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00370", 
+            "children": [
+              {
+                "name": "Syngenta Corporation", 
+                "size": 3.51647e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ZZZ017", 
+            "children": [
+              {
+                "name": "Formosa Plastics Corporation, U.S.A.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]}

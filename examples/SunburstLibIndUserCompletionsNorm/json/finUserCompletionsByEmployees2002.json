@@ -1,0 +1,412 @@
+{"name": "Topic Area", "children":[
+  {
+    "name": "Anti-Corruption & Bribery", 
+    "children": [
+      {
+        "name": "FCPA", 
+        "children": [
+          {
+            "name": "DBA101", 
+            "children": [
+              {
+                "name": "Oaktree Capital Management", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA216", 
+            "children": [
+              {
+                "name": "Oaktree Capital Management", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Global, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "INT405", 
+            "children": [
+              {
+                "name": "Eaton Vance", 
+                "size": 0.0
+              }, 
+              {
+                "name": "First Data Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Anti-Money Laundering", 
+    "children": [
+      {
+        "name": "PATRIOT Act compliance", 
+        "children": [
+          {
+            "name": "SEC245", 
+            "children": [
+              {
+                "name": "Oaktree Capital Management", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest", 
+    "children": [
+      {
+        "name": "Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH222Es", 
+            "children": [
+              {
+                "name": "Regency Centers", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management", 
+    "children": [
+      {
+        "name": "Code of Conduct", 
+        "children": [
+          {
+            "name": "ETH999", 
+            "children": [
+              {
+                "name": "Toyota Motor Credit Corp", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment", 
+    "children": [
+      {
+        "name": "Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR002", 
+            "children": [
+              {
+                "name": "Regency Centers", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702", 
+            "children": [
+              {
+                "name": "Boston Properties", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Regency Centers", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702As", 
+            "children": [
+              {
+                "name": "Regency Centers", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705", 
+            "children": [
+              {
+                "name": "Boston Properties", 
+                "size": 0.0
+              }, 
+              {
+                "name": "First Data Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Oaktree Capital Management", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Regency Centers", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Bs", 
+            "children": [
+              {
+                "name": "Regency Centers", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR710", 
+            "children": [
+              {
+                "name": "Boston Properties", 
+                "size": 0.0
+              }, 
+              {
+                "name": "First Data Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Oaktree Capital Management", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR712", 
+            "children": [
+              {
+                "name": "First Data Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715", 
+            "children": [
+              {
+                "name": "Regency Centers", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Aa", 
+            "children": [
+              {
+                "name": "Regency Centers", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ba", 
+            "children": [
+              {
+                "name": "Regency Centers", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ca", 
+            "children": [
+              {
+                "name": "Regency Centers", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gifts & Entertainment", 
+    "children": [
+      {
+        "name": "Gifts & Entertainment - General", 
+        "children": [
+          {
+            "name": "ETH002", 
+            "children": [
+              {
+                "name": "First Data Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Regency Centers", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, CSR", 
+    "children": [
+      {
+        "name": "HOW - General, CSR - General", 
+        "children": [
+          {
+            "name": "HOW001", 
+            "children": [
+              {
+                "name": "Oaktree Capital Management", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Data Privacy", 
+        "children": [
+          {
+            "name": "INT407", 
+            "children": [
+              {
+                "name": "First Data Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "External Communication", 
+        "children": [
+          {
+            "name": "COM206", 
+            "children": [
+              {
+                "name": "Regency Centers", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Information security", 
+        "children": [
+          {
+            "name": "COM410", 
+            "children": [
+              {
+                "name": "First Data Corporation", 
+                "size": 9.40288e-07
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Speaking up", 
+        "children": [
+          {
+            "name": "COM244", 
+            "children": [
+              {
+                "name": "Regency Centers", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading", 
+    "children": [
+      {
+        "name": "Insider Trading", 
+        "children": [
+          {
+            "name": "CMP105", 
+            "children": [
+              {
+                "name": "Oaktree Capital Management", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP222", 
+            "children": [
+              {
+                "name": "Eaton Vance", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security", 
+        "children": [
+          {
+            "name": "COM207", 
+            "children": [
+              {
+                "name": "Regency Centers", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "(blank)", 
+    "children": [
+      {
+        "name": "(blank)", 
+        "children": [
+          {
+            "name": "CER006", 
+            "children": [
+              {
+                "name": "Oaktree Capital Management", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]}

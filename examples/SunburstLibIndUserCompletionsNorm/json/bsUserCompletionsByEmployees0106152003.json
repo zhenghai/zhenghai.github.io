@@ -1,0 +1,3470 @@
+{"name": "Topic Area", "children":[
+  {
+    "name": "Anti-Corruption & Bribery", 
+    "children": [
+      {
+        "name": "Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "INT001", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT409", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA", 
+        "children": [
+          {
+            "name": "DBA101", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Veyance Technologies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA216", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "DCS Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Navigant Consulting", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA216Af", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA217", 
+            "children": [
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Veyance Technologies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBA001", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Veyance Technologies", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Global, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "COM560", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE001", 
+            "children": [
+              {
+                "name": "DCS Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE405", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Iron Mountain Inc", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT405", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bechtel", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Iron Mountain Inc", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Competition", 
+    "children": [
+      {
+        "name": "Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP001", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP003", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP101", 
+            "children": [
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP106", 
+            "children": [
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP207", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP208", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP209", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 2.38924e-05
+              }
+            ]
+          }, 
+          {
+            "name": "CMP212", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP213", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP214", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Veyance Technologies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300Af", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Competition - General", 
+        "children": [
+          {
+            "name": "CME001", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CME406", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP231", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT400", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT406", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW102", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "European Union", 
+        "children": [
+          {
+            "name": "CMP515", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA237", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Intellectual Property", 
+        "children": [
+          {
+            "name": "ECM210", 
+            "children": [
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT404", 
+            "children": [
+              {
+                "name": "Veyance Technologies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY102", 
+            "children": [
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY211", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.000119462
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY212", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY216", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.008195079000000001
+              }, 
+              {
+                "name": "Mitre Corporation", 
+                "size": 4.4817e-05
+              }
+            ]
+          }, 
+          {
+            "name": "IPY220", 
+            "children": [
+              {
+                "name": "Mitre Corporation", 
+                "size": 1.12043e-05
+              }
+            ]
+          }, 
+          {
+            "name": "IPY230", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY235", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY250", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY411", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "M&A, Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP245", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest", 
+    "children": [
+      {
+        "name": "Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH017", 
+            "children": [
+              {
+                "name": "Bechtel", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH212", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.008481788
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Mitre Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH221", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Aerospace Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH222Es", 
+            "children": [
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "FAR, Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH012", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Government Contracting & Relationships - General, Conflicts of Interest", 
+        "children": [
+          {
+            "name": "DEF210", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate governance", 
+    "children": [
+      {
+        "name": "Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "COM303", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ethical Sales", 
+        "children": [
+          {
+            "name": "CMP435", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial Compliance", 
+        "children": [
+          {
+            "name": "COM441", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial integrity", 
+        "children": [
+          {
+            "name": "COM460", 
+            "children": [
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Products Liability", 
+        "children": [
+          {
+            "name": "COM450", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "CSR", 
+    "children": [
+      {
+        "name": "CSR - General", 
+        "children": [
+          {
+            "name": "INT100", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Environmental, Health & Safety; Corporate Governance - General", 
+        "children": [
+          {
+            "name": "ENV215", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management", 
+    "children": [
+      {
+        "name": "Code of Conduct", 
+        "children": [
+          {
+            "name": "ETH099", 
+            "children": [
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH990", 
+            "children": [
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH999", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Education & Communication", 
+        "children": [
+          {
+            "name": "ETH400", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management, HOW", 
+    "children": [
+      {
+        "name": "Education & Communication, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH350As", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Education & Communication, HOW - General", 
+        "children": [
+          {
+            "name": "ETH006", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment", 
+    "children": [
+      {
+        "name": "Employment - General", 
+        "children": [
+          {
+            "name": "CMP226", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 9.556940000000001e-05
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP227", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF220", 
+            "children": [
+              {
+                "name": "Bechtel", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR216", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR231", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General, Compensation", 
+        "children": [
+          {
+            "name": "HUR105", 
+            "children": [
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR237", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR238", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR265", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR703", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR001", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR002", 
+            "children": [
+              {
+                "name": "20/20 Companies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GSI Commerce Solutions, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR007", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR101", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR102", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR103", 
+            "children": [
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR104", 
+            "children": [
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR223", 
+            "children": [
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR241", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Veyance Technologies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR247", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR248", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR250", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR602", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.00860125
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GSI Commerce Solutions, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702As", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR704", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GSI Commerce Solutions, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Af", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Bs", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR706", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR707", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR708", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR709", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR710", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GSI Commerce Solutions, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR711", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR712", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR713", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Aa", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ba", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ca", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR716A", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR716B", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR716C", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR716D", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR720", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR750", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Vista Print", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW103", 
+            "children": [
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety", 
+        "children": [
+          {
+            "name": "HUR251", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT403", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR100", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Iron Mountain Inc", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Recruiting/Hiring", 
+        "children": [
+          {
+            "name": "HUR108", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Recruiting/Hiring, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR285", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Corporate governance", 
+    "children": [
+      {
+        "name": "Employment - General, Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "COM302", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Government Contracting & Relationships - General, Employment - General", 
+        "children": [
+          {
+            "name": "DEF225", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF235", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF425", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Navigant Consulting", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gifts & Entertainment", 
+    "children": [
+      {
+        "name": "Gifts & Entertainment - General", 
+        "children": [
+          {
+            "name": "DEF415", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH002", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GSI Commerce Solutions, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH227", 
+            "children": [
+              {
+                "name": "Veyance Technologies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH227As", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Ethical performance", 
+        "children": [
+          {
+            "name": "DEF101", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF102", 
+            "children": [
+              {
+                "name": "DCS Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FAR", 
+        "children": [
+          {
+            "name": "DEF260", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF350", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Government Contracting & Relationships - General", 
+        "children": [
+          {
+            "name": "DEF231", 
+            "children": [
+              {
+                "name": "Bechtel", 
+                "size": 0.0
+              }, 
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Veyance Technologies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF250", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF300", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Veyance Technologies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF305", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Navigant Consulting", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW", 
+    "children": [
+      {
+        "name": "Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETE356", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH001", 
+            "children": [
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH010", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH013", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH101", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH102", 
+            "children": [
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH206", 
+            "children": [
+              {
+                "name": "20/20 Companies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Mitre Corporation", 
+                "size": 2.80106e-05
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH235", 
+            "children": [
+              {
+                "name": "20/20 Companies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH350", 
+            "children": [
+              {
+                "name": "The Aerospace Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW101", 
+            "children": [
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership", 
+        "children": [
+          {
+            "name": "ETE331", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE350", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH121", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR004", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH325", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Aerospace Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH325As", 
+            "children": [
+              {
+                "name": "20/20 Companies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH326", 
+            "children": [
+              {
+                "name": "20/20 Companies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "The Aerospace Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Respectful Communication", 
+        "children": [
+          {
+            "name": "COM111", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM114", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, Corporate governance", 
+    "children": [
+      {
+        "name": "HOW - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "ETH230", 
+            "children": [
+              {
+                "name": "20/20 Companies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, CSR", 
+    "children": [
+      {
+        "name": "HOW - General, CSR - General", 
+        "children": [
+          {
+            "name": "HOW001", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Iron Mountain Inc", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, E&C Program Management", 
+    "children": [
+      {
+        "name": "Inspirational Leadership, Education & Communication", 
+        "children": [
+          {
+            "name": "ETH003", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Data Privacy", 
+        "children": [
+          {
+            "name": "COE407", 
+            "children": [
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM003", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM455", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA246", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT407", 
+            "children": [
+              {
+                "name": "Iron Mountain Inc", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "External Communication", 
+        "children": [
+          {
+            "name": "COM001", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM002", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM206", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.008195079000000001
+              }, 
+              {
+                "name": "GSI Commerce Solutions, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM236", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GSI Commerce Solutions, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Mitre Corporation", 
+                "size": 2.80106e-05
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM420", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW100", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Information security", 
+        "children": [
+          {
+            "name": "COM004", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM221", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM410", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Iron Mountain Inc", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Vista Print", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM410As", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GSI Commerce Solutions, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM410Bf", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM413", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM430", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INS300", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Insurance, Data Privacy", 
+        "children": [
+          {
+            "name": "HEA426", 
+            "children": [
+              {
+                "name": "Mitre Corporation", 
+                "size": 0.000128849
+              }
+            ]
+          }, 
+          {
+            "name": "HUR271", 
+            "children": [
+              {
+                "name": "Mitre Corporation", 
+                "size": 2.80106e-06
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Privacy & Data Protection - General", 
+        "children": [
+          {
+            "name": "DBA546", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection, HOW", 
+    "children": [
+      {
+        "name": "Information Security, External Communication, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM112", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection, Industries", 
+    "children": [
+      {
+        "name": "Data Privacy, Healthcare", 
+        "children": [
+          {
+            "name": "HEA445", 
+            "children": [
+              {
+                "name": "GSI Commerce Solutions, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Mitre Corporation", 
+                "size": 1.6806400000000002e-05
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA455", 
+            "children": [
+              {
+                "name": "Iron Mountain Inc", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Records Management", 
+    "children": [
+      {
+        "name": "Records Management - General", 
+        "children": [
+          {
+            "name": "COM601", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR275", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM542", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up", 
+        "children": [
+          {
+            "name": "COM244", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "GSI Commerce Solutions, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up, Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM242", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.002030851
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading", 
+    "children": [
+      {
+        "name": "Insider Trading", 
+        "children": [
+          {
+            "name": "CMP002", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP105", 
+            "children": [
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP222", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 9.556940000000001e-05
+              }, 
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP301", 
+            "children": [
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General", 
+        "children": [
+          {
+            "name": "CGV400", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CGV401", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CGV402", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM440", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM226", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security", 
+        "children": [
+          {
+            "name": "COM207", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM208", 
+            "children": [
+              {
+                "name": "Vista Print", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM212", 
+            "children": [
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM213", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection, HOW", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM207Af", 
+            "children": [
+              {
+                "name": "Morningstar", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Trade Controls", 
+    "children": [
+      {
+        "name": "Trade Controls - General", 
+        "children": [
+          {
+            "name": "DBA206", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Mitre Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA211", 
+            "children": [
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Mitre Corporation", 
+                "size": 2.80106e-05
+              }, 
+              {
+                "name": "Veyance Technologies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA221", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA230", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "(blank)", 
+    "children": [
+      {
+        "name": "(blank)", 
+        "children": [
+          {
+            "name": "CER001", 
+            "children": [
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER002", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER003", 
+            "children": [
+              {
+                "name": "Adecco S.A.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Analytic Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER004", 
+            "children": [
+              {
+                "name": "Veyance Technologies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER006", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM607", 
+            "children": [
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA205", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA215", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV360", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR601", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR717A", 
+            "children": [
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR717B", 
+            "children": [
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR717C", 
+            "children": [
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR717D", 
+            "children": [
+              {
+                "name": "Manpower Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT500", 
+            "children": [
+              {
+                "name": "Veyance Technologies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY105", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS1-00097", 
+            "children": [
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS1-00103", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00160", 
+            "children": [
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00161", 
+            "children": [
+              {
+                "name": "General Atomics", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00196", 
+            "children": [
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00204", 
+            "children": [
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00236", 
+            "children": [
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00243", 
+            "children": [
+              {
+                "name": "HNI Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00248", 
+            "children": [
+              {
+                "name": "Viad Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00285", 
+            "children": [
+              {
+                "name": "Innovative Technical Solutions", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ZZZ017", 
+            "children": [
+              {
+                "name": "Electric Power Research Institute", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]}

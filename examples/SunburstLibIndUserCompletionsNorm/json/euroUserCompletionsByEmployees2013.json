@@ -1,0 +1,4001 @@
+{"name": "Topic Area", "children":[
+  {
+    "name": "Anti-Corruption & Bribery", 
+    "children": [
+      {
+        "name": "Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBE501", 
+            "children": [
+              {
+                "name": "Belgium", 
+                "children": [
+                  {
+                    "name": "Wabco Holdings", 
+                    "size": 9.153079999999999e-06
+                  }
+                ]
+              }, 
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 5.358e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "DBE502", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 3.9291999999999996e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 0.050148698
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "INT409", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.002672056
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA", 
+        "children": [
+          {
+            "name": "DBA216", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.000133752
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 1.24935e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "DBA216Af", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 4.96111e-06
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "DBA217", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 5.28499e-06
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 2.52025e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Globeleq Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBA001", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.000720552
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "DBA550", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 5.357999999999999e-06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Global, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "COM560", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.0005647730000000001
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "DBE001", 
+            "children": [
+              {
+                "name": "Belgium", 
+                "children": [
+                  {
+                    "name": "Wabco Holdings", 
+                    "size": 1.1441300000000002e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.001294851
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "DBE405", 
+            "children": [
+              {
+                "name": "Belgium", 
+                "children": [
+                  {
+                    "name": "Wabco Holdings", 
+                    "size": 6.8648100000000014e-06
+                  }
+                ]
+              }, 
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.0
+                  }, 
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.008313292
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.003779575
+                  }
+                ]
+              }, 
+              {
+                "name": "Norway", 
+                "children": [
+                  {
+                    "name": "Aircontactgruppen AS", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.007153712
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Globeleq Inc.", 
+                    "size": 0.045133829
+                  }, 
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "INT405", 
+            "children": [
+              {
+                "name": "Belgium", 
+                "children": [
+                  {
+                    "name": "Inbev NV/SA", 
+                    "size": 0.0
+                  }, 
+                  {
+                    "name": "Wabco Holdings", 
+                    "size": 6.8648100000000014e-06
+                  }
+                ]
+              }, 
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.0006696889999999999
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.000398874
+                  }
+                ]
+              }, 
+              {
+                "name": "Norway", 
+                "children": [
+                  {
+                    "name": "Aircontactgruppen AS", 
+                    "size": 0.0038815090000000004
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 8.06938e-05
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 8.923959999999999e-07
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Globeleq Inc.", 
+                    "size": 0.004513383
+                  }, 
+                  {
+                    "name": "Rolls-Royce Plc", 
+                    "size": 0.0
+                  }, 
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 1.4417750809999998
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "UKBA", 
+        "children": [
+          {
+            "name": "DBE110", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 4.3260900000000005e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Globeleq Inc.", 
+                    "size": 0.654440515
+                  }, 
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 0.30089219100000003
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Anti-Money Laundering", 
+    "children": [
+      {
+        "name": "Insurance companies", 
+        "children": [
+          {
+            "name": "BAF003", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "INS460", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.001737495
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Money Laundering - General", 
+        "children": [
+          {
+            "name": "SEC460", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "PATRIOT Act compliance", 
+        "children": [
+          {
+            "name": "BAF211", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.00045186699999999995
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Competition", 
+    "children": [
+      {
+        "name": "Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP001", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 6.83846e-06
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP003", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 7.5223e-06
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP101", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP106", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP207", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 1.23092e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP208", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 8.89e-06
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP209", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 8.20615e-06
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.015705412
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP212", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 6.83846e-06
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP213", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 2.6425e-06
+                  }
+                ]
+              }, 
+              {
+                "name": "Norway", 
+                "children": [
+                  {
+                    "name": "Aircontactgruppen AS", 
+                    "size": 0.003971777
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 6.83846e-06
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 4.39558e-06
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP214", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 7.5223e-06
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.00030769099999999996
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300", 
+            "children": [
+              {
+                "name": "Belgium", 
+                "children": [
+                  {
+                    "name": "Wabco Holdings", 
+                    "size": 0.0044346659999999994
+                  }
+                ]
+              }, 
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.000504187
+                  }, 
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.000157968
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.004320856
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300Af", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 7.5223e-06
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 3.51647e-05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Competition - General", 
+        "children": [
+          {
+            "name": "CME001", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.000112915
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CME406", 
+            "children": [
+              {
+                "name": "Belgium", 
+                "children": [
+                  {
+                    "name": "Wabco Holdings", 
+                    "size": 0.004441530999999999
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 2.679e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 1.5997434819999998
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CME501", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 1.88522e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Smiths Group plc", 
+                    "size": 0.0018983079999999998
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CME502", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 1.88522e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 0.01504461
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP102", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP231", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 1.58756e-06
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "INT400", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 8.13777e-05
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "INT406", 
+            "children": [
+              {
+                "name": "Belgium", 
+                "children": [
+                  {
+                    "name": "Wabco Holdings", 
+                    "size": 6.8648100000000014e-06
+                  }
+                ]
+              }, 
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 2.6425e-06
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 1.4288e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.004595444000000001
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 0.035104089
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "INT406As", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.000331998
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "European Union", 
+        "children": [
+          {
+            "name": "CMP515", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "DBA237", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 1.58756e-06
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Intellectual Property", 
+        "children": [
+          {
+            "name": "IPY211", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "IPY212", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 2.38133e-06
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "IPY235", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "IPY250", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 1.7847900000000002e-06
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "IPY411", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 1.98445e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "OVW105", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "M&A, Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP245", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 6.83846e-06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest", 
+    "children": [
+      {
+        "name": "Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH011", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.000886055
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "ETH017", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 1.7847900000000002e-06
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "ETH103", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "ETH104", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "ETH211", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.000621727
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 8.79116e-06
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "ETH212", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.0031483229999999997
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.003997079000000001
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 3.5695800000000004e-06
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "ETH221", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.0006939610000000001
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "ETH222Es", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.000101604
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 6.2467700000000005e-06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "FAR, Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH012", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 1.1708199999999999e-05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate governance", 
+    "children": [
+      {
+        "name": "Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "COM303", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial Compliance", 
+        "children": [
+          {
+            "name": "COM441", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0008567000000000001
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial integrity", 
+        "children": [
+          {
+            "name": "COM460", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 7.977470000000001e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.000342855
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "COM470", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.00229887
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 3.29418e-05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate Governance, Industries", 
+    "children": [
+      {
+        "name": "Corporate Governance - General, Healthcare", 
+        "children": [
+          {
+            "name": "HEA551", 
+            "children": [
+              {
+                "name": "Belgium", 
+                "children": [
+                  {
+                    "name": "UCB, Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ethical Sales, Insurance", 
+        "children": [
+          {
+            "name": "INS200", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.006363677
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "INS226", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management", 
+    "children": [
+      {
+        "name": "Code of Conduct", 
+        "children": [
+          {
+            "name": "ETG900", 
+            "children": [
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Globeleq Inc.", 
+                    "size": 0.009026766
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Education & Communication", 
+        "children": [
+          {
+            "name": "ETH400", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.015652665
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment", 
+    "children": [
+      {
+        "name": "Employment - General", 
+        "children": [
+          {
+            "name": "CMP226", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP227", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General, Compensation", 
+        "children": [
+          {
+            "name": "CMP104", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR265", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR703", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 1.24935e-05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR001", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 8.923959999999999e-07
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR002", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 1.57285e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.001074445
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR007", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 1.70961e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR101", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 8.89e-06
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR102", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 6.15461e-06
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR220", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 8.923959999999999e-07
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR602", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0007932610000000001
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 2.6373499999999997e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.000138321
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 8.89e-06
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR704", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0006289140000000001
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0009753889999999999
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Globeleq Inc.", 
+                    "size": 0.036107062999999995
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705", 
+            "children": [
+              {
+                "name": "Belgium", 
+                "children": [
+                  {
+                    "name": "Wabco Holdings", 
+                    "size": 0.004439243
+                  }
+                ]
+              }, 
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.001659487
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 1.1625399999999999e-05
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Bs", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 8.79116e-06
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR706", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 1.02577e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR707", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 1.02577e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR708", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 2.05154e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR709", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 2.05154e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR710", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 2.80377e-05
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR711", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.006762147
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 2.53023e-05
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.000791205
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR712", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 1.02577e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.00013476700000000002
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 2.73538e-06
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.00010109799999999999
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 1.69555e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Aa", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.00013476700000000002
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 2.73538e-06
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 8.3516e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 1.78479e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ba", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.00013476700000000002
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 3.41923e-06
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 7.91205e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 1.87403e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ca", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.00013476700000000002
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 3.41923e-06
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 7.47249e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 1.87403e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "OVW103", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.015982333999999997
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety", 
+        "children": [
+          {
+            "name": "INT403", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.002391409
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Globeleq Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR100", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Recruiting/Hiring, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR285", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Corporate governance", 
+    "children": [
+      {
+        "name": "Employment - General, Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "COM302", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gifts & Entertainment", 
+    "children": [
+      {
+        "name": "Gifts & Entertainment - General", 
+        "children": [
+          {
+            "name": "ETH002", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "ETH227", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 3.0769099999999996e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 0.08023791799999999
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Government Contracting & Relationships - General", 
+        "children": [
+          {
+            "name": "DEF300", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Lobbying", 
+        "children": [
+          {
+            "name": "COM216", 
+            "children": [
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Rolls-Royce Plc", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW", 
+    "children": [
+      {
+        "name": "Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH101", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "ETH206", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 3.8373e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "ETH235", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.003909547
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "ETH350", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH325", 
+            "children": [
+              {
+                "name": "Norway", 
+                "children": [
+                  {
+                    "name": "Aircontactgruppen AS", 
+                    "size": 0.002437227
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "ETH326", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Globeleq Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Respectful Communication", 
+        "children": [
+          {
+            "name": "COM114", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 1.70961e-05
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, Corporate governance", 
+    "children": [
+      {
+        "name": "HOW - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "ETH230", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, CSR", 
+    "children": [
+      {
+        "name": "HOW - General, CSR - General", 
+        "children": [
+          {
+            "name": "HOW001", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.0
+                  }, 
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, E&C Program Management", 
+    "children": [
+      {
+        "name": "Inspirational Leadership, Education & Communication", 
+        "children": [
+          {
+            "name": "ETH003", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 8.923959999999999e-07
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Data Privacy", 
+        "children": [
+          {
+            "name": "COE407", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 3.29418e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "COM003", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 2.7186900000000002e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "COM455", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 3.1751099999999997e-06
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "DBA246", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 3.572e-06
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "INS231", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "INT407", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 7.34245e-06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "External Communication", 
+        "children": [
+          {
+            "name": "COM001", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.00042427400000000004
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.001116388
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "COM101", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "COM102", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "COM206", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.00011509799999999999
+                  }
+                ]
+              }, 
+              {
+                "name": "Norway", 
+                "children": [
+                  {
+                    "name": "Aircontactgruppen AS", 
+                    "size": 0.016157911
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0010137619999999999
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "COM236", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.00024627
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0043827679999999996
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.000142783
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Globeleq Inc.", 
+                    "size": 0.03159368
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "COM420", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.000175623
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 4.39558e-06
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "OVW100", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Information security", 
+        "children": [
+          {
+            "name": "COM221", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 8.031569999999999e-06
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "COM410", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.002015352
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 3.77045e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "Norway", 
+                "children": [
+                  {
+                    "name": "Aircontactgruppen AS", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.004414909
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.015094426000000001
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "COM430", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 3.96889e-06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Privacy & Data Protection - General", 
+        "children": [
+          {
+            "name": "DBA546", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 1.94476e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "Norway", 
+                "children": [
+                  {
+                    "name": "Aircontactgruppen AS", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Records Management", 
+    "children": [
+      {
+        "name": "Records Management - General", 
+        "children": [
+          {
+            "name": "HUR275", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.000491504
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.002199757
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM542", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 1.33859e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "COM543", 
+            "children": [
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up, Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM242", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Speaking up, HOW - General", 
+        "children": [
+          {
+            "name": "ETE339", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.004822509
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading", 
+    "children": [
+      {
+        "name": "Insider Trading", 
+        "children": [
+          {
+            "name": "CMP002", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 3.79029e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP105", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 8.923959999999999e-07
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP211", 
+            "children": [
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 2.9766700000000003e-06
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CMP222", 
+            "children": [
+              {
+                "name": "Belgium", 
+                "children": [
+                  {
+                    "name": "Wabco Holdings", 
+                    "size": 1.60179e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "France", 
+                "children": [
+                  {
+                    "name": "Sanofi", 
+                    "size": 4.14749e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 5.60754e-05
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.008832045
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General", 
+        "children": [
+          {
+            "name": "CGV400", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CGV401", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 6.2467700000000005e-06
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CGV402", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM440", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 0.0
+                  }, 
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Lobbying", 
+        "children": [
+          {
+            "name": "COM215", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security", 
+        "children": [
+          {
+            "name": "COM208", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 2.67719e-06
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "COM213", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.00046153599999999997
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection, HOW", 
+    "children": [
+      {
+        "name": "Social Media - General, External Communication, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM113", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 4.46198e-06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Trade Controls", 
+    "children": [
+      {
+        "name": "Trade Controls - General", 
+        "children": [
+          {
+            "name": "DBA206", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "DBA211", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "DBA220", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "DBA230", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "DBA250", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 2.6425e-06
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "(blank)", 
+    "children": [
+      {
+        "name": "(blank)", 
+        "children": [
+          {
+            "name": "CER001", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CER002", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 1.70961e-05
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CER003", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 6.9832e-07
+                  }, 
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Norway", 
+                "children": [
+                  {
+                    "name": "Aircontactgruppen AS", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Adecco S.A.", 
+                    "size": 6.01784e-05
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Globeleq Inc.", 
+                    "size": 0.045133829
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CER004", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CER005", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 8.923959999999999e-07
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "CER006", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.000115921
+                  }, 
+                  {
+                    "name": "Johnson Matthey Inc.", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.000256118
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "ENV360", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "INS230", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "INT500", 
+            "children": [
+              {
+                "name": "England", 
+                "children": [
+                  {
+                    "name": "Imperial Tobacco", 
+                    "size": 0.0
+                  }
+                ]
+              }, 
+              {
+                "name": "United Kingdom", 
+                "children": [
+                  {
+                    "name": "Vita Industrial", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "IPY206", 
+            "children": [
+              {
+                "name": "The Netherlands", 
+                "children": [
+                  {
+                    "name": "AEGON Central Procurement Limited", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00229", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00370", 
+            "children": [
+              {
+                "name": "Switzerland", 
+                "children": [
+                  {
+                    "name": "Syngenta Corporation", 
+                    "size": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]}

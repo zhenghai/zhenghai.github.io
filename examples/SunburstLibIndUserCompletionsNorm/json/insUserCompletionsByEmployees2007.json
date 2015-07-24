@@ -1,0 +1,2511 @@
+{"name": "Topic Area", "children":[
+  {
+    "name": "Anti-Corruption & Bribery", 
+    "children": [
+      {
+        "name": "Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "INT409", 
+            "children": [
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA", 
+        "children": [
+          {
+            "name": "DBA101", 
+            "children": [
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA216", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 8.120000000000001e-05
+              }, 
+              {
+                "name": "Marsh & McLennan Companies, Inc.", 
+                "size": 0.024643587
+              }, 
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }, 
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.005092158
+              }, 
+              {
+                "name": "QBE Holdings", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA217", 
+            "children": [
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA218", 
+            "children": [
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBA001", 
+            "children": [
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Global, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "COM560", 
+            "children": [
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA312", 
+            "children": [
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT405", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Marsh & McLennan Companies, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Anti-Money Laundering", 
+    "children": [
+      {
+        "name": "Insurance companies", 
+        "children": [
+          {
+            "name": "BAF002", 
+            "children": [
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "BAF003", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INS460", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "PATRIOT Act compliance", 
+        "children": [
+          {
+            "name": "BAF211", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.001701799
+              }, 
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "SEC245", 
+            "children": [
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Competition", 
+    "children": [
+      {
+        "name": "Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP003", 
+            "children": [
+              {
+                "name": "All State", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP212", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.000874468
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "XL Capital, Ltd.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.022447513
+              }, 
+              {
+                "name": "Liberty Mutual Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0040112690000000005
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Competition - General", 
+        "children": [
+          {
+            "name": "INT400", 
+            "children": [
+              {
+                "name": "XL Capital, Ltd.", 
+                "size": 0.000473905
+              }
+            ]
+          }, 
+          {
+            "name": "INT406", 
+            "children": [
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "European Union", 
+        "children": [
+          {
+            "name": "DBA237", 
+            "children": [
+              {
+                "name": "XL Capital, Ltd.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Intellectual Property", 
+        "children": [
+          {
+            "name": "IPY211", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY216", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY235", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 2.68e-06
+              }
+            ]
+          }, 
+          {
+            "name": "IPY250", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "All State", 
+                "size": 0.0
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest", 
+    "children": [
+      {
+        "name": "Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH008", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH017", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "All State", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH103", 
+            "children": [
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH104", 
+            "children": [
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH212", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "All State", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Marsh & McLennan Companies, Inc.", 
+                "size": 0.001313532
+              }, 
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pinnacol Assurance ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.017078536999999998
+              }
+            ]
+          }, 
+          {
+            "name": "ETH221", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 3.81e-05
+              }, 
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH222Es", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Directors", 
+        "children": [
+          {
+            "name": "ETH324", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.000119402
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate governance", 
+    "children": [
+      {
+        "name": "Financial Compliance", 
+        "children": [
+          {
+            "name": "COM441", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial integrity", 
+        "children": [
+          {
+            "name": "COM460", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM470", 
+            "children": [
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH112", 
+            "children": [
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate Governance, Industries", 
+    "children": [
+      {
+        "name": "Ethical Sales, Insurance", 
+        "children": [
+          {
+            "name": "INS200", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INS226", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.007079379
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management", 
+    "children": [
+      {
+        "name": "Code of Conduct", 
+        "children": [
+          {
+            "name": "ETH999", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Education & Communication", 
+        "children": [
+          {
+            "name": "ETH400", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.00184022
+              }, 
+              {
+                "name": "State Auto Financial Corp", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management, HOW", 
+    "children": [
+      {
+        "name": "Education & Communication, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH350As", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment", 
+    "children": [
+      {
+        "name": "Employment - General", 
+        "children": [
+          {
+            "name": "CMP226", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0008293339999999999
+              }
+            ]
+          }, 
+          {
+            "name": "CMP227", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.00019746099999999999
+              }
+            ]
+          }, 
+          {
+            "name": "HUR231", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.001686877
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General, Compensation", 
+        "children": [
+          {
+            "name": "HUR265", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 3.12e-05
+              }, 
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR703", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0016699520000000002
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR001", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR002", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 8.92e-07
+              }, 
+              {
+                "name": "All State", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR101", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.009275565999999999
+              }
+            ]
+          }, 
+          {
+            "name": "HUR102", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.002454982
+              }
+            ]
+          }, 
+          {
+            "name": "HUR103", 
+            "children": [
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR220", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR241", 
+            "children": [
+              {
+                "name": "Metropolitan Life", 
+                "size": 1.82e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR602", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0006987460000000001
+              }, 
+              {
+                "name": "Loews", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 1.3500000000000001e-05
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0009647360000000001
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "XL Capital, Ltd.", 
+                "size": 0.000479547
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 1.6100000000000002e-05
+              }, 
+              {
+                "name": "All State", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Loews", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 8.76e-06
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.00058674
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "XL Capital, Ltd.", 
+                "size": 0.000609307
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702As", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR704", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Loews", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.002420302
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.016787976
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705", 
+            "children": [
+              {
+                "name": "Arch Capital Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.000238803
+              }, 
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "QBE Holdings", 
+                "size": 0.0
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.000677007
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.016303708
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Af", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Bs", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR710", 
+            "children": [
+              {
+                "name": "Arch Capital Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Loews", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR711", 
+            "children": [
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0
+              }, 
+              {
+                "name": "State Auto Financial Corp", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Aa", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0
+              }, 
+              {
+                "name": "State Auto Financial Corp", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ba", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0
+              }, 
+              {
+                "name": "State Auto Financial Corp", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ca", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0
+              }, 
+              {
+                "name": "State Auto Financial Corp", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR720", 
+            "children": [
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR750", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW103", 
+            "children": [
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.006911118000000001
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR100", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Arch Capital Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Recruiting/Hiring, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR285", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.000428771
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Retaliation, Speaking Up", 
+        "children": [
+          {
+            "name": "COM206Af", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gifts & Entertainment", 
+    "children": [
+      {
+        "name": "Gifts & Entertainment - General", 
+        "children": [
+          {
+            "name": "DEF415", 
+            "children": [
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "QBE Holdings", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH002", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "All State", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH227", 
+            "children": [
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH227As", 
+            "children": [
+              {
+                "name": "MBIA Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "QBE Holdings", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW", 
+    "children": [
+      {
+        "name": "Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETE356", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH001", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH007", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH009", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH013", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH101", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.010217044
+              }
+            ]
+          }, 
+          {
+            "name": "ETH102", 
+            "children": [
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH206", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "All State", 
+                "size": 1.2e-06
+              }, 
+              {
+                "name": "Marsh & McLennan Companies, Inc.", 
+                "size": 0.001475463
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.000976019
+              }, 
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "XL Capital, Ltd.", 
+                "size": 1.6899999999999997e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH235", 
+            "children": [
+              {
+                "name": "Metropolitan Life", 
+                "size": 1.85e-05
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0068998340000000005
+              }
+            ]
+          }, 
+          {
+            "name": "ETH350", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.000518482
+              }, 
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW101", 
+            "children": [
+              {
+                "name": "Pinnacol Assurance ", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "HOW - General", 
+        "children": [
+          {
+            "name": "HOW001As", 
+            "children": [
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership", 
+        "children": [
+          {
+            "name": "ETE353", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE355", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE600", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR004", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR110", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR111", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH325", 
+            "children": [
+              {
+                "name": "All State", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.001760219
+              }, 
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH325As", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH326", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 7.329999999999999e-05
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR109", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Respectful Communication, HOW - General", 
+        "children": [
+          {
+            "name": "ETE601", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, Corporate governance", 
+    "children": [
+      {
+        "name": "HOW - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "ETH230", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 9.03e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, CSR", 
+    "children": [
+      {
+        "name": "HOW - General, CSR - General", 
+        "children": [
+          {
+            "name": "HOW001", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }, 
+              {
+                "name": "State Auto Financial Corp", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, E&C Program Management", 
+    "children": [
+      {
+        "name": "Inspirational Leadership, Education & Communication", 
+        "children": [
+          {
+            "name": "ETH003", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "All State", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pinnacol Assurance ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Industries", 
+    "children": [
+      {
+        "name": "Industries - Energy", 
+        "children": [
+          {
+            "name": "EGY402", 
+            "children": [
+              {
+                "name": "Loews", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Data Privacy", 
+        "children": [
+          {
+            "name": "COM003", 
+            "children": [
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "State Auto Financial Corp", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM455", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0008293339999999999
+              }
+            ]
+          }, 
+          {
+            "name": "INS231", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.001633085
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.000129138
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "External Communication", 
+        "children": [
+          {
+            "name": "COM001", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM002", 
+            "children": [
+              {
+                "name": "All State", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM101", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.006780426
+              }
+            ]
+          }, 
+          {
+            "name": "COM205", 
+            "children": [
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM206", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 2.7699999999999996e-05
+              }, 
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.006679806999999999
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM236", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.000637171
+              }, 
+              {
+                "name": "Arch Capital Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.021611701
+              }, 
+              {
+                "name": "Loews", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MBIA Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.006668523000000001
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.001807936
+              }
+            ]
+          }, 
+          {
+            "name": "COM420", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW100", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Information security", 
+        "children": [
+          {
+            "name": "COM004", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM006", 
+            "children": [
+              {
+                "name": "Reinsurance Group of America", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM221", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0015126120000000002
+              }, 
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.000265161
+              }
+            ]
+          }, 
+          {
+            "name": "COM410", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.002267579
+              }, 
+              {
+                "name": "Arch Capital Services, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.006064858
+              }, 
+              {
+                "name": "Pinnacol Assurance ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "QBE Holdings", 
+                "size": 0.0
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.01688483
+              }, 
+              {
+                "name": "XL Capital, Ltd.", 
+                "size": 2.26e-05
+              }
+            ]
+          }, 
+          {
+            "name": "COM410As", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INS300", 
+            "children": [
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "QBE Holdings", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Insurance, Data Privacy", 
+        "children": [
+          {
+            "name": "HEA426", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.000169252
+              }
+            ]
+          }, 
+          {
+            "name": "INS232", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 8.46e-05
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection, Industries", 
+    "children": [
+      {
+        "name": "Data Privacy, Healthcare", 
+        "children": [
+          {
+            "name": "HEA425", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.00016361
+              }
+            ]
+          }, 
+          {
+            "name": "HEA445", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.000152327
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Data Privacy, Privacy & Data Protection - General, Medical Device", 
+        "children": [
+          {
+            "name": "HEA102", 
+            "children": [
+              {
+                "name": "Reinsurance Group of America", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Records Management", 
+    "children": [
+      {
+        "name": "Records Management - General", 
+        "children": [
+          {
+            "name": "COM601", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR275", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.011970602
+              }, 
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Marsh & McLennan Companies, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0
+              }, 
+              {
+                "name": "QBE Holdings", 
+                "size": 0.0
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR722", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT408", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM542", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.00029901200000000003
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up", 
+        "children": [
+          {
+            "name": "COM244", 
+            "children": [
+              {
+                "name": "QBE Holdings", 
+                "size": 0.0
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE337", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up, Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM242", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.000248236
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Speaking up, HOW - General", 
+        "children": [
+          {
+            "name": "ETE339", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE340", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading", 
+    "children": [
+      {
+        "name": "Insider Trading", 
+        "children": [
+          {
+            "name": "CMP105", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP222", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.002857453
+              }, 
+              {
+                "name": "All State", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 4.85e-05
+              }, 
+              {
+                "name": "RenaissanceRe Services Ltd.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "State Auto Financial Corp", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General", 
+        "children": [
+          {
+            "name": "CGV401", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 2.23e-05
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.000176493
+              }, 
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CGV402", 
+            "children": [
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM440", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.00240233
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Lobbying", 
+        "children": [
+          {
+            "name": "COM215", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Industries, Corporate Governance", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Finance, Corporate Governance - General", 
+        "children": [
+          {
+            "name": "SEC435", 
+            "children": [
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security", 
+        "children": [
+          {
+            "name": "COM207", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM208", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM213", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection, HOW", 
+    "children": [
+      {
+        "name": "Social Media - General, External Communication, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM113", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Social Media - General, Information Security, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM207Af", 
+            "children": [
+              {
+                "name": "Reinsurance Group of America", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "(blank)", 
+    "children": [
+      {
+        "name": "(blank)", 
+        "children": [
+          {
+            "name": "CER003", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER004", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Liberty Mutual Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER005", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER006", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR276", 
+            "children": [
+              {
+                "name": "Financial Guaranty Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Massachusetts Mutual Life Insurance Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Metropolitan Life", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INS230", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY206", 
+            "children": [
+              {
+                "name": "AEGON Central Procurement Limited", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "LRN-k01", 
+            "children": [
+              {
+                "name": "Secura Insurance Companies", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS1-00097", 
+            "children": [
+              {
+                "name": "Munich Reinsurance America", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS2-00136", 
+            "children": [
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00205", 
+            "children": [
+              {
+                "name": "New York Life International, LLC", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]}

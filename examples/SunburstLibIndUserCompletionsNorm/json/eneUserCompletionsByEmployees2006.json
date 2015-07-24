@@ -1,0 +1,2108 @@
+{"name": "Topic Area", "children":[
+  {
+    "name": "Anti-Corruption & Bribery", 
+    "children": [
+      {
+        "name": "Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "INT409", 
+            "children": [
+              {
+                "name": "Itron Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA", 
+        "children": [
+          {
+            "name": "DBA216", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "CMS Energy Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Itron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 5.3739499999999996e-05
+              }
+            ]
+          }, 
+          {
+            "name": "DBA217", 
+            "children": [
+              {
+                "name": "Globeleq Inc.", 
+                "size": 0.464677571
+              }, 
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Global, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBE405", 
+            "children": [
+              {
+                "name": "Globeleq Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT405", 
+            "children": [
+              {
+                "name": "Globeleq Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Itron Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "UKBA", 
+        "children": [
+          {
+            "name": "DBE110", 
+            "children": [
+              {
+                "name": "Globeleq Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Competition", 
+    "children": [
+      {
+        "name": "Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP001", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP003", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP101", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP212", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Itron Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300", 
+            "children": [
+              {
+                "name": "CMS Energy Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Energen Corporation", 
+                "size": 0.000175542
+              }, 
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.000625961
+              }, 
+              {
+                "name": "Great Plains Energy Services Incorporated", 
+                "size": 0.0027453509999999996
+              }, 
+              {
+                "name": "Itron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 4.47829e-06
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Competition - General", 
+        "children": [
+          {
+            "name": "CMP102", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP231", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT400", 
+            "children": [
+              {
+                "name": "Itron Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW104", 
+            "children": [
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Intellectual Property", 
+        "children": [
+          {
+            "name": "IPY211", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 8.05613e-07
+              }
+            ]
+          }, 
+          {
+            "name": "IPY250", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 7.73388e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest", 
+    "children": [
+      {
+        "name": "Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH008", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH017", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH212", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.000555067
+              }, 
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH221", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.012133298999999998
+              }
+            ]
+          }, 
+          {
+            "name": "ETH222Es", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate governance", 
+    "children": [
+      {
+        "name": "Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "COM303", 
+            "children": [
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial integrity", 
+        "children": [
+          {
+            "name": "COM460", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "CSR", 
+    "children": [
+      {
+        "name": "CSR - General", 
+        "children": [
+          {
+            "name": "EGY400", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 4.7531199999999996e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Environmental, Health & Safety; Corporate Governance - General", 
+        "children": [
+          {
+            "name": "ENV205", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management", 
+    "children": [
+      {
+        "name": "Code of Conduct", 
+        "children": [
+          {
+            "name": "ETG900", 
+            "children": [
+              {
+                "name": "Globeleq Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH215", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.00155725
+              }
+            ]
+          }, 
+          {
+            "name": "ETH999", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Itron Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management, HOW", 
+    "children": [
+      {
+        "name": "Education & Communication, HOW - General", 
+        "children": [
+          {
+            "name": "ETH006", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment", 
+    "children": [
+      {
+        "name": "Employment - General", 
+        "children": [
+          {
+            "name": "CMP226", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 2.23915e-06
+              }
+            ]
+          }, 
+          {
+            "name": "CMP227", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 2.23915e-06
+              }
+            ]
+          }, 
+          {
+            "name": "HUR231", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General, Compensation", 
+        "children": [
+          {
+            "name": "HUR703", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR002", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR101", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Energen Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR102", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR103", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR220", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR223", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR241", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 6.717439999999999e-06
+              }, 
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.016927086
+              }
+            ]
+          }, 
+          {
+            "name": "HUR602", 
+            "children": [
+              {
+                "name": "CMS Energy Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0012690639999999999
+              }, 
+              {
+                "name": "Energen Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Exelon Business Services", 
+                "size": 6.4449e-06
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.000597852
+              }, 
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.002041116
+              }, 
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 8.83901e-06
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702", 
+            "children": [
+              {
+                "name": "CMS Energy Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.000571972
+              }, 
+              {
+                "name": "Energen Corporation", 
+                "size": 0.00016091399999999998
+              }, 
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702As", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR704", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Globeleq Inc.", 
+                "size": 1.078232423
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.012445109
+              }, 
+              {
+                "name": "Great Plains Energy Services Incorporated", 
+                "size": 0.015092356000000001
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Af", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Bs", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR706", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.002246855
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 8.95659e-06
+              }
+            ]
+          }, 
+          {
+            "name": "HUR710", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Itron Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Aa", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ba", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ca", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR721", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Monroe", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR750", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW103", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety", 
+        "children": [
+          {
+            "name": "HEA110", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR206", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT403", 
+            "children": [
+              {
+                "name": "Globeleq Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR100", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Energen Corporation", 
+                "size": 0.001184909
+              }, 
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.002101844
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Recruiting/Hiring, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR285", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.000607721
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Corporate governance", 
+    "children": [
+      {
+        "name": "Employment - General, Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "COM302", 
+            "children": [
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Retaliation, Speaking Up", 
+        "children": [
+          {
+            "name": "COM545B", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Government Contracting & Relationships - General", 
+        "children": [
+          {
+            "name": "COM240", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW", 
+    "children": [
+      {
+        "name": "Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH001", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH007", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH206", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Energen Corporation", 
+                "size": 0.000409598
+              }, 
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.0016697460000000002
+              }, 
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 8.83901e-06
+              }
+            ]
+          }, 
+          {
+            "name": "ETH235", 
+            "children": [
+              {
+                "name": "CMS Energy Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH350", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.000236045
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 1.79132e-05
+              }, 
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 8.83901e-06
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "HOW - General", 
+        "children": [
+          {
+            "name": "HOW001As", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership", 
+        "children": [
+          {
+            "name": "ETE350", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH120", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH325", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 4.41951e-06
+              }
+            ]
+          }, 
+          {
+            "name": "ETH325As", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH326", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Globeleq Inc.", 
+                "size": 0.7534092659999999
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR005", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Respectful Communication", 
+        "children": [
+          {
+            "name": "COM111", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, CSR", 
+    "children": [
+      {
+        "name": "HOW - General, CSR - General", 
+        "children": [
+          {
+            "name": "HOW001", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, E&C Program Management", 
+    "children": [
+      {
+        "name": "Inspirational Leadership, Education & Communication", 
+        "children": [
+          {
+            "name": "ETH003", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Industries", 
+    "children": [
+      {
+        "name": "Industries - Energy", 
+        "children": [
+          {
+            "name": "EGY402", 
+            "children": [
+              {
+                "name": "Great Plains Energy Services Incorporated", 
+                "size": 0.012856451000000001
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Data Privacy", 
+        "children": [
+          {
+            "name": "COE407", 
+            "children": [
+              {
+                "name": "Itron Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM003", 
+            "children": [
+              {
+                "name": "Itron Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM455", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "External Communication", 
+        "children": [
+          {
+            "name": "COM001", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM002", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM205", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM206", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Energen Corporation", 
+                "size": 0.014028742
+              }, 
+              {
+                "name": "Exelon Business Services", 
+                "size": 6.20322e-05
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 1.3258499999999999e-05
+              }
+            ]
+          }, 
+          {
+            "name": "COM235", 
+            "children": [
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM236", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "CMS Energy Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Energen Corporation", 
+                "size": 0.016164504
+              }, 
+              {
+                "name": "Exelon Business Services", 
+                "size": 3.86694e-05
+              }, 
+              {
+                "name": "Globeleq Inc.", 
+                "size": 1.010560932
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0072973790000000005
+              }, 
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.00437139
+              }, 
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 8.83901e-06
+              }
+            ]
+          }, 
+          {
+            "name": "COM420", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Information security", 
+        "children": [
+          {
+            "name": "COM221", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 3.13481e-05
+              }, 
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 1.3258499999999999e-05
+              }
+            ]
+          }, 
+          {
+            "name": "COM230", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 8.05613e-07
+              }
+            ]
+          }, 
+          {
+            "name": "COM410", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.017400512
+              }
+            ]
+          }, 
+          {
+            "name": "COM410Bf", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM430", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR210", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Insurance, Data Privacy", 
+        "children": [
+          {
+            "name": "HEA426", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 4.47829e-06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection, Industries", 
+    "children": [
+      {
+        "name": "Data Privacy, Healthcare", 
+        "children": [
+          {
+            "name": "HEA445", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 1.5674e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Records Management", 
+    "children": [
+      {
+        "name": "Records Management - General", 
+        "children": [
+          {
+            "name": "HUR107", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR275", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Energen Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM542", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up", 
+        "children": [
+          {
+            "name": "COM244", 
+            "children": [
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up, Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM242", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0005139809999999999
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading", 
+    "children": [
+      {
+        "name": "Insider Trading", 
+        "children": [
+          {
+            "name": "CMP002", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP222", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.001000952
+              }, 
+              {
+                "name": "Energen Corporation", 
+                "size": 0.013999485
+              }, 
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.00033030099999999997
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.000320198
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Corporate Governance - General, Financial Compliance", 
+        "children": [
+          {
+            "name": "CMP221", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General", 
+        "children": [
+          {
+            "name": "CGV400", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CGV401", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.000536224
+              }, 
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.0015166620000000002
+              }
+            ]
+          }, 
+          {
+            "name": "CGV402", 
+            "children": [
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM440", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Energen Corporation", 
+                "size": 0.001126395
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Lobbying", 
+        "children": [
+          {
+            "name": "COM215", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.000381055
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM226", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 4.47829e-06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security", 
+        "children": [
+          {
+            "name": "COM207", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM208", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM212", 
+            "children": [
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "(blank)", 
+    "children": [
+      {
+        "name": "(blank)", 
+        "children": [
+          {
+            "name": "CER002", 
+            "children": [
+              {
+                "name": "CMS Energy Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER003", 
+            "children": [
+              {
+                "name": "Globeleq Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Great Plains Energy Services Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Itron Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER006", 
+            "children": [
+              {
+                "name": "CMS Energy Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Dynegy, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Itron Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP201", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP202", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP216", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP220", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM210", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM220", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM225", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }, 
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM412", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH201", 
+            "children": [
+              {
+                "name": "CMS Energy Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH555", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR205", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 8.05613e-07
+              }, 
+              {
+                "name": "NiSource Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR225", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR226", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR227", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR601", 
+            "children": [
+              {
+                "name": "Pepco Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT500", 
+            "children": [
+              {
+                "name": "Itron Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY205", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY206", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY215", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS2-00110", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS2-00151", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00160", 
+            "children": [
+              {
+                "name": "Exelon Business Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00162", 
+            "children": [
+              {
+                "name": "AEI Services", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00204", 
+            "children": [
+              {
+                "name": "MDU Resources Group, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]}

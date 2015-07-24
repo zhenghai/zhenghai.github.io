@@ -1,0 +1,914 @@
+{"name": "Industry", "children":[
+  {
+    "name": "Aerospace & Defense", 
+    "children": [
+      {
+        "name": "AERCAP", 
+        "size": 0.0
+      }, 
+      {
+        "name": "BAE Systems North America, Inc.", 
+        "size": 3.07e-05
+      }, 
+      {
+        "name": "Hexcel Corporation", 
+        "size": 1.66e-05
+      }, 
+      {
+        "name": "HMT Tank", 
+        "size": 0.023045902000000004
+      }, 
+      {
+        "name": "Orbital Sciences Corporation", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Raytheon Company", 
+        "size": 0.007973803
+      }, 
+      {
+        "name": "Standard Aero", 
+        "size": 0.007050876
+      }, 
+      {
+        "name": "Teledyne Technologies Incorporated", 
+        "size": 0.004170512
+      }, 
+      {
+        "name": "Textron Inc.", 
+        "size": 0.00019429900000000002
+      }, 
+      {
+        "name": "United Technologies Corporation", 
+        "size": 0.003052316
+      }
+    ]
+  }, 
+  {
+    "name": "Agriculture", 
+    "children": [
+      {
+        "name": "CHS", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Growmark, Inc.", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Automotive & Transport", 
+    "children": [
+      {
+        "name": "Federal-Mogul", 
+        "size": 0.0
+      }, 
+      {
+        "name": "GATX Corporation", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Rolls-Royce Plc", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Tower Automotive", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Toyota Motor Sales, USA, Inc.", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Trinity Industries, Inc.", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Wabco Holdings", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Westinghouse Air Brake Technologies", 
+        "size": 0.001178105
+      }, 
+      {
+        "name": "Yazaki North America", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Beer, Wine & Distilled Spirits Wholesale", 
+    "children": [
+      {
+        "name": "Inbev NV/SA", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Biotechnology", 
+    "children": [
+      {
+        "name": "Pall Corporation ", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Business Services", 
+    "children": [
+      {
+        "name": "Adecco S.A.", 
+        "size": 3.21e-05
+      }, 
+      {
+        "name": "Bechtel", 
+        "size": 0.0
+      }, 
+      {
+        "name": "DCS Corporation", 
+        "size": 0.00010870899999999999
+      }, 
+      {
+        "name": "Electric Power Research Institute", 
+        "size": 0.00594942
+      }, 
+      {
+        "name": "General Atomics", 
+        "size": 0.00045114300000000004
+      }, 
+      {
+        "name": "HNI Corporation", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Innovative Technical Solutions", 
+        "size": 0.018271303
+      }, 
+      {
+        "name": "Iron Mountain Inc", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Manpower Inc.", 
+        "size": 0.00067817
+      }, 
+      {
+        "name": "Morningstar", 
+        "size": 0.002760242
+      }, 
+      {
+        "name": "Navigant Consulting", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Veyance Technologies", 
+        "size": 0.002171127
+      }, 
+      {
+        "name": "Viad Corp.", 
+        "size": 0.000192093
+      }
+    ]
+  }, 
+  {
+    "name": "Chemicals", 
+    "children": [
+      {
+        "name": "3M Company", 
+        "size": 0.009916228000000001
+      }, 
+      {
+        "name": "Ascend Performance Materials", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Champion Technologies", 
+        "size": 0.005972745
+      }, 
+      {
+        "name": "Chemtura", 
+        "size": 0.0
+      }, 
+      {
+        "name": "E.I. du Pont de Nemours & Co", 
+        "size": 0.0027812979999999998
+      }, 
+      {
+        "name": "Formosa Plastics Corporation, U.S.A.", 
+        "size": 0.00926992
+      }, 
+      {
+        "name": "H.B. Fuller Company", 
+        "size": 6.14e-06
+      }, 
+      {
+        "name": "Johnson Matthey Inc.", 
+        "size": 0.00187272
+      }, 
+      {
+        "name": "KRATON Polymers LLC", 
+        "size": 0.021561017999999998
+      }, 
+      {
+        "name": "Lyondell", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Nexeo Solutions", 
+        "size": 0.0
+      }, 
+      {
+        "name": "NOVA Chemicals Corporation", 
+        "size": 1.3800000000000002e-05
+      }, 
+      {
+        "name": "Potash Corporation", 
+        "size": 7.52e-05
+      }, 
+      {
+        "name": "Syngenta Corporation", 
+        "size": 0.000478911
+      }, 
+      {
+        "name": "The Dow Chemical Company", 
+        "size": 0.00012346299999999998
+      }, 
+      {
+        "name": "W.R. Grace & Co.", 
+        "size": 0.000121737
+      }
+    ]
+  }, 
+  {
+    "name": "Computer Hardware", 
+    "children": [
+      {
+        "name": "Dell Inc.", 
+        "size": 0.03117177
+      }, 
+      {
+        "name": "International Rectifier Corporation", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Computer Services", 
+    "children": [
+      {
+        "name": "Blackbird Technologies, Inc.", 
+        "size": 0.02115862
+      }
+    ]
+  }, 
+  {
+    "name": "Computer Software", 
+    "children": [
+      {
+        "name": "Kaspersky Lab", 
+        "size": 0.07218292400000001
+      }, 
+      {
+        "name": "PEGASYSTEMS", 
+        "size": 0.002962297
+      }, 
+      {
+        "name": "Red Hat, Inc.", 
+        "size": 0.018391607
+      }
+    ]
+  }, 
+  {
+    "name": "Construction", 
+    "children": [
+      {
+        "name": "Armstrong World Industries", 
+        "size": 0.00023548700000000002
+      }, 
+      {
+        "name": "Jacobs Engineering Group, Inc.", 
+        "size": 7.36e-05
+      }, 
+      {
+        "name": "PBSJ Corporation", 
+        "size": 0.003316513
+      }
+    ]
+  }, 
+  {
+    "name": "Consumer Products", 
+    "children": [
+      {
+        "name": "Hanes ( Sara Lee Branded)", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Harman International", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Johnson Outdoors Inc.", 
+        "size": 0.000736867
+      }, 
+      {
+        "name": "Libbey Inc.", 
+        "size": 0.002073809
+      }, 
+      {
+        "name": "LVMH Moet Hennessy Louis Vuitton Inc.", 
+        "size": 0.0
+      }, 
+      {
+        "name": "The Estee Lauder Companies", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Electric Power Generation", 
+    "children": [
+      {
+        "name": "NRG Energy", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Electronics", 
+    "children": [
+      {
+        "name": "Advanced Energy Industries, Inc.", 
+        "size": 0.001180762
+      }, 
+      {
+        "name": "Advanced Micro Devices", 
+        "size": 0.00116929
+      }, 
+      {
+        "name": "Agilent Technologies, Inc.", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Altera Corporation", 
+        "size": 0.0035470320000000003
+      }, 
+      {
+        "name": "GrafTech International", 
+        "size": 0.0011745660000000002
+      }, 
+      {
+        "name": "InterDigital Communications Corporation", 
+        "size": 0.0
+      }, 
+      {
+        "name": "MEMC Electronic Materials Inc.", 
+        "size": 0.003466438
+      }, 
+      {
+        "name": "Micron Technology, Inc.", 
+        "size": 0.00221911
+      }, 
+      {
+        "name": "Molex Incorporated", 
+        "size": 6.15e-05
+      }, 
+      {
+        "name": "Panasonic Corporation", 
+        "size": 0.003904124
+      }, 
+      {
+        "name": "Qualcomm Incorporated", 
+        "size": 2.58e-06
+      }, 
+      {
+        "name": "Technicolor Inc", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Thales USA, Inc.", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Energy & Utilities", 
+    "children": [
+      {
+        "name": "AEI Services", 
+        "size": 0.003628761
+      }, 
+      {
+        "name": "CMS Energy Corporation", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Globeleq Inc.", 
+        "size": 0.175945877
+      }, 
+      {
+        "name": "Itron Inc.", 
+        "size": 0.001761607
+      }, 
+      {
+        "name": "MDU Resources Group, Inc.", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Pepco Holdings, Inc.", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Engineering Services", 
+    "children": [
+      {
+        "name": "Modec", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Financial Services", 
+    "children": [
+      {
+        "name": "Eaton Vance", 
+        "size": 0.000992515
+      }, 
+      {
+        "name": "First Data Corporation", 
+        "size": 0.0030339390000000003
+      }, 
+      {
+        "name": "Oaktree Capital Management", 
+        "size": 0.0075642140000000005
+      }
+    ]
+  }, 
+  {
+    "name": "Firearms & Accessories", 
+    "children": [
+      {
+        "name": "Smith And Wesson", 
+        "size": 0.047728679
+      }
+    ]
+  }, 
+  {
+    "name": "Food, Beverage & Tobacco", 
+    "children": [
+      {
+        "name": "Altria Group, Inc.", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Deans Food Company", 
+        "size": 2.64e-06
+      }, 
+      {
+        "name": "Imperial Tobacco", 
+        "size": 5.5799999999999994e-05
+      }, 
+      {
+        "name": "Kellogg Company", 
+        "size": 1.6899999999999997e-05
+      }, 
+      {
+        "name": "Kraft Foods Inc.", 
+        "size": 0.0024552429999999997
+      }, 
+      {
+        "name": "Mondelez", 
+        "size": 0.0013299779999999999
+      }, 
+      {
+        "name": "Pernod Ricard", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Philips Morris International", 
+        "size": 0.001164009
+      }, 
+      {
+        "name": "Viskase", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Health Care Products", 
+    "children": [
+      {
+        "name": "Bausch & Lomb, Incorporated", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Integra LifeSciences", 
+        "size": 0.005407085
+      }, 
+      {
+        "name": "LDR Spine", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Wright Medical Inc.", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Industrial Manufacturing", 
+    "children": [
+      {
+        "name": "A.M. Castle and Co.", 
+        "size": 0.0061047459999999994
+      }, 
+      {
+        "name": "AGCO", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Albany International Corp.", 
+        "size": 5.25e-06
+      }, 
+      {
+        "name": "Apex Tool Group", 
+        "size": 0.000145958
+      }, 
+      {
+        "name": "Apogee Enterprises, Inc.", 
+        "size": 0.000150543
+      }, 
+      {
+        "name": "Astec Industries", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Belden Inc.", 
+        "size": 3.3100000000000005e-05
+      }, 
+      {
+        "name": "Bridgestone Americas Holdings, Inc.", 
+        "size": 9.52e-06
+      }, 
+      {
+        "name": "Chart Industries, Inc.", 
+        "size": 0.009208928
+      }, 
+      {
+        "name": "Danaher Corporation", 
+        "size": 0.021861715
+      }, 
+      {
+        "name": "Deere & Company", 
+        "size": 0.002669484
+      }, 
+      {
+        "name": "Elkay Manufacturing", 
+        "size": 4.72e-05
+      }, 
+      {
+        "name": "Franklin Electric Co.", 
+        "size": 0.017746702
+      }, 
+      {
+        "name": "Glatfelter", 
+        "size": 0.00769081
+      }, 
+      {
+        "name": "Holden Industries", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Illinois Tool Works, Inc.", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Ingersoll Rand", 
+        "size": 0.018178943
+      }, 
+      {
+        "name": "International Truck And Engine Corp [Navistar]", 
+        "size": 0.0063214280000000005
+      }, 
+      {
+        "name": "Jarden Corporation", 
+        "size": 0.004213678
+      }, 
+      {
+        "name": "NSG Group", 
+        "size": 5.01e-06
+      }, 
+      {
+        "name": "PW Power Systems ", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Shaw Industries", 
+        "size": 2.33e-05
+      }, 
+      {
+        "name": "Snap-On Incorporated", 
+        "size": 0.00549414
+      }, 
+      {
+        "name": "SPX Corporation", 
+        "size": 0.007223361
+      }, 
+      {
+        "name": "Tekni-Plex, Inc.", 
+        "size": 0.008833385
+      }, 
+      {
+        "name": "Vita Industrial", 
+        "size": 2.656732609
+      }
+    ]
+  }, 
+  {
+    "name": "Insurance", 
+    "children": [
+      {
+        "name": "AEGON Central Procurement Limited", 
+        "size": 8.92e-06
+      }, 
+      {
+        "name": "Marsh & McLennan Companies, Inc.", 
+        "size": 0.003731403
+      }, 
+      {
+        "name": "Massachusetts Mutual Life Insurance Company", 
+        "size": 4.34e-06
+      }, 
+      {
+        "name": "Metropolitan Life", 
+        "size": 0.002336855
+      }, 
+      {
+        "name": "New York Life International, LLC", 
+        "size": 3.98e-06
+      }, 
+      {
+        "name": "QBE Holdings", 
+        "size": 0.0031849820000000003
+      }, 
+      {
+        "name": "RenaissanceRe Services Ltd.", 
+        "size": 0.008233365
+      }
+    ]
+  }, 
+  {
+    "name": "Manufactured Home Manufacturing", 
+    "children": [
+      {
+        "name": "Algeco Scotsman", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Media, Pub. & Brdcst", 
+    "children": [
+      {
+        "name": "Gartner, Inc.", 
+        "size": 0.0037451690000000004
+      }, 
+      {
+        "name": "IMS Health ", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Viacom Inc.", 
+        "size": 0.0026608409999999997
+      }
+    ]
+  }, 
+  {
+    "name": "Metal Valve & Pipe Fitting Manufacturing", 
+    "children": [
+      {
+        "name": "Watts Water Technologies, Inc.", 
+        "size": 0.006226555
+      }
+    ]
+  }, 
+  {
+    "name": "Metals & Mining", 
+    "children": [
+      {
+        "name": "Boart Longyear Company", 
+        "size": 0.002197877
+      }, 
+      {
+        "name": "Cleveland-Cliffs Inc.", 
+        "size": 3.43e-05
+      }, 
+      {
+        "name": "Peabody Investments Corporation", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Quanex Corporation", 
+        "size": 0.00071222
+      }
+    ]
+  }, 
+  {
+    "name": "Oil & Gas", 
+    "children": [
+      {
+        "name": "Abu Dhabi National Energy Company (TAQA)", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Cheniere Energy, Inc.", 
+        "size": 0.007681103000000001
+      }, 
+      {
+        "name": "Citgo Petroleum", 
+        "size": 5.64e-06
+      }, 
+      {
+        "name": "Cobalt International", 
+        "size": 0.003417752
+      }, 
+      {
+        "name": "Diamond Offshore Company", 
+        "size": 0.005839326
+      }, 
+      {
+        "name": "Transocean Offshore Deepwater", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Pharmaceuticals", 
+    "children": [
+      {
+        "name": "Abbott Laboratories", 
+        "size": 0.0011543810000000001
+      }, 
+      {
+        "name": "ABBVIE", 
+        "size": 0.000206237
+      }, 
+      {
+        "name": "Alkermes, Inc.", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Astellas US LLC.", 
+        "size": 0.07415667599999999
+      }, 
+      {
+        "name": "EMD Serono", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Johnson & Johnson", 
+        "size": 0.000674538
+      }, 
+      {
+        "name": "Lonza Inc.", 
+        "size": 2.8699999999999996e-05
+      }, 
+      {
+        "name": "Medtronic", 
+        "size": 0.0
+      }, 
+      {
+        "name": "PerkinElmer Inc.", 
+        "size": 0.00024436900000000003
+      }, 
+      {
+        "name": "Perrigo Company", 
+        "size": 0.000210192
+      }, 
+      {
+        "name": "Pfizer Inc.", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Purdue Pharma L.P.", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Qiagen GmbH", 
+        "size": 0.002721898
+      }, 
+      {
+        "name": "Sanofi", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Taro Pharmaceuticals USA Inc.", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Real Estate", 
+    "children": [
+      {
+        "name": "ProLogis", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Retail", 
+    "children": [
+      {
+        "name": "Liberty Interactive", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Schools & Ed. Services", 
+    "children": [
+      {
+        "name": "Laureate Education", 
+        "size": 0.000157443
+      }
+    ]
+  }, 
+  {
+    "name": "Security", 
+    "children": [
+      {
+        "name": "Triple Canopy", 
+        "size": 0.002454219
+      }
+    ]
+  }, 
+  {
+    "name": "Steel Service Centers & Other Metal Whol", 
+    "children": [
+      {
+        "name": "Mitsubishi International Corporation", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Telecommunications Equipment", 
+    "children": [
+      {
+        "name": "Motorola, Inc.", 
+        "size": 0.008719815
+      }, 
+      {
+        "name": "NEC USA", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Telecommunications Services", 
+    "children": [
+      {
+        "name": "Cablevision", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Vonage Holdings Corp.", 
+        "size": 0.0
+      }
+    ]
+  }, 
+  {
+    "name": "Transportation", 
+    "children": [
+      {
+        "name": "Aircontactgruppen AS", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Atlas Air", 
+        "size": 0.0
+      }, 
+      {
+        "name": "Hornbeck Offshore Services, Inc.", 
+        "size": 0.002852305
+      }, 
+      {
+        "name": "SABRE Inc.", 
+        "size": 0.007145608
+      }, 
+      {
+        "name": "SIRVA Worldwide, Inc.", 
+        "size": 2.37e-05
+      }, 
+      {
+        "name": "Universal Weather and Aviation, Inc.", 
+        "size": 0.006942401
+      }
+    ]
+  }
+]}

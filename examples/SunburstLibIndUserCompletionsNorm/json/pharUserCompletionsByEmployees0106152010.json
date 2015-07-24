@@ -1,0 +1,3812 @@
+{"name": "Topic Area", "children":[
+  {
+    "name": "Anti-Corruption & Bribery", 
+    "children": [
+      {
+        "name": "Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBE501", 
+            "children": [
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE502", 
+            "children": [
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT001", 
+            "children": [
+              {
+                "name": "Medtronic", 
+                "size": 1.55767e-06
+              }
+            ]
+          }, 
+          {
+            "name": "INT409", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA", 
+        "children": [
+          {
+            "name": "DBA101", 
+            "children": [
+              {
+                "name": "Astellas US LLC.", 
+                "size": 5.32202e-05
+              }, 
+              {
+                "name": "Medtronic", 
+                "size": 1.03844e-06
+              }
+            ]
+          }, 
+          {
+            "name": "DBA216", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Astellas US LLC.", 
+                "size": 5.32202e-05
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.000627031
+              }, 
+              {
+                "name": "Medtronic", 
+                "size": 5.19222e-07
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 8.950680000000001e-05
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.008103667
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA216Af", 
+            "children": [
+              {
+                "name": "Alkermes, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA217", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.001351794
+              }, 
+              {
+                "name": "Medtronic", 
+                "size": 1.55767e-06
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBA001", 
+            "children": [
+              {
+                "name": "Medtronic", 
+                "size": 1.03844e-06
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 5.08011e-05
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 2.05285e-07
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 5.28897e-05
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA550", 
+            "children": [
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Global, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "COM560", 
+            "children": [
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE001", 
+            "children": [
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Taro Pharmaceuticals USA Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE405", 
+            "children": [
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT405", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.000918195
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.000570724
+              }, 
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Medtronic", 
+                "size": 1.03844e-06
+              }, 
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "UKBA", 
+        "children": [
+          {
+            "name": "DBE110", 
+            "children": [
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Anti-Money Laundering", 
+    "children": [
+      {
+        "name": "PATRIOT Act compliance", 
+        "children": [
+          {
+            "name": "BAF211", 
+            "children": [
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Competition", 
+    "children": [
+      {
+        "name": "Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP001", 
+            "children": [
+              {
+                "name": "Perrigo Company", 
+                "size": 4.8382e-06
+              }
+            ]
+          }, 
+          {
+            "name": "CMP003", 
+            "children": [
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP212", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.005756206999999999
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.008724063
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 5.41539e-06
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP213", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 6.1623400000000005e-06
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.00327916
+              }
+            ]
+          }, 
+          {
+            "name": "CMP214", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 4.4817e-06
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.77401e-05
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.000476079
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 5.32202e-05
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.002597147
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Competition - General", 
+        "children": [
+          {
+            "name": "CME001", 
+            "children": [
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.000290292
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.00219977
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CME406", 
+            "children": [
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.00185916
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CME501", 
+            "children": [
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CME502", 
+            "children": [
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP231", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 5.60213e-07
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT400", 
+            "children": [
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT406", 
+            "children": [
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT406As", 
+            "children": [
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "European Union", 
+        "children": [
+          {
+            "name": "CMP515", 
+            "children": [
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.00022642799999999998
+              }
+            ]
+          }, 
+          {
+            "name": "DBA237", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.1204299999999999e-06
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 1.93528e-06
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Intellectual Property", 
+        "children": [
+          {
+            "name": "ECM210", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 5.60213e-07
+              }
+            ]
+          }, 
+          {
+            "name": "IPY211", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 3.41703e-05
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.3071600000000001e-06
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pharmavite LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY212", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.000218483
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY216", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 2.24085e-06
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY220", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.3071600000000001e-06
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY221", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 3.7347499999999995e-07
+              }
+            ]
+          }, 
+          {
+            "name": "IPY222", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY230", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 9.336879999999999e-07
+              }
+            ]
+          }, 
+          {
+            "name": "IPY235", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.86738e-06
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY250", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.4938999999999998e-06
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.000777983
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pharmavite LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY411", 
+            "children": [
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "M&A, Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP245", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.86738e-07
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest", 
+    "children": [
+      {
+        "name": "Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH011", 
+            "children": [
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Taro Pharmaceuticals USA Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH017", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH104", 
+            "children": [
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH211", 
+            "children": [
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH212", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 3.56669e-05
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH221", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.00010251100000000001
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pharmavite LLC", 
+                "size": 0.001127017
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.005183188
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Taro Pharmaceuticals USA Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH222Es", 
+            "children": [
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "FAR, Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH012", 
+            "children": [
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate governance", 
+    "children": [
+      {
+        "name": "Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "COM303", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ECM215", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ethical Sales", 
+        "children": [
+          {
+            "name": "CMP225", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ECM220", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 3.7347499999999995e-07
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial integrity", 
+        "children": [
+          {
+            "name": "COM460", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM470", 
+            "children": [
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate Governance, Industries", 
+    "children": [
+      {
+        "name": "Corporate Governance - General, Healthcare", 
+        "children": [
+          {
+            "name": "HEA551", 
+            "children": [
+              {
+                "name": "UCB, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ethical Sales, Fraud, Pharma", 
+        "children": [
+          {
+            "name": "HEA330", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Alkermes, Inc.", 
+                "size": 0.00046124199999999995
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.045309809000000006
+              }, 
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.00240648
+              }, 
+              {
+                "name": "Taro Pharmaceuticals USA Inc.", 
+                "size": 0.0008648289999999999
+              }
+            ]
+          }, 
+          {
+            "name": "HEA331", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pharmerica", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ethical Sales, Healthcare", 
+        "children": [
+          {
+            "name": "HEA370", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 1.6375499999999999e-06
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 2.02744e-06
+              }, 
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA371", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.002152728
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.001031349
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "CSR", 
+    "children": [
+      {
+        "name": "Environmental, Health & Safety; Corporate Governance - General", 
+        "children": [
+          {
+            "name": "ENV205", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.1204299999999999e-06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management", 
+    "children": [
+      {
+        "name": "Code of Conduct", 
+        "children": [
+          {
+            "name": "ETG900", 
+            "children": [
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH999", 
+            "children": [
+              {
+                "name": "Alkermes, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 5.91336e-06
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 2.4191e-06
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Education & Communication", 
+        "children": [
+          {
+            "name": "ETH400", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 2.10542e-06
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 1.01372e-06
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.000283035
+              }, 
+              {
+                "name": "Pharmavite LLC", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management, HOW", 
+    "children": [
+      {
+        "name": "Education & Communication, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH350As", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Education & Communication, HOW - General", 
+        "children": [
+          {
+            "name": "ETH006", 
+            "children": [
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment", 
+    "children": [
+      {
+        "name": "Claims & Litigation", 
+        "children": [
+          {
+            "name": "COM211", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 3.7347499999999995e-07
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General", 
+        "children": [
+          {
+            "name": "CMP226", 
+            "children": [
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 2.24085e-06
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP227", 
+            "children": [
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 5.60213e-07
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM300", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 3.7347499999999995e-07
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR216", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR231", 
+            "children": [
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 3.83186e-05
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.6806400000000002e-05
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General, Compensation", 
+        "children": [
+          {
+            "name": "CMP104", 
+            "children": [
+              {
+                "name": "Perrigo Company", 
+                "size": 7.2573e-06
+              }
+            ]
+          }, 
+          {
+            "name": "HUR237", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.86738e-07
+              }
+            ]
+          }, 
+          {
+            "name": "HUR238", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR265", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR703", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 6.38643e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR002", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.000757179
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 2.64448e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR101", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR220", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.36318e-05
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR222", 
+            "children": [
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 3.17454e-06
+              }
+            ]
+          }, 
+          {
+            "name": "HUR223", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.86738e-07
+              }
+            ]
+          }, 
+          {
+            "name": "HUR241", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 4.257619999999999e-06
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR247", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR248", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.86738e-07
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR250", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR420", 
+            "children": [
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 2.98033e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR602", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.000133051
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.022531
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702", 
+            "children": [
+              {
+                "name": "Alkermes, Inc.", 
+                "size": 0.000248361
+              }, 
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.000174175
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.012719966000000001
+              }
+            ]
+          }, 
+          {
+            "name": "HUR704", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.00216558
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705", 
+            "children": [
+              {
+                "name": "Alkermes, Inc.", 
+                "size": 0.001791748
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.011754581000000002
+              }, 
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.000191593
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.001735947
+              }, 
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 0.001277286
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Taro Pharmaceuticals USA Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Af", 
+            "children": [
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Bs", 
+            "children": [
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR706", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR707", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR708", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR709", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR710", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.004521591
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pharmavite LLC", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 7.93345e-05
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 2.8384099999999998e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR711", 
+            "children": [
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 0.000369585
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.00012933
+              }, 
+              {
+                "name": "Pharmavite LLC", 
+                "size": 0.000601076
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Aa", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 0.000342975
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.00011085399999999999
+              }, 
+              {
+                "name": "Pharmavite LLC", 
+                "size": 0.000601076
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ba", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 0.000337061
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.000104901
+              }, 
+              {
+                "name": "Pharmavite LLC", 
+                "size": 0.000601076
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ca", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 0.000331148
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.000101616
+              }, 
+              {
+                "name": "Pharmavite LLC", 
+                "size": 0.00062612
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR720", 
+            "children": [
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW103", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety", 
+        "children": [
+          {
+            "name": "HUR251", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.86738e-07
+              }
+            ]
+          }, 
+          {
+            "name": "HUR252", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.86738e-07
+              }
+            ]
+          }, 
+          {
+            "name": "HUR253", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR100", 
+            "children": [
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Taro Pharmaceuticals USA Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Recruiting/Hiring, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR285", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.15777e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Corporate governance", 
+    "children": [
+      {
+        "name": "Employment - General, Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "COM301", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.86738e-07
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM302", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ECM205", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.1204299999999999e-06
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gifts & Entertainment", 
+    "children": [
+      {
+        "name": "Gifts & Entertainment - General", 
+        "children": [
+          {
+            "name": "ETH002", 
+            "children": [
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.00018627099999999998
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.00010251100000000001
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.00061929
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW", 
+    "children": [
+      {
+        "name": "Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH001", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 2.4191e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH007", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH013", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH101", 
+            "children": [
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH206", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.00665288
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.009342432
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.000555426
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH235", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH236", 
+            "children": [
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH350", 
+            "children": [
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pharmavite LLC", 
+                "size": 0.001177106
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH325", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.000191593
+              }, 
+              {
+                "name": "Medtronic", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH326", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, Corporate governance", 
+    "children": [
+      {
+        "name": "HOW - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "ETH230", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, CSR", 
+    "children": [
+      {
+        "name": "HOW - General, CSR - General", 
+        "children": [
+          {
+            "name": "HOW001", 
+            "children": [
+              {
+                "name": "Medtronic", 
+                "size": 5.71144e-06
+              }, 
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Taro Pharmaceuticals USA Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, E&C Program Management", 
+    "children": [
+      {
+        "name": "Inspirational Leadership, Education & Communication", 
+        "children": [
+          {
+            "name": "ETH003", 
+            "children": [
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.00010644
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.000691863
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Industries, Corporate Governance", 
+    "children": [
+      {
+        "name": "Healthcare, Pharma, Medical Device, Corporate Governance - General", 
+        "children": [
+          {
+            "name": "HEA210", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA305", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.044968105999999994
+              }
+            ]
+          }, 
+          {
+            "name": "HEA460", 
+            "children": [
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Medtronic", 
+                "size": 0.002619474
+              }, 
+              {
+                "name": "Pharmerica", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA510", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.1204299999999999e-06
+              }
+            ]
+          }, 
+          {
+            "name": "HEA520", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.049854458
+              }, 
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.0013879839999999999
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.86738e-06
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.051276536
+              }, 
+              {
+                "name": "Taro Pharmaceuticals USA Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Pharma, Ethical Sales", 
+        "children": [
+          {
+            "name": "HEA310", 
+            "children": [
+              {
+                "name": "Alkermes, Inc.", 
+                "size": 0.0016675670000000002
+              }, 
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Taro Pharmaceuticals USA Inc.", 
+                "size": 7.98303e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Industries, Corporate Governance, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Healthcare, Pharma, Medical Device, Corporate Governance - General, Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "HEA001", 
+            "children": [
+              {
+                "name": "Taro Pharmaceuticals USA Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Data Privacy", 
+        "children": [
+          {
+            "name": "COE407", 
+            "children": [
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM003", 
+            "children": [
+              {
+                "name": "Perrigo Company", 
+                "size": 0.004654351
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM455", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA246", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 5.60213e-07
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INS231", 
+            "children": [
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT407", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 5.848380000000001e-06
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "External Communication", 
+        "children": [
+          {
+            "name": "COM001", 
+            "children": [
+              {
+                "name": "Alkermes, Inc.", 
+                "size": 0.000762823
+              }, 
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.000133051
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.00010251100000000001
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.00067251
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 7.096030000000001e-06
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM002", 
+            "children": [
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.000133051
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM102", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM205", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM206", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 1.4036099999999998e-06
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 1.01372e-06
+              }, 
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.00460355
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.002637483
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0010121519999999999
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.000667672
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.017434948000000002
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM235", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM236", 
+            "children": [
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.000532202
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.00235775
+              }, 
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 8.515239999999999e-06
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.000557599
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.0007692739999999999
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Taro Pharmaceuticals USA Inc.", 
+                "size": 0.0007849980000000001
+              }
+            ]
+          }, 
+          {
+            "name": "COM420", 
+            "children": [
+              {
+                "name": "Astellas US LLC.", 
+                "size": 5.32202e-05
+              }, 
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW100", 
+            "children": [
+              {
+                "name": "Alkermes, Inc.", 
+                "size": 0.001543387
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Information security", 
+        "children": [
+          {
+            "name": "COM004", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.00027336200000000003
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM221", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 5.60213e-07
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM230", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM410", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM430", 
+            "children": [
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR210", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 3.7347499999999995e-07
+              }
+            ]
+          }, 
+          {
+            "name": "INS300", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Insurance, Data Privacy", 
+        "children": [
+          {
+            "name": "HEA426", 
+            "children": [
+              {
+                "name": "Medtronic", 
+                "size": 0.00043355
+              }, 
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pharmerica", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR271", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INS232", 
+            "children": [
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Privacy & Data Protection - General", 
+        "children": [
+          {
+            "name": "DBA546", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 6.34908e-06
+              }, 
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection, Industries", 
+    "children": [
+      {
+        "name": "Data Privacy, Healthcare", 
+        "children": [
+          {
+            "name": "HEA445", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA455", 
+            "children": [
+              {
+                "name": "Pharmerica", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR270", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Data Privacy, Pharma", 
+        "children": [
+          {
+            "name": "HEA435", 
+            "children": [
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Purdue Pharma L.P.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA436", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pharmerica", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Data Privacy, Privacy & Data Protection - General, Medical Device", 
+        "children": [
+          {
+            "name": "HEA100", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Medtronic", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA102", 
+            "children": [
+              {
+                "name": "Medtronic", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection, Industries, Corporate Governance", 
+    "children": [
+      {
+        "name": "Data Privacy, Privacy & Data Protection - General, Healthcare, Pharma, Medical Device, Financial Integrity", 
+        "children": [
+          {
+            "name": "HEA107", 
+            "children": [
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Taro Pharmaceuticals USA Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Records Management", 
+    "children": [
+      {
+        "name": "Records Management - General", 
+        "children": [
+          {
+            "name": "COM601", 
+            "children": [
+              {
+                "name": "Alkermes, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM603", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR107", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR275", 
+            "children": [
+              {
+                "name": "Alkermes, Inc.", 
+                "size": 0.0016320870000000002
+              }, 
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.00015966100000000002
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.0070758719999999995
+              }
+            ]
+          }, 
+          {
+            "name": "HUR722", 
+            "children": [
+              {
+                "name": "Alkermes, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT408", 
+            "children": [
+              {
+                "name": "Alkermes, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM542", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM543", 
+            "children": [
+              {
+                "name": "Medtronic", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up", 
+        "children": [
+          {
+            "name": "COM244", 
+            "children": [
+              {
+                "name": "Perrigo Company", 
+                "size": 0.004891423
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE338", 
+            "children": [
+              {
+                "name": "Medtronic", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up, Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM242", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Speaking up, HOW - General", 
+        "children": [
+          {
+            "name": "ETE339", 
+            "children": [
+              {
+                "name": "Medtronic", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading", 
+    "children": [
+      {
+        "name": "Insider Trading", 
+        "children": [
+          {
+            "name": "CMP002", 
+            "children": [
+              {
+                "name": "Perrigo Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP105", 
+            "children": [
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP211", 
+            "children": [
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP222", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "EMD Serono", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 1.86738e-07
+              }, 
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0037396079999999997
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security", 
+        "children": [
+          {
+            "name": "COM207", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM213", 
+            "children": [
+              {
+                "name": "Perrigo Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Taro Pharmaceuticals USA Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection, HOW", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM207Af", 
+            "children": [
+              {
+                "name": "Lonza Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Supply Chain", 
+    "children": [
+      {
+        "name": "Child/Forced Labor, Human Rights", 
+        "children": [
+          {
+            "name": "CSR201", 
+            "children": [
+              {
+                "name": "Pharmavite LLC", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Trade Controls", 
+    "children": [
+      {
+        "name": "Trade Controls - General", 
+        "children": [
+          {
+            "name": "DBA206", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 3.7347499999999995e-07
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA220", 
+            "children": [
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA230", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "ABBVIE", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 7.469509999999999e-07
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA250", 
+            "children": [
+              {
+                "name": "PerkinElmer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA260", 
+            "children": [
+              {
+                "name": "Perrigo Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "(blank)", 
+    "children": [
+      {
+        "name": "(blank)", 
+        "children": [
+          {
+            "name": "CER003", 
+            "children": [
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Medtronic", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Perrigo Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Taro Pharmaceuticals USA Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER004", 
+            "children": [
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER005", 
+            "children": [
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER006", 
+            "children": [
+              {
+                "name": "Astellas US LLC.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP201", 
+            "children": [
+              {
+                "name": "Abbott Laboratories", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Hoffmann-La Roche Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP203", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP204", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP205", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP215", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP216", 
+            "children": [
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP220", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM210", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM220", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA205", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE017", 
+            "children": [
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Qiagen GmbH", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Sanofi", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF205", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA230", 
+            "children": [
+              {
+                "name": "Pfizer Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR215", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR225", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR226", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR227", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR276", 
+            "children": [
+              {
+                "name": "Perrigo Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR601", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY205", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY206", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY215", 
+            "children": [
+              {
+                "name": "Johnson & Johnson", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]}

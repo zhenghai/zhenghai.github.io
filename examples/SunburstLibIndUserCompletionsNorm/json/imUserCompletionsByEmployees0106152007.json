@@ -1,0 +1,5758 @@
+{"name": "Topic Area", "children":[
+  {
+    "name": "Anti-Corruption & Bribery", 
+    "children": [
+      {
+        "name": "Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBE501", 
+            "children": [
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE502", 
+            "children": [
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT001", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT409", 
+            "children": [
+              {
+                "name": "AGCO", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Tekni-Plex, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA", 
+        "children": [
+          {
+            "name": "DBA101", 
+            "children": [
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA216", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Belden Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 1.89227e-05
+              }, 
+              {
+                "name": "Chart Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.002122315
+              }, 
+              {
+                "name": "Elkay Manufacturing", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 2.39192e-05
+              }, 
+              {
+                "name": "Tekni-Plex, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA216Af", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA217", 
+            "children": [
+              {
+                "name": "Albany International Corp.", 
+                "size": 0.00839642
+              }, 
+              {
+                "name": "Astec Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chart Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Elkay Manufacturing", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 7.09603e-07
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA218", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "FCPA, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "DBA001", 
+            "children": [
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chart Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Elkay Manufacturing", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA550", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Global, Corruption & Bribery - General", 
+        "children": [
+          {
+            "name": "COM560", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 3.4534e-05
+              }, 
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA312", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE001", 
+            "children": [
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Tekni-Plex, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBE405", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chart Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT405", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Astec Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chart Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 3.70748e-05
+              }, 
+              {
+                "name": "Tekni-Plex, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "UKBA", 
+        "children": [
+          {
+            "name": "DBE110", 
+            "children": [
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Anti-Money Laundering", 
+    "children": [
+      {
+        "name": "PATRIOT Act compliance", 
+        "children": [
+          {
+            "name": "BAF211", 
+            "children": [
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Competition", 
+    "children": [
+      {
+        "name": "Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP001", 
+            "children": [
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 4.96722e-06
+              }
+            ]
+          }, 
+          {
+            "name": "CMP003", 
+            "children": [
+              {
+                "name": "Belden Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP101", 
+            "children": [
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 7.09603e-07
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.006628927
+              }
+            ]
+          }, 
+          {
+            "name": "CMP209", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 2.98033e-05
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP212", 
+            "children": [
+              {
+                "name": "Albany International Corp.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 9.035610000000001e-05
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP213", 
+            "children": [
+              {
+                "name": "Albany International Corp.", 
+                "size": 0.008525139000000001
+              }, 
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 6.57566e-05
+              }, 
+              {
+                "name": "Chart Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 1.8422400000000002e-05
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 2.8384099999999998e-05
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP214", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 7.94755e-05
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.000513297
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 8.2314e-05
+              }, 
+              {
+                "name": "Chart Industries, Inc.", 
+                "size": 0.000811292
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.001370376
+              }, 
+              {
+                "name": "Elkay Manufacturing", 
+                "size": 9.90144e-05
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.000319976
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 3.70228e-06
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.000137535
+              }
+            ]
+          }, 
+          {
+            "name": "CMP300Af", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Competition - General", 
+        "children": [
+          {
+            "name": "CME001", 
+            "children": [
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CME406", 
+            "children": [
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CME501", 
+            "children": [
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Smiths Group plc", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CME502", 
+            "children": [
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP231", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 9.36676e-05
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT400", 
+            "children": [
+              {
+                "name": "Belden Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.00010596700000000001
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0017250570000000001
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT406", 
+            "children": [
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT406As", 
+            "children": [
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW102", 
+            "children": [
+              {
+                "name": "Albany International Corp.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "European Union", 
+        "children": [
+          {
+            "name": "CMP515", 
+            "children": [
+              {
+                "name": "Chart Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA237", 
+            "children": [
+              {
+                "name": "Chart Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Intellectual Property", 
+        "children": [
+          {
+            "name": "INT404", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.001600576
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY101", 
+            "children": [
+              {
+                "name": "Belden Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 7.1757600000000006e-06
+              }
+            ]
+          }, 
+          {
+            "name": "IPY211", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Belden Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 7.99486e-05
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.007725052
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.000321586
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0006065469999999999
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0009352410000000001
+              }
+            ]
+          }, 
+          {
+            "name": "IPY212", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 5.06184e-05
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 1.19596e-06
+              }
+            ]
+          }, 
+          {
+            "name": "IPY216", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 5.77144e-05
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 7.09603e-07
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 3.5878800000000003e-06
+              }
+            ]
+          }, 
+          {
+            "name": "IPY220", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 7.00142e-05
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY221", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 1.9395799999999998e-05
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 7.096030000000001e-06
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 4.06626e-05
+              }
+            ]
+          }, 
+          {
+            "name": "IPY222", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY230", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 6.81219e-05
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY235", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY250", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.000375807
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 5.4876e-05
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 7.2163e-07
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 6.79407e-05
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 4.09386e-06
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "IPY411", 
+            "children": [
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW105", 
+            "children": [
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "M&A, Antitrust (US)", 
+        "children": [
+          {
+            "name": "CMP245", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest", 
+    "children": [
+      {
+        "name": "Conflicts of Interest", 
+        "children": [
+          {
+            "name": "ETH011", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH103", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH104", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 7.09603e-07
+              }
+            ]
+          }, 
+          {
+            "name": "ETH211", 
+            "children": [
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH212", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Elkay Manufacturing", 
+                "size": 7.42608e-05
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.00016533799999999998
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 5.50142e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH221", 
+            "children": [
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.005605024
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.00017976599999999999
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.00512273
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 4.96722e-06
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 6.69738e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH222Es", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Directors", 
+        "children": [
+          {
+            "name": "ETH322", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 1.70305e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH323", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 4.4941499999999997e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH324", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 3.50071e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Conflicts of Interest, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Government Contracting & Relationships - General, Conflicts of Interest", 
+        "children": [
+          {
+            "name": "DEF210", 
+            "children": [
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate governance", 
+    "children": [
+      {
+        "name": "Corporate Governance - General", 
+        "children": [
+          {
+            "name": "COM245", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 2.5545700000000002e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "AUT305", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "AUT310", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.00020862299999999998
+              }
+            ]
+          }, 
+          {
+            "name": "COM303", 
+            "children": [
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Ethical Sales", 
+        "children": [
+          {
+            "name": "CMP225", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000100764
+              }
+            ]
+          }, 
+          {
+            "name": "CMP435", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.00043522300000000004
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 7.09603e-07
+              }
+            ]
+          }, 
+          {
+            "name": "ECM220", 
+            "children": [
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial Compliance", 
+        "children": [
+          {
+            "name": "COM441", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Financial integrity", 
+        "children": [
+          {
+            "name": "COM460", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM470", 
+            "children": [
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Products Liability", 
+        "children": [
+          {
+            "name": "COM450", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 9.41407e-05
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 2.75071e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Corporate Governance, Industries", 
+    "children": [
+      {
+        "name": "Ethical Sales, Fraud, Pharma", 
+        "children": [
+          {
+            "name": "HEA330", 
+            "children": [
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "CSR", 
+    "children": [
+      {
+        "name": "Environmental", 
+        "children": [
+          {
+            "name": "ENV311", 
+            "children": [
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV312", 
+            "children": [
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Environmental, Health & Safety; Corporate Governance - General", 
+        "children": [
+          {
+            "name": "ENV205", 
+            "children": [
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ENV220", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 8.609850000000001e-05
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.001023633
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 4.90344e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Environmental; HOW - General", 
+        "children": [
+          {
+            "name": "SUS100", 
+            "children": [
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management", 
+    "children": [
+      {
+        "name": "Code of Conduct", 
+        "children": [
+          {
+            "name": "ETG900", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH099", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH215", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH990", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH999", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Tekni-Plex, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Education & Communication", 
+        "children": [
+          {
+            "name": "ETH400", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "E&C Program Management, HOW", 
+    "children": [
+      {
+        "name": "Education & Communication, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH350As", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Education & Communication, HOW - General", 
+        "children": [
+          {
+            "name": "ETH006", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment", 
+    "children": [
+      {
+        "name": "Claims & Litigation", 
+        "children": [
+          {
+            "name": "COM211", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General", 
+        "children": [
+          {
+            "name": "CMP226", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.000751614
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 8.704459999999999e-05
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 9.20889e-05
+              }
+            ]
+          }, 
+          {
+            "name": "CMP227", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 2.31804e-05
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 8.73051e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR216", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 1.91593e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR231", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Employment - General, Compensation", 
+        "children": [
+          {
+            "name": "CMP104", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR237", 
+            "children": [
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR265", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 4.8726099999999994e-05
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR703", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.000549961
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Elkay Manufacturing", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 1.41921e-06
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT401", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR001", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 1.41921e-06
+              }
+            ]
+          }, 
+          {
+            "name": "HUR002", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR101", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 9.36676e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR102", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 4.54146e-05
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.006266104000000001
+              }
+            ]
+          }, 
+          {
+            "name": "HUR103", 
+            "children": [
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR104", 
+            "children": [
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR220", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000140028
+              }
+            ]
+          }, 
+          {
+            "name": "HUR222", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.000687452
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR241", 
+            "children": [
+              {
+                "name": "AGCO", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.00018544299999999998
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.000934045
+              }, 
+              {
+                "name": "Tekni-Plex, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR247", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR248", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.000824942
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000513753
+              }
+            ]
+          }, 
+          {
+            "name": "HUR250", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.00062329
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000323579
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR420", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR423", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 7.28526e-05
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR602", 
+            "children": [
+              {
+                "name": "Albany International Corp.", 
+                "size": 0.006322068
+              }, 
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0027177259999999997
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.008660285
+              }, 
+              {
+                "name": "Elkay Manufacturing", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0008334060000000001
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0008446460000000001
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR702", 
+            "children": [
+              {
+                "name": "AGCO", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0008478569999999999
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.00019727
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.00051182
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.00017882
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 1.85114e-06
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR704", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.002140267
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.005014025
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 1.41921e-06
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "AGCO", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Elkay Manufacturing", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 3.70748e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Af", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR705Bs", 
+            "children": [
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR706", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 2.83841e-06
+              }
+            ]
+          }, 
+          {
+            "name": "HUR707", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR708", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR709", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR710", 
+            "children": [
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR711", 
+            "children": [
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR713", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "AGCO", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Tekni-Plex, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Aa", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "AGCO", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Tekni-Plex, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ba", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "AGCO", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Tekni-Plex, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR715Ca", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "AGCO", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Tekni-Plex, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR716", 
+            "children": [
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR721", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR750", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "OVW103", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 9.56768e-06
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety", 
+        "children": [
+          {
+            "name": "AUT300", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 6.622960000000001e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HEA110", 
+            "children": [
+              {
+                "name": "AGCO", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR251", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000191593
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.000321586
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 4.78384e-05
+              }
+            ]
+          }, 
+          {
+            "name": "HUR252", 
+            "children": [
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR253", 
+            "children": [
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR280", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT403", 
+            "children": [
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.000747348
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Health & Safety, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR100", 
+            "children": [
+              {
+                "name": "AGCO", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Albany International Corp.", 
+                "size": 0.006257709
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000662296
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Labor unions", 
+        "children": [
+          {
+            "name": "HUR300", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.000646205
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000393593
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Recruiting/Hiring", 
+        "children": [
+          {
+            "name": "HUR108", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 3.33513e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Recruiting/Hiring, Harassment, Diversity and Discrimination", 
+        "children": [
+          {
+            "name": "HUR285", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0005957919999999999
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000490099
+              }, 
+              {
+                "name": "Chart Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Elkay Manufacturing", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.000108705
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Corporate governance", 
+    "children": [
+      {
+        "name": "Employment - General, Corporate Governance - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "COM302", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.000192487
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 1.41921e-06
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 1.19596e-06
+              }
+            ]
+          }, 
+          {
+            "name": "ECM205", 
+            "children": [
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ECM230", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Employment, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Retaliation, Speaking Up", 
+        "children": [
+          {
+            "name": "COM206Af", 
+            "children": [
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gifts & Entertainment", 
+    "children": [
+      {
+        "name": "Gifts & Entertainment - General", 
+        "children": [
+          {
+            "name": "DEF215", 
+            "children": [
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF415", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000511387
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 1.85114e-06
+              }
+            ]
+          }, 
+          {
+            "name": "ETH002", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 4.257619999999999e-06
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH227", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Gifts & Entertainment, Industries", 
+    "children": [
+      {
+        "name": "Gifts & Entertainment - General, Finance", 
+        "children": [
+          {
+            "name": "SEC225", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "FAR", 
+        "children": [
+          {
+            "name": "DEF260", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Government Contracting & Relationships - General", 
+        "children": [
+          {
+            "name": "COM240", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 2.41265e-05
+              }
+            ]
+          }, 
+          {
+            "name": "DEF250", 
+            "children": [
+              {
+                "name": "SPX Corporation", 
+                "size": 4.78384e-05
+              }
+            ]
+          }, 
+          {
+            "name": "DEF300", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 1.8422400000000002e-05
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DEF305", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Lobbying", 
+        "children": [
+          {
+            "name": "COM216", 
+            "children": [
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW", 
+    "children": [
+      {
+        "name": "Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETE332", 
+            "children": [
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE356", 
+            "children": [
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH001", 
+            "children": [
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH013", 
+            "children": [
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH014", 
+            "children": [
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH101", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH102", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.007071349
+              }
+            ]
+          }, 
+          {
+            "name": "ETH206", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.002351085
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000241265
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.000163058
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 7.1757600000000006e-06
+              }
+            ]
+          }, 
+          {
+            "name": "ETH235", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.00031932099999999996
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH236", 
+            "children": [
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH350", 
+            "children": [
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Belden Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000504291
+              }, 
+              {
+                "name": "Elkay Manufacturing", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.000317057
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0022755329999999997
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.000955572
+              }
+            ]
+          }, 
+          {
+            "name": "ETH351", 
+            "children": [
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "HOW - General", 
+        "children": [
+          {
+            "name": "HOW001As", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "HOW - General, Inspirational Leadership", 
+        "children": [
+          {
+            "name": "ETH110", 
+            "children": [
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership", 
+        "children": [
+          {
+            "name": "ETE600", 
+            "children": [
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH120", 
+            "children": [
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH121", 
+            "children": [
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR004", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Inspirational Leadership, Ethical Decision-Making", 
+        "children": [
+          {
+            "name": "ETH325", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.002589402
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.00036946699999999995
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 4.90344e-05
+              }
+            ]
+          }, 
+          {
+            "name": "ETH325As", 
+            "children": [
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH326", 
+            "children": [
+              {
+                "name": "Albany International Corp.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.00023133099999999998
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 6.218989999999999e-05
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Respectful Communication", 
+        "children": [
+          {
+            "name": "COM114", 
+            "children": [
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, Corporate governance", 
+    "children": [
+      {
+        "name": "HOW - General, Ethical Sales", 
+        "children": [
+          {
+            "name": "ETH230", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.000325394
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 1.19596e-06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, CSR", 
+    "children": [
+      {
+        "name": "HOW - General, CSR - General", 
+        "children": [
+          {
+            "name": "HOW001", 
+            "children": [
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "HOW, E&C Program Management", 
+    "children": [
+      {
+        "name": "Inspirational Leadership, Education & Communication", 
+        "children": [
+          {
+            "name": "ETH003", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Data Privacy", 
+        "children": [
+          {
+            "name": "COE407", 
+            "children": [
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM003", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Belden Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM455", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.000132907
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.00017125099999999998
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA246", 
+            "children": [
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 5.86021e-05
+              }
+            ]
+          }, 
+          {
+            "name": "INS231", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT407", 
+            "children": [
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "External Communication", 
+        "children": [
+          {
+            "name": "COM001", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Belden Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 2.83841e-06
+              }
+            ]
+          }, 
+          {
+            "name": "COM002", 
+            "children": [
+              {
+                "name": "Belden Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM101", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.000124181
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.004629697
+              }
+            ]
+          }, 
+          {
+            "name": "COM102", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM205", 
+            "children": [
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM206", 
+            "children": [
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.001109089
+              }, 
+              {
+                "name": "Belden Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.00091728
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.001299932
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 1.94459e-05
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 2.83841e-06
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM236", 
+            "children": [
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Belden Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000609313
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.007699795
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Elkay Manufacturing", 
+                "size": 6.93101e-05
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0051453770000000005
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0012910410000000002
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 2.1288099999999997e-06
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.000954376
+              }
+            ]
+          }, 
+          {
+            "name": "COM420", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000258296
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Information security", 
+        "children": [
+          {
+            "name": "COM004", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM006", 
+            "children": [
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM007", 
+            "children": [
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM103", 
+            "children": [
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM221", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000170305
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM410", 
+            "children": [
+              {
+                "name": "Albany International Corp.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.000568294
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000263499
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.001383726
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 2.83841e-06
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM410As", 
+            "children": [
+              {
+                "name": "Belden Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM410Bf", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM413", 
+            "children": [
+              {
+                "name": "Albany International Corp.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM430", 
+            "children": [
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR210", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INS300", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Insurance, Data Privacy", 
+        "children": [
+          {
+            "name": "HEA426", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 9.6033e-05
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR271", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 7.09603e-07
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Privacy & Data Protection - General", 
+        "children": [
+          {
+            "name": "DBA546", 
+            "children": [
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 2.39192e-06
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection, HOW", 
+    "children": [
+      {
+        "name": "Information Security, External Communication, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM112", 
+            "children": [
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Privacy & Data Protection, Industries", 
+    "children": [
+      {
+        "name": "Data Privacy, Healthcare", 
+        "children": [
+          {
+            "name": "HEA425", 
+            "children": [
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA445", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Chart Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HEA455", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR270", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Records Management", 
+    "children": [
+      {
+        "name": "Records Management - General", 
+        "children": [
+          {
+            "name": "COM601", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR107", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR275", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.002480227
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 6.03845e-05
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 1.41921e-06
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 4.66425e-05
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM542", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 3.5878800000000003e-06
+              }
+            ]
+          }, 
+          {
+            "name": "COM543", 
+            "children": [
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up", 
+        "children": [
+          {
+            "name": "COM244", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE337", 
+            "children": [
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETE338", 
+            "children": [
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "name": "Speaking up, Reporting & Investigations - General", 
+        "children": [
+          {
+            "name": "COM242", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000288572
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Speaking up, HOW - General", 
+        "children": [
+          {
+            "name": "ETE340", 
+            "children": [
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading", 
+    "children": [
+      {
+        "name": "Insider Trading", 
+        "children": [
+          {
+            "name": "CMP002", 
+            "children": [
+              {
+                "name": "Belden Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CMP105", 
+            "children": [
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.00630868
+              }
+            ]
+          }, 
+          {
+            "name": "CMP222", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Albany International Corp.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.00048579900000000003
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.001261771
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0051453770000000005
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.004765258
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 1.85114e-06
+              }
+            ]
+          }, 
+          {
+            "name": "CMP301", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Corporate Governance - General, Financial Compliance", 
+        "children": [
+          {
+            "name": "BAF225", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "BAF230", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General", 
+        "children": [
+          {
+            "name": "CGV400", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.00017456200000000001
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.00014494
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 6.458189999999999e-05
+              }
+            ]
+          }, 
+          {
+            "name": "CGV401", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CGV402", 
+            "children": [
+              {
+                "name": "Albany International Corp.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Corporate Governance, Reporting & Investigations, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Reporting & Investigations - General, Corporate Governance - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM440", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.000125363
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.006797861
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, Government Contracting & Relationships", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, Lobbying", 
+        "children": [
+          {
+            "name": "COM215", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 3.7372399999999995e-05
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Securities & Insider Trading, HOW", 
+    "children": [
+      {
+        "name": "Securities & Insider Trading - General, HOW - General", 
+        "children": [
+          {
+            "name": "COM226", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security", 
+        "children": [
+          {
+            "name": "COM207", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM208", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Holden Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM212", 
+            "children": [
+              {
+                "name": "Albany International Corp.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM213", 
+            "children": [
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Media, Privacy & Data Protection, HOW", 
+    "children": [
+      {
+        "name": "Social Media - General, Information Security, Respectful Communication", 
+        "children": [
+          {
+            "name": "COM207Af", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Supply Chain", 
+    "children": [
+      {
+        "name": "Child/Forced Labor, Human Rights", 
+        "children": [
+          {
+            "name": "CSR201", 
+            "children": [
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Supply Chain, CSR", 
+    "children": [
+      {
+        "name": "Supply Chain - General, Environmental", 
+        "children": [
+          {
+            "name": "SCM100", 
+            "children": [
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Trade Controls", 
+    "children": [
+      {
+        "name": "Trade Controls - General", 
+        "children": [
+          {
+            "name": "DBA206", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 2.3653400000000003e-05
+              }, 
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.006251483
+              }, 
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 4.19621e-05
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }, 
+              {
+                "name": "SPX Corporation", 
+                "size": 1.19596e-06
+              }
+            ]
+          }, 
+          {
+            "name": "DBA211", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.000599751
+              }
+            ]
+          }, 
+          {
+            "name": "DBA220", 
+            "children": [
+              {
+                "name": "Danaher Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA221", 
+            "children": [
+              {
+                "name": "Illinois Tool Works, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA230", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 2.27073e-05
+              }, 
+              {
+                "name": "Franklin Electric Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA250", 
+            "children": [
+              {
+                "name": "Apex Tool Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Tekni-Plex, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "DBA255", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "(blank)", 
+    "children": [
+      {
+        "name": "(blank)", 
+        "children": [
+          {
+            "name": "AST933", 
+            "children": [
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER001", 
+            "children": [
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER002", 
+            "children": [
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER003", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER004", 
+            "children": [
+              {
+                "name": "Ingersoll Rand", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "CER006", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Jarden Corporation", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM225", 
+            "children": [
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "COM412", 
+            "children": [
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ETH555", 
+            "children": [
+              {
+                "name": "Deere & Company", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR276", 
+            "children": [
+              {
+                "name": "A.M. Castle and Co.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR714", 
+            "children": [
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR717", 
+            "children": [
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR717B", 
+            "children": [
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR717C", 
+            "children": [
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "HUR723", 
+            "children": [
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "INT500", 
+            "children": [
+              {
+                "name": "NSG Group", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Vita Industrial", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "LRN-k02", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS2-00111", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS2-00112", 
+            "children": [
+              {
+                "name": "Bridgestone Americas Holdings, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00204", 
+            "children": [
+              {
+                "name": "International Truck And Engine Corp [Navistar]", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00205", 
+            "children": [
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00224", 
+            "children": [
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00228", 
+            "children": [
+              {
+                "name": "Elkay Manufacturing", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00229", 
+            "children": [
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00238", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00246", 
+            "children": [
+              {
+                "name": "Shaw Industries", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00248", 
+            "children": [
+              {
+                "name": "Enpro Industries, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00277", 
+            "children": [
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }, 
+              {
+                "name": "Snap-On Incorporated", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00370", 
+            "children": [
+              {
+                "name": "Apogee Enterprises, Inc.", 
+                "size": 0.0
+              }, 
+              {
+                "name": "PW Power Systems ", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "PS3-00403", 
+            "children": [
+              {
+                "name": "Elkay Manufacturing", 
+                "size": 0.0
+              }
+            ]
+          }, 
+          {
+            "name": "ZZZ017", 
+            "children": [
+              {
+                "name": "Glatfelter", 
+                "size": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]}
