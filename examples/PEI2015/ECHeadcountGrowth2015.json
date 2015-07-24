@@ -1,0 +1,49 @@
+{"name": "E&C Head Count Projection", "children":[
+  {
+    "name": "Increase", 
+    "children": [
+      {
+        "name": "1 employee",
+        "size": 22
+      },
+      {
+        "name": "2 - 5 employees",
+        "size": 27
+      },
+      {
+        "name": "6 - 9 employees",
+        "size": 3
+      },
+      {
+        "name": "10+ employees",
+        "size": 4
+      }
+    ]
+  },
+  {
+    "name": "Remain unchanged", 
+    "size": 181
+  },
+  {
+    "name": "Decrease",  
+    "children": [
+      {
+        "name": "1 employee",
+        "size": 2
+      },
+      {
+        "name": "2 - 5 employees",
+        "size": 2
+      },
+      {
+        "name": "6 - 9 employees",
+        "size": 1
+      },
+      {
+        "name": "10+ employees",
+        "size": 2
+      }
+    ]
+  }
+]
+} 
