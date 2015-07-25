@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Venn Example</title>
+<style>
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+}
+</style>
+</head>
+
+<body>
+    <div id="venn"></div>
+</body>
+
+<style>
+.venntooltip {
+  position: absolute;
+  text-align: center;
+  //width: 256px;
+  //height: 50px;
+  background: #333;
+  color: #ddd;
+  padding: 2px;
+  border: 0px;
+  border-radius: 8px;
+  opacity: 0;
+  font-size: 12px;
+}
+</style>
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/colorbrewer.v1.min.js"></script>
+<script src="/examples/VennRegionCombinations/venn.js"></script>
+<script src="/examples/VennRegionCombinations/ECFundPE2015_RegionCombinationsLabel2.jsonp"></script>
+<script>
+
+var chart = venn.VennDiagram()
+                 .width(960)
+                 .height(600);
+
+var div = d3.select("#venn")
+div.datum(sets).call(chart);
+console.log(sets);
+var tooltip = d3.select("body").append("div")
+    .attr("class", "venntooltip");
+
+div.selectAll("path")
+    .style("stroke-opacity", 0)
+    .style("stroke", "#fff")
+    .style("stroke-width", 0)
+
+div.selectAll("g")
+    .on("mouseover", function(d, i) {
+        // sort all the areas relative to the current item
+        venn.sortAreas(div, d);
+
+        // Display a tooltip with the current size
+        tooltip.transition().duration(400).style("opacity", .9);
+        tooltip.text(d.label + ": " + d.size + " responses, Avg EC Fund/Employee $" + d.value);
+
+        // highlight the current path
+        var selection = d3.select(this).transition("tooltip").duration(400);
+        selection.select("path")
+            .style("stroke-width", 3)
+            .style("fill-opacity", d.sets.length == 1 ? .4 : .1)
+            .style("stroke-opacity", 1);
+    })
+
+    .on("mousemove", function() {
+        tooltip.style("left", (d3.event.pageX) + "px")
+               .style("top", (d3.event.pageY - 28) + "px");
+    })
+
+    .on("mouseout", function(d, i) {
+        //d3.select("tooltip").remove(); 
+        tooltip.transition().duration(400).style("opacity", 0);
+        var selection = d3.select(this).transition("tooltip").duration(400);
+        selection.select("path")
+            .style("stroke-width", 0)
+            .style("fill-opacity", d.sets.length == 1 ? .25 : .0)
+            .style("stroke-opacity", 0);
+        //d3.select("tooltip").remove(); 
+        //d3.selectAll(".venntooltip").remove();
+        //return tooltip.style("opacity", 0);
+    });
+</script>
+</html>
