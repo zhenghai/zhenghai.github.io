@@ -1,0 +1,91 @@
+<html>
+  <head>
+    <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <script type='text/javascript' src='http://code.jquery.com/jquery-1.10.1.min.js'></script>
+    <script type='text/javascript' src='jquery.csv-0.71.js'></script>
+    <script type='text/javascript'>
+
+     google.load('visualization', '1', {'packages': ['geochart']});
+     google.setOnLoadCallback(drawRegionsMap);
+
+     function drawRegionsMap() {
+
+        // grab the CSV
+        $.get("speakUp.csv", function(csvString) {
+        //$.get("kzn1993.csv", function(csvString) {
+
+        // transform the CSV string into a 2-dimensional array
+        var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
+        //var arrayData = $.csv.toArrays(csvString);
+        console.log(arrayData);
+        // this new DataTable object holds all the data
+        var data = new google.visualization.arrayToDataTable(arrayData);
+
+
+        var options = {
+          //region: 'CN',
+          //resolution: 'provinces',
+          displayMode: 'markers',
+          //backgroundColor: 'black',
+<html>
+  <head>
+    <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <script type='text/javascript' src='http://code.jquery.com/jquery-1.10.1.min.js'></script>
+    <script type='text/javascript' src='jquery.csv-0.71.js'></script>
+    <script type='text/javascript'>
+
+     google.load('visualization', '1', {'packages': ['geochart']});
+     google.setOnLoadCallback(drawRegionsMap);
+
+     function drawRegionsMap() {
+
+        // grab the CSV
+        $.get("speakUp.csv", function(csvString) {
+        //$.get("kzn1993.csv", function(csvString) {
+
+        // transform the CSV string into a 2-dimensional array
+        var arrayData = $.csv.toArrays(csvString, {onParseValue: $.csv.hooks.castToScalar});
+        //var arrayData = $.csv.toArrays(csvString);
+        console.log(arrayData);
+        // this new DataTable object holds all the data
+        var data = new google.visualization.arrayToDataTable(arrayData);
+
+
+        var options = {
+          //region: 'CN',
+          //resolution: 'provinces',
+          displayMode: 'markers',
+          //backgroundColor: 'black',
+          datalessRegionColor: 'LightCyan',
+          magnifyingGlass:{enable: true, zoomFactor: 7.5},
+          //sizeAxis: {minValue: 6.5, maxValue: 13},
+          sizeAxis: {minSize: 5, maxSize: 15},
+          //colorAxis: {colors: ['SlateGray', 'LightGray', 'red'], minValue: -10, maxValue: 0.12},
+          //colorAxis: {colors: ['SlateGray', 'LightGray', 'red'], minValue: 1, maxValue: 3},
+          colorAxis: {colors: ['red', 'LightGray', 'navy'], minValue: 1, maxValue: 3},
+          //colorAxis: {colors: ['blue', 'yellow', 'green'], minValue: 10.16, maxValue: 15.00},
+          //colorAxis: {colors: ['blue', 'yellow', 'green'], minValue: 3, maxValue: 4},
+          //colorAxis: {colors: ['SlateGray', 'LightGray', 'red']},
+          tooltip: {textStyle: {fontName: 'helvetica'}},
+          legend: {textStyle: {color: 'black', bold: 'true', fontSize: 16, fontName: 'helvetica'}}
+          //legend: 'none'
+        };
+     
+        var chart = new google.visualization.GeoChart(document.getElementById('SU'));
+        google.visualization.events.addListener(chart, 'ready', function () {
+          //chart_div.innerHTML = '<img src="' + chart.getImageURI() + '">';
+          //console.log(chart_div.innerHTML);
+          document.getElementById('png').outerHTML = '<a href="' + chart.getImageURI() + '">Printable version</a>';
+        });
+        
+        chart.draw(data, options);
+    });
+}
+    </script>
+  </head>
+  <!--body bgcolor="black", style="font-family: helvetica; color: white"-->
+  <body style="font-family: helvetica; color: white">
+    <div id="SU" style="width: 1350px; height: 750px;"></div>
+    <div id='png'></div>
+  </body>
+</html>
