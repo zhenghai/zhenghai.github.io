@@ -107,6 +107,10 @@ var arc = d3.svg.arc()
     var name = d.name;
         return name + "</n> (" + formatPercent(d.value/root.value) + ")";
   }
+  function format_name2(d) {
+    var name = d.name;
+        return name + " (" + formatPercent(d.value/root.value) + ")";
+  }
 
   var path = g.append("path")
     .attr("d", arc)
@@ -136,7 +140,8 @@ var arc = d3.svg.arc()
     .attr("dy", ".35em") // vertical-align
     .attr("font-family", "Helvetica Neue, Helvetica, Arial, sans-serif")
     //.text(function(d) { return d.name; });
-    .html(function(d) { var name = format_name1(d); console.log(name); return name; });
+    //.html(function(d) { var name = format_name1(d); console.log(name); return name; }); //does not work for Safari
+    .text(function(d) { var name = format_name2(d); console.log(name); return name; });
 
 
   function click(d) {
