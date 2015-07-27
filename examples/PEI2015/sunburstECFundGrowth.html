@@ -156,7 +156,8 @@ var arc = d3.svg.arc()
             arcText.transition().duration(750)
               .attr("opacity", 1)
               .attr("transform", function() { return "rotate(" + computeTextRotation(e) + ")" })
-              .attr("x", function(d) { var xatt = y(d.y); return Math.abs(xatt) <= radius ? xatt: Math.sign(xatt)*radius; });
+              //.attr("x", function(d) { var xatt = y(d.y); return Math.abs(xatt) <= radius ? xatt: Math.sign(xatt)*radius; });
+              .attr("x", function(d) { var xatt = y(d.y); return Math.abs(xatt) <= radius ? xatt: sign(xatt)*radius; });
           }
       });
   }
